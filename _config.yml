@@ -83,9 +83,9 @@ author:
   name             : "Yuexin Xiang"
   avatar           : "profile.png"
   bio              : "Master student at School of Computer Science, China University of Geosciences. Reseach interests are blockchain, AI security and data mining."
-  location         : "Wuhan, China"
+  location         : "China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8oDgOMgAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     : https://www.researchgate.net/profile/Yuexin-Xiang
