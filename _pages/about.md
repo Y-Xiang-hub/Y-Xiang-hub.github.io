@@ -20,6 +20,6 @@ Education
 
 Collaborators
 ======
-[<u>Tiantian Li</u>](https://scholar.google.com/citations?user=WgIgW_0AAAAJ&hl=en), Master Student, University of Melbourne
-[<u>Linchuan Xiang</u>](https://scholar.google.com/citations?user=WgIgW_0AAAAJ&hl=en), Professor, Huazhong University of Science and Technology
+* [<u>Tiantian Li</u>](https://scholar.google.com/citations?user=WgIgW_0AAAAJ&hl=en), Master Student, University of Melbourne
+* [<u>Linchuan Xiang</u>](https://scholar.google.com/citations?user=WgIgW_0AAAAJ&hl=en), Professor, Huazhong University of Science and Technology
 
