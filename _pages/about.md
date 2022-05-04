@@ -10,8 +10,10 @@ redirect_from:
 
 This is the Me
 
-A data-driven personal website
+Education
 ------
+M.E. in Information Security, School of Computer Science, China University of Geosciences, 2020 - present
+B.E. in Information Security, School of Computer Science, China of Geosciences, 2016 - 2020
 
 Getting started
 ------
