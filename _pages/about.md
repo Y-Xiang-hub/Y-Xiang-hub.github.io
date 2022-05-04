@@ -12,28 +12,13 @@ This is the Me
 
 Education
 ======
-* M.E. in Information Security, **China University of Geosciences**, 2020 - 2023 (expected)
-  *   School of Computer Science, *GPA: 90.8/100*
+* M.E. in Information Security, **[China University of Geosciences](https://en.cug.edu.cn/)**, 2020 - 2023 (expected)
+  *   [School of Computer Science](https://en.cs.cug.edu.cn/), *GPA: 90.8/100*
 * B.E. in Information Security, , **China University of Geosciences**, 2016 - 2020
   *   School of Computer Science, *GPA: 85.9/100*
 
 
-
-
-Site-wide configuration
-------
-
-
-Create content & metadata
-------
-
-
-**Markdown generator**
-
-
-How to edit your site's GitHub repository
-------
-
-
-For more info
+Collaborators
+======
+[<u>Tiantian Li</u>](https://scholar.google.com/citations?user=WgIgW_0AAAAJ&hl=en), Master Student, University of Melbourne
 
