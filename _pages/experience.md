@@ -30,7 +30,7 @@ Project
 
 * **Research on Deep Learning Adversarial Example Generation Method** (*Major Contributor*)
   * A method is proposed to efficiently generate adversarial examples by adjusting the strength and number of embedded digital watermarks.
-  * The proposed method achieves a success rate of more than 90\% and up to 98.07\% on the CIFAR-10 dataset against DenseNet121, GoogLeNet, MobileNets, ResNet18, ResNet50 VGG16 and VGG19.
+  * The proposed method achieves a success rate of more than 90% and up to 98.07% on the CIFAR-10 dataset against DenseNet121, GoogLeNet, MobileNets, ResNet18, ResNet50 VGG16 and VGG19.
   * An adversarial example generation system based on digital watermarking is implemented using MATLAB and Python.
 
 * **Research on Privacy Preservation of Deep Learning** (*Major Contributor*)
