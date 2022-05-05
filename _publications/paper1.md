@@ -1,5 +1,5 @@
 ---
-title: "A multi-type and decentralized data transaction scheme based on smart contracts and digital watermarks"
+title: "A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks"
 collection: publications
 permalink: /publication/paper1
 excerpt: '**<u>Yuexin Xiang</u>**, Wei Ren, Tiantian Li, Xianghan Zheng, Tianqing Zhu, and Kim-Kwang Raymond Choo'
