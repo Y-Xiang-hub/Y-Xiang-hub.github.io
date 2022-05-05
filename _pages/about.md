@@ -12,7 +12,7 @@ This is the Me
 
 Education
 ======
-* <font size=5>M.E. in Information Security, **[China University of Geosciences](https://en.cug.edu.cn/)**, 2020 - 2023 (expected)</font>
+* M.E. in Information Security, **[China University of Geosciences](https://en.cug.edu.cn/)**, 2020 - 2023 (expected)
   *   [School of Computer Science](https://en.cs.cug.edu.cn/)
   *   *GPA: 90.8/100*
 * B.E. in Information Security, , **China University of Geosciences**, 2016 - 2020
