@@ -2,7 +2,7 @@
 title: "A Lightweight Privacy-Preserving Scheme Using Label-based Pixel Block Mixing for Image Classification in Deep Learning"
 collection: publications
 permalink: /publication/preprint2
-excerpt: '**<u>Yuexin Xiang</u>**, Tiantian Li, Wei Ren, Tianqing Zhu, Kim-Kwang Raymond Choo'
+excerpt: '**<u>Yuexin Xiang</u>**, Tiantian Li, Wei Ren, Tianqing Zhu, and Kim-Kwang Raymond Choo'
 date: 2021-05-19
 venue: 'arXiv'
 
