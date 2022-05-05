@@ -9,51 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Competition
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Meritorious Winner of Mathematical Contest in Modeling (MCM), Apr. 2019 [link](https://www.comap-math.com/mcm/2019Certs/1903649.pdf)
+  * Issued by Consortium for Mathematics and Its Applications (COMAP)
+  * Top 8% of 14,108 teams
+  * Our team proposed a disaster response system model - DroneGo, which is an emergency response scheme proposed for hurricane damage in Puerto Rico and can be used for other types of disaster response in Puerto Rico. Specifically, there are three essential models proposed in the paper that are the "rescue position selection model", the "medical supplies and drones bin-packing model" and the "UAV route detection model" respectively
+* Provincial First Prize of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), Dec. 2018
+  * Issued by China Society for Industrial and Applied Mathematics
+  * Top 8% of 42,128 teams from 1,449 colleges and universities
+  * Our team proposed a dynamic scheduling strategy of the intelligent Rail Guided Vehicle (RGV) based on multi-strategy optimization. Specifically, for the specific application scenarios and specific problems of RGV, we propose an efficient dynamic scheduling strategy, which mainly includes two parts called the "state machine model" and the "strategy model". In addition, the proposed scheme has good portability to other similar scenarios
 
-Work experience
+Scholarship
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* China National Scholarship, Dec. 2021
+  * Issued by Ministry of Education of the People's Republic of China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Excellent Student Scholarship, Dec. 2018
+  * Issued by China University of Geosciences
+ 
