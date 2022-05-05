@@ -10,7 +10,7 @@ venue: 'arXiv'
 
 Revising.
 
-# [Preprint](https://arxiv.org/abs/2105.08876)
+[[Preprint](https://arxiv.org/abs/2105.08876)]
 
 
 
