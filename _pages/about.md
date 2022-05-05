@@ -24,6 +24,6 @@ Collaborators
 ======
 * [Tiantian Li](https://scholar.google.com/citations?user=WgIgW_0AAAAJ&hl=en), Master Student, University of Melbourne
 * Wenxuan Wang, PhD Student, Peking University
-* [Linchuan Xiang](https://oversea.cnki.net/kcms/detail/knetsearch.aspx?dbcode=CJFD&code=000020252585&sfield=au&skey=XIANG+Linchuan&uniplatform=OVERSEAS_EN), Professor, Huazhong University of Science and Technology
+* Linchuan Xiang, Professor, Huazhong University of Science and Technology
 
 
