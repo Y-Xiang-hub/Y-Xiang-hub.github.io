@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper1
 excerpt: '**<u>Yuexin Xiang</u>**, Wei Ren, Tiantian Li, Xianghan Zheng, Tianqing Zhu, and Kim-Kwang Raymond Choo'
 date: 2021-02-15
-venue: 'Journal of Network and Computer Applications, Volume 176, 15 February'
+venue: 'Journal of Network and Computer Applications'
 
 ---
 
