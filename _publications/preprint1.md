@@ -2,7 +2,7 @@
 title: "BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis"
 collection: publications
 permalink: /publication/preprint1
-excerpt: '**<u>Yuexin Xiang</u>**, Yuchen Lei, Ding Bao, Wei Ren, Tiantian Li, Qingqing Yang, Wenmao Liu, Tianqing Zhu, Kim-Kwang Raymond Choo'
+excerpt: '**<u>Yuexin Xiang</u>**, Yuchen Lei, Ding Bao, Wei Ren, Tiantian Li, Qingqing Yang, Wenmao Liu, Tianqing Zhu, and Kim-Kwang Raymond Choo'
 date: 2022-05-06
 venue: 'arXiv'
 
