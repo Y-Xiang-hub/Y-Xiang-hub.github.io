@@ -1,5 +1,5 @@
 ---
-title: "FAPS: A fair, autonomous and privacy-preserving scheme for big data exchange based on oblivious transfer, Ether cheque and smart contracts"
+title: "FAPS: A Fair, Autonomous and Privacy-preserving Scheme for Big Data Exchange Based on Oblivious Transfer, Ether Cheque and Smart Contracts"
 collection: publications
 permalink: /publication/paper2
 excerpt: 'Tiantian Li, Wei Ren, **<u>Yuexin Xiang</u>**, Xianghan Zheng, Tianqing Zhu, and Kim-Kwang Raymond Choo'
