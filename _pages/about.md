@@ -14,10 +14,10 @@ Education
 ======
 * M.E. in Information Security, **[China University of Geosciences](https://en.cug.edu.cn/)**, 2020 - 2023 (expected)
   *   [School of Computer Science](https://en.cs.cug.edu.cn/)
-  *   *GPA: 90.8/100*
+  *   <u>GPA: 90.8/100</u>
 * B.E. in Information Security, , **China University of Geosciences**, 2016 - 2020
   *   School of Computer Science
-  *   *GPA: 85.9/100*
+  *   <u>GPA: 85.9/100</u>
 
 
 Collaborators
