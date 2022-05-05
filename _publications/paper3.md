@@ -1,5 +1,5 @@
 ---
-title: "CVT: A Crowdsourcing Video Transcoding Scheme Based on Blockchain Smart Contracts"
+title: "CVT: A crowdsourcing video transcoding scheme based on blockchain smart contracts"
 collection: publications
 permalink: /publication/paper3
 excerpt: 'Yuling Chen, Hongyan Yin, **<u>Yuexin Xiang</u>**, Wei Ren, Yi Ren, and Neal Naixue Xiong'
