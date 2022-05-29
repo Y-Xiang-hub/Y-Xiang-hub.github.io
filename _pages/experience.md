@@ -13,37 +13,31 @@ Project
 ======
 
 * **Research on Big Data Fair Transaction** (*Major Contributor*)
-  * A decentralized copyright protection scheme for big data transactions based on smart contracts and digital watermarking is proposed to achieve fair big data transactions in a centralized environment, while protecting the copyright of the data being traded.
-  * A smart contract for decentralized big data transactions with five algorithmic modules (transaction execution module, transaction verification module, transaction reporting module, watermark verification module and watermark reporting module) is implemented in Solidity on Ethereum with cryptographic approaches.
-  * Using digital watermarking technology combined with smart contracts designed to prevent unauthorized data resale, including resale of partial data, resale of combined data and data leakage, to protect data copyright.
+  * We propose a flexible scheme for data copyright protection in data sharing by using watermark-based policies, e.g., minimizing the risk of re-selling of partial, combined, and/or leaked data.
+  * We propose dedicated algorithms and protocols for automatically guaranteeing data sharing fairness and pro-actively protecting data copyright in data transactions by using smart contracts.
 
 * **Research on Privacy Preservation of Big Data Transaction** (*Major Contributor*)
-  * A decentralized privacy preservation scheme for big data transactions based on oblivious transfer protocol and smart contracts is proposed, which achieves the preservation of user privacy in big data transactions in a decentralized environment.
-  * The fairness, autonomy and time control of big data transactions are implemented with Solodity in combination with the oblivious transfer protocol on Ethereum.
-  * The oblivious transfer protocol preserves the privacy of both sides of the transaction by chunking the big data in a decentralized environment, i.e., the buyer cannot know all the data owned by the seller, and the seller cannot know what data the buyer has purchased.
+  * Our smart contract-based data trading scheme, buyers and sellers can fairly and autonomously complete transaction(s)
+without involving any third-party entity. In addition, we use time limits to realize trading timing control.
+  * We apply m-out-of-n oblivious transfer protocol on the transactions to achieve enhanced privacy and security.
+  * We propose a novel Ether cheque system to achieve fairness and autonomy, which is also more user-friendly
 
 * **Research on Crowdsourcing Mechanism Based on Smart Contract** (*Major Contributor*)
-  * A smart contract-based video transcoding crowdsourcing solution is proposed to achieve decentralized video transcoding and on-demand crowdsourcing, significantly reducing the video transcoding overhead.
-  * Using Solidity to implement a smart contract on Ethereum with both bidding and task execution parts, and a private chain is built locally to test the designed smart contract.
-  * The task allocation and payment mechanisms are designed to ensure the interests of both parties and encourage their participation in crowdsourcing.
-  * The solution is suitable for most crowdsourcing scenarios of multimedia file processing (e.g. audio, etc.) with strong portability.
+  * We propose four essential components for achieving crowdsourcing video transcoding tasks, including the employer, the worker, the task allocation mechanism, and the payment mechanism.
+  * We design a kind of smart contract combined with our proposed four components that can realize the bidding function and task execution function at the same time during the crowdsourcing video transcoding process.
 
 * **Research on Deep Learning Adversarial Example Generation Method** (*Major Contributor*)
-  * A method is proposed to efficiently generate adversarial examples by adjusting the strength and number of embedded digital watermarks.
-  * The proposed method achieves a success rate of more than 90% and up to 98.07% on the CIFAR-10 dataset against DenseNet121, GoogLeNet, MobileNets, ResNet18, ResNet50 VGG16 and VGG19.
-  * An adversarial example generation system based on digital watermarking is implemented using MATLAB and Python.
+  * Pending
 
 * **Research on Privacy Preservation of Deep Learning** (*Major Contributor*)
-  * A pixel block blending algorithm is proposed for privacy preserving the training set images (especially face images) during the training process while maintaining the usability of the training set.
-  * ResNet101, InceptionV3, DenseNet121, and EfficientNetB0 models are implemented with TensorFlow's Keras API to test the training dataset with different privacy protection levels, and it is found that the trained models can still maintain some usability while preserving the image privacy.
+  * We propose a novel approach based on the pixel block mixing algorithm to prevent image data privacy leakage in deep learning training. 
+  * We then evaluate the effectiveness of our scheme by comparing the training results from the original training set and the mixed training set from the same dataset with the same deep learning model structures and parameters. 
+  * We also apply data augmentation to the mixed training set, transformed by the pixel block mixing algorithm, to improve the training effect for the deep learning models.
 
 * **Research on Pattern Recognition of Bitcoin Abnormal Addresses** (*Team Leader & Major Contributor*)
-  * Constructing a dataset containing bitcoin transactions for the period July 12, 2019 to May 26, 2021, which contains 13 bitcoin addresses with 148 features and 544,462 addresses.
-  * Proposing 132 statistical features and 16 structural features that need to be extracted from the Bitcoin transaction graph.
-  * Building an algorithm for bitcoin transaction graph generation in Python using NetworkX. The generated graph type is directed multiple heterogeneous graph in order to reduce the information loss during graph construction.
-  * Building a crawler in selenium to crawl a large amount of bitcoin ledger data without interruption, and designed the visualization interface.
-  * Experiment with machine learning models in scikit-learn to classify the constructed dataset with anomalous nodes, and the classification accuracy reaches 93.24% to 97.13% on K-nearest neighbor, decision tree, random forest, multi-layer perceptron, and XGBoost.
-  * The feature importance is analyzed using scikit-learn and the data distribution of specific features was studied and analyzed using visualization tools.
+  * We present a general framework that can be used to build a Bitcoin transaction graph by the directed heterogeneous multigraph and analyze address nodes from the graph. We then collect and compile Bitcoin transactions that occur between 12 July 2019 and 26 May 2021 into a dataset (hereafter referred to as BABD-13), which can be found on Kaggle. The latter has 13 types of Bitcoin addresses, 544,462 labeled data, and 5 categories of indicators with 148 features. 
+  * We then use BABD-13 as the baseline dataset to evaluate common machine learning models (i.e., k-nearest neighbors algorithm, decision tree, random forest, multilayer perceptron, and XGBoost). Findings from the evaluations suggest that the accuracy obtained ranges between 93.24% and 97.13%. 
+  * To extract the structural features, we also propose a novel method to generate k-hop subgraph for an address node from the entire Bitcoin transaction graph built by the directed heterogeneous multigraph. Finally, we simply summarize the several behavior patterns of different Bitcoin addresses according to the experimental results as the basis of future work.
 
 
 Intership
