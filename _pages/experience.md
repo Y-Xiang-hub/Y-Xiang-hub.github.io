@@ -39,6 +39,12 @@ without involving any third-party entity. In addition, we use time limits to rea
   * We then use BABD-13 as the baseline dataset to evaluate common machine learning models (i.e., k-nearest neighbors algorithm, decision tree, random forest, multilayer perceptron, and XGBoost). Findings from the evaluations suggest that the accuracy obtained ranges between 93.24% and 97.13%. 
   * To extract the structural features, we also propose a novel method to generate k-hop subgraph for an address node from the entire Bitcoin transaction graph built by the directed heterogeneous multigraph. Finally, we simply summarize the several behavior patterns of different Bitcoin addresses according to the experimental results as the basis of future work.
 
+Supervision
+======
+
+* Student Wenwen Zheng, Undergraduate Thesis - **A Graph Neural Network-based Method for Analyzing Abnormal Behavior of Bitcoin Addresses** 
+* Student Shiyuan Feng, Undergraduate Thesis - **A Machine Learning and Motivation Analysis Based Approach to Analyze the Anomalous Behavior of Bitcoin Addresses** 
+
 
 Intership
 ======
