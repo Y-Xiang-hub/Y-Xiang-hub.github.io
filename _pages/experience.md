@@ -42,8 +42,8 @@ without involving any third-party entity. In addition, we use time limits to rea
 Supervision
 ======
 
-* Student Wenwen Zheng, China University of Geosciences, Undergraduate Thesis - **A Graph Neural Network-based Method for Analyzing Abnormal Behaviors of Bitcoin Addresses** 
-* Student Shiyuan Feng, China University of Geosciences, Undergraduate Thesis - **A Machine Learning and Motivation Analysis Based Approach to Analyze the Abnormal Behaviors of Bitcoin Addresses** 
+* Student Wenwen Zheng, China University of Geosciences, *Undergraduate Thesis* - **A Graph Neural Network-based Method for Analyzing Abnormal Behaviors of Bitcoin Addresses** 
+* Student Shiyuan Feng, China University of Geosciences, *Undergraduate Thesis* - **A Machine Learning and Motivation Analysis Based Approach to Analyze the Abnormal Behaviors of Bitcoin Addresses** 
 
 
 Intership
