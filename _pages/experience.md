@@ -12,27 +12,29 @@ redirect_from:
 Project
 ======
 
-* **Research on Pattern Recognition of Bitcoin Abnormal Addresses** (*Team Leader & Major Contributor*)
-  * We present a general framework that can be used to build a Bitcoin transaction graph by the directed heterogeneous multigraph and analyze address nodes from the graph. We then collect and compile Bitcoin transactions that occur between 12 July 2019 and 26 May 2021 into a dataset (hereafter referred to as BABD-13), which can be found on Kaggle. The latter has 13 types of Bitcoin addresses, 544,462 labeled data, and 5 categories of indicators with 148 features. 
-  * We then use BABD-13 as the baseline dataset to evaluate common machine learning models (i.e., k-nearest neighbors algorithm, decision tree, random forest, multilayer perceptron, and XGBoost). Findings from the evaluations suggest that the accuracy obtained ranges between 93.24% and 97.13%. 
-  * To extract the structural features, we also propose a novel method to generate k-hop subgraph for an address node from the entire Bitcoin transaction graph built by the directed heterogeneous multigraph. Finally, we simply summarize the several behavior patterns of different Bitcoin addresses according to the experimental results as the basis of future work.
+* **Research on Illicit Bitcoin Addresses** (*Team Leader & Major Contributor*)
+  * *BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis*:
+    * We present a general framework that can be used to build a Bitcoin transaction graph by the directed heterogeneous multigraph and analyze address nodes from the graph. We then collect and compile Bitcoin transactions that occur between 12 July 2019 and 26 May 2021 into a dataset (hereafter referred to as BABD-13), which can be found on Kaggle. The latter has 13 types of Bitcoin addresses, 544,462 labeled data, and 5 categories of indicators with 148 features. 
+    * We then use BABD-13 as the baseline dataset to evaluate common machine learning models (i.e., k-nearest neighbors algorithm, decision tree, random forest, multilayer perceptron, and XGBoost). Findings from the evaluations suggest that the accuracy obtained ranges between 93.24% and 97.13%. 
+    * To extract the structural features, we also propose a novel method to generate k-hop subgraph for an address node from the entire Bitcoin transaction graph built by the directed heterogeneous multigraph. Finally, we simply summarize the several behavior patterns of different Bitcoin addresses according to the experimental results as the basis of future work.
+  * *An Illicit Bitcoin Address Analysis Scheme Based on Subgraph Evolution*:
+    * Pending.
+  * *BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs*:
+    * Pending.
 
-* **Research on Privacy Preservation of Deep Learning** (*Major Contributor*)
-  * We propose a novel approach based on the pixel block mixing algorithm to prevent image data privacy leakage in deep learning training. 
-  * We then evaluate the effectiveness of our scheme by comparing the training results from the original training set and the mixed training set from the same dataset with the same deep learning model structures and parameters. 
-  * We also apply data augmentation to the mixed training set, transformed by the pixel block mixing algorithm, to improve the training effect for the deep learning models.
 
-* **Research on Deep Learning Adversarial Example Generation Method** (*Major Contributor*)
-  * Pending
+* **Research on Deep Learning Security and Privacy Preservation** (*Major Contributor*)
+  * *A Lightweight Privacy-Preserving Scheme Using Label-based Pixel Block Mixing for Image Classification in Deep Learning*:
+    * We propose a novel approach based on the pixel block mixing algorithm to prevent image data privacy leakage in deep learning training. 
+    * We then evaluate the effectiveness of our scheme by comparing the training results from the original training set and the mixed training set from the same dataset with the same deep learning model structures and parameters. 
+    * We also apply data augmentation to the mixed training set, transformed by the pixel block mixing algorithm, to improve the training effect for the deep learning models.
+  * Efficiently Constructing Adversarial Examples by Feature Watermarking
+    * Pending. 
 
 * **Research on Crowdsourcing Mechanism Based on Smart Contract** (*Major Contributor*)
-  * We propose four essential components for achieving crowdsourcing video transcoding tasks, including the employer, the worker, the task allocation mechanism, and the payment mechanism.
-  * We design a kind of smart contract combined with our proposed four components that can realize the bidding function and task execution function at the same time during the crowdsourcing video transcoding process.
-
-* **Research on Privacy Preservation of Big Data Transaction** (*Major Contributor*)
-  * 
-  * 
-  * 
+  * *CVT: A Crowdsourcing Video Transcoding Scheme Based on Blockchain Smart Contracts*:
+    * We propose four essential components for achieving crowdsourcing video transcoding tasks, including the employer, the worker, the task allocation mechanism, and the payment mechanism.
+    * We design a kind of smart contract combined with our proposed four components that can realize the bidding function and task execution function at the same time during the crowdsourcing video transcoding process.
 
 * **Research on Decentralized Big Data Transaction** (*Major Contributor*)
   * *A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks*:
