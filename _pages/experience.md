@@ -35,8 +35,9 @@ without involving any third-party entity. In addition, we use time limits to rea
   * We apply m-out-of-n oblivious transfer protocol on the transactions to achieve enhanced privacy and security.
   * We propose a novel Ether cheque system to achieve fairness and autonomy, which is also more user-friendly
 
-* **Research on Big Data Decentralized Transaction** (*Major Contributor*)
+* **Research on Decentralized Big Data Transaction** (*Major Contributor*)
   * We propose a flexible scheme for data copyright protection in data sharing by using watermark-based policies, e.g., minimizing the risk of re-selling of partial, combined, and/or leaked data.
+    *   12
   * We propose dedicated algorithms and protocols for automatically guaranteeing data sharing fairness and pro-actively protecting data copyright in data transactions by using smart contracts.
 
 
