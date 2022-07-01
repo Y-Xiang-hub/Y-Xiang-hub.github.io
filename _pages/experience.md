@@ -35,10 +35,10 @@ Project
   * 
 
 * **Research on Decentralized Big Data Transaction** (*Major Contributor*)
-  * *A multi-type and decentralized data transaction scheme based on smart contracts and digital watermarks*
+  * *A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks*:
     * We propose a flexible scheme for data copyright protection in data sharing by using watermark-based policies, e.g., minimizing the risk of re-selling of partial, combined, and/or leaked data.
     * We propose dedicated algorithms and protocols for automatically guaranteeing data sharing fairness and pro-actively protecting data copyright in data transactions by using smart contracts.
-  * 1
+  * *FAPS: A Fair, Autonomous and Privacy-Preserving Scheme for Big Data Exchange Based on Oblivious Transfer, Ether Cheque and Smart Contracts*:
     * Our smart contract-based data trading scheme, buyers and sellers can fairly and autonomously complete transaction(s) without involving any third-party entity. In addition, we use time limits to realize trading timing control.
     * We apply m-out-of-n oblivious transfer protocol on the transactions to achieve enhanced privacy and security.
     * We propose a novel Ether cheque system to achieve fairness and autonomy, which is also more user-friendly.
