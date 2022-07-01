@@ -43,10 +43,10 @@ without involving any third-party entity. In addition, we use time limits to rea
 Supervision
 ======
 
-* Wenwen Zheng, Undergraduate Student at China University of Geosciences, *Undergraduate Thesis* - **A Graph Neural Network-based Method for Analyzing Abnormal Behaviors of Bitcoin Addresses**, 2022
-* Shiyuan Feng, Undergraduate Student at China University of Geosciences, *Undergraduate Thesis* - **A Machine Learning- and Motivation-based Approach for Analyzing Abnormal Behaviors of Bitcoin Addresses**, 2022
+* Wenwen Zheng, Undergraduate Student at China University of Geosciences, *Undergraduate Thesis* - **A Graph Neural Network-based Method for Analyzing Abnormal Behaviors of Bitcoin Addresses**, 2022.
+* Shiyuan Feng, Undergraduate Student at China University of Geosciences, *Undergraduate Thesis* - **A Machine Learning- and Motivation-based Approach for Analyzing Abnormal Behaviors of Bitcoin Addresses**, 2022.
 * Qingqing Yang, Master Student at China University of Geosciences, *Paper* - **An Illicit Bitcoin Address Analysis Scheme Based on Subgraph Evolution
-**, submitted to TrustCom2022
+**, Submitted to TrustCom 2022.
 
 Intership
 ======
