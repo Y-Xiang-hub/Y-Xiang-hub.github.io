@@ -28,7 +28,7 @@ Project
     * We propose a novel approach based on the pixel block mixing algorithm to prevent image data privacy leakage in deep learning training. 
     * We then evaluate the effectiveness of our scheme by comparing the training results from the original training set and the mixed training set from the same dataset with the same deep learning model structures and parameters. 
     * We also apply data augmentation to the mixed training set, transformed by the pixel block mixing algorithm, to improve the training effect for the deep learning models.
-  * Efficiently Constructing Adversarial Examples by Feature Watermarking
+  * *Generating Image Adversarial Examples by Embedding Digital Watermarks*
     * Pending. 
 
 * **Research on Crowdsourcing Mechanism Based on Smart Contract** (*Major Contributor*)
@@ -51,8 +51,8 @@ Supervision
 
 * Wenwen Zheng, Undergraduate Student at China University of Geosciences, *Undergraduate Thesis* - **A Graph Neural Network-based Method for Analyzing Abnormal Behaviors of Bitcoin Addresses**, 2022.
 * Shiyuan Feng, Undergraduate Student at China University of Geosciences, *Undergraduate Thesis* - **A Machine Learning- and Motivation-based Approach for Analyzing Abnormal Behaviors of Bitcoin Addresses**, 2022.
-* Qingqing Yang, Master Student at China University of Geosciences, *Paper* - **An Illicit Bitcoin Address Analysis Scheme Based on Subgraph Evolution**, Submitted to TrustCom22.
-* Ding Bao, Master Student at China University of Geosciences, *Paper* - **BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs**, Submitted to JNCA.
+* Qingqing Yang, Master Student at China University of Geosciences, *Paper* - **An Illicit Bitcoin Address Analysis Scheme Based on Subgraph Evolution**, Submitted.
+* Ding Bao, Master Student at China University of Geosciences, *Paper* - **BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs**, Submitted.
 
 Intership
 ======
