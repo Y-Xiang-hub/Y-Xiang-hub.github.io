@@ -1,8 +1,8 @@
 ---
-title: "Efficiently Constructing Adversarial Examples by Feature Watermarking"
+title: "Generating Image Adversarial Examples by Embedding Digital Watermarks"
 collection: publications
 permalink: /publication/preprint3
-excerpt: '**<u>Yuexin Xiang</u>**, Wei Ren, Tiantian Li, Xianghan Zheng, Tianqing Zhu, and Kim-Kwang Raymond Choo'
+excerpt: '**<u>Yuexin Xiang</u>**, Tiantian Li, Wei Ren, Tianqing Zhu, and Kim-Kwang Raymond Choo'
 date: 2020-08-14
 venue: 'arXiv'
 
