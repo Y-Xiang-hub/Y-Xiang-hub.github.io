@@ -26,7 +26,7 @@ Scholarship
   * Issued by Ministry of Education of the People's Republic of China.
 
 
-* **First-class Academic Scholarship for Graduate Students**, Oct. 2020 and Oct. 2021
+* **First-class Academic Scholarship for Graduate Students**, Oct. 2020, Oct. 2021 and Oct. 2022
   * Issued by China University of Geosciences.
 
 
