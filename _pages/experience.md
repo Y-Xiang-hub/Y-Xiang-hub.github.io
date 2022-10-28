@@ -17,6 +17,8 @@ Project
     * We present a general framework that can be used to build a Bitcoin transaction graph by the directed heterogeneous multigraph and analyze address nodes from the graph. We then collect and compile Bitcoin transactions that occur between 12 July 2019 and 26 May 2021 into a dataset (hereafter referred to as BABD-13), which can be found on Kaggle. The latter has 13 types of Bitcoin addresses, 544,462 labeled data, and 5 categories of indicators with 148 features. 
     * We then use BABD-13 as the baseline dataset to evaluate common machine learning models (i.e., k-nearest neighbors algorithm, decision tree, random forest, multilayer perceptron, and XGBoost). Findings from the evaluations suggest that the accuracy obtained ranges between 93.24% and 97.13%. 
     * To extract the structural features, we also propose a novel method to generate k-hop subgraph for an address node from the entire Bitcoin transaction graph built by the directed heterogeneous multigraph. Finally, we simply summarize the several behavior patterns of different Bitcoin addresses according to the experimental results as the basis of future work.
+  * *Leveraging Subgraph Structure for Exploration and Analysis of Bitcoin Address*
+    * Pending.
   * *An Illicit Bitcoin Address Analysis Scheme Based on Subgraph Evolution*
     * Pending.
   * *BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs*
@@ -29,7 +31,12 @@ Project
     * We then evaluate the effectiveness of our scheme by comparing the training results from the original training set and the mixed training set from the same dataset with the same deep learning model structures and parameters. 
     * We also apply data augmentation to the mixed training set, transformed by the pixel block mixing algorithm, to improve the training effect for the deep learning models.
   * *Generating Image Adversarial Examples by Embedding Digital Watermarks*
-    * Pending. 
+    * We propose an improved Patchwork watermarking algorithm based on discrete wavelet transform (DWT) with a set of hyperparameters for efficiently generating image adversarial examples, the source code is available on GitHub.
+    * We propose a novel watermarking algorithm-based framework to generate adversarial examples, which consists of three essential modules and two kinds of datasets.
+    * We can see from the experimental results that the success rate can achieve an average of 95.47% on the CIFAR-10 dataset while the processing speed of each image is an average of 1.17 seconds.
+    * We also propose the modified discrete cosine transform (DCT) based Patchwork watermarking algorithm. 
+
+We also propose the modified discrete cosine transform (DCT) based Patchwork watermarking algorithm. 
 
 * **Research on Crowdsourcing Mechanism Based on Smart Contract** (*Major Contributor*)
   * *CVT: A Crowdsourcing Video Transcoding Scheme Based on Blockchain Smart Contracts*
@@ -51,8 +58,8 @@ Supervision
 
 * Wenwen Zheng, Undergraduate Student at China University of Geosciences, *Undergraduate Thesis* - **A Graph Neural Network-based Method for Analyzing Abnormal Behaviors of Bitcoin Addresses**, 2022.
 * Shiyuan Feng, Undergraduate Student at China University of Geosciences, *Undergraduate Thesis* - **A Machine Learning- and Motivation-based Approach for Analyzing Abnormal Behaviors of Bitcoin Addresses**, 2022.
-* Qingqing Yang, Master Student at China University of Geosciences, *Paper* - **An Illicit Bitcoin Address Analysis Scheme Based on Subgraph Evolution**, Submitted.
-* Ding Bao, Master Student at China University of Geosciences, *Paper* - **BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs**, Submitted.
+* Qingqing Yang, Master Student at China University of Geosciences, *Paper* - **An Illicit Bitcoin Address Analysis Scheme Based on Subgraph Evolution**, Accepted by 24th IEEE International Conference on High Performance Computing and Communications.
+* Ding Bao, Master Student at China University of Geosciences, *Paper* - **BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs**, In Peer Review.
 
 Intership
 ======
