@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Master's student in Computer Science (Information Security) at the School of Computer Sciences, China University of Geosciences. My research directions include blockchain, smart contracts, and AI security. My current researches focus on Bitcoin transaction pattern analysis that is related to data mining. For academic communication, please contact me through <u>yuexin.xiang@cug.edu.cn</u>.
+I am a Master's student in Information Security at the School of Computer Sciences, China University of Geosciences. My research interests include blockchain, smart contracts, data mining, and AI security. For communication, do not hesitate to get in touch with me at <u>yuexin.xiang@cug.edu.cn</u>.
 
 Education
 ======
