@@ -39,8 +39,6 @@ Project
     * We can see from the experimental results that the success rate can achieve an average of 95.47% on the CIFAR-10 dataset while the processing speed of each image is an average of 1.17 seconds.
     * We also propose the modified discrete cosine transform (DCT) based Patchwork watermarking algorithm. 
 
-We also propose the modified discrete cosine transform (DCT) based Patchwork watermarking algorithm. 
-
 * **Research on Crowdsourcing Mechanism Based on Smart Contract** (*Major Contributor*)
   * *CVT: A Crowdsourcing Video Transcoding Scheme Based on Blockchain Smart Contracts*
     * We propose four essential components for achieving crowdsourcing video transcoding tasks, including the employer, the worker, the task allocation mechanism, and the payment mechanism.
