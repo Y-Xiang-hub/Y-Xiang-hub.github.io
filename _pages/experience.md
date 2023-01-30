@@ -18,7 +18,10 @@ Project
     * We then use BABD-13 as the baseline dataset to evaluate common machine learning models (i.e., k-nearest neighbors algorithm, decision tree, random forest, multilayer perceptron, and XGBoost). Findings from the evaluations suggest that the accuracy obtained ranges between 93.24% and 97.13%. 
     * To extract the structural features, we also propose a novel method to generate k-hop subgraph for an address node from the entire Bitcoin transaction graph built by the directed heterogeneous multigraph. Finally, we simply summarize the several behavior patterns of different Bitcoin addresses according to the experimental results as the basis of future work.
   * *Leveraging Subgraph Structure for Exploration and Analysis of Bitcoin Address*
-    * Pending.
+    * We propose the first Bitcoin address subgraph dataset (i.e., BASD-8) containing 3,830 labeled Bitcoin transaction subgraphs, which provides the structural perspective for different types of Bitcoin addresses.
+    * We explore the patterns of Bitcoin addresses from the structural perspective using the complex network, machine learning, and empirical analysis.
+    * We first apply the graph neural network (GNN) model to implement the graph-level multi-classification task for Bitcoin address subgraphs.
+    * We find and compare several specific patterns of common eight types of Bitcoin addresses with explanations based on empirical analysis.
   * *An Illicit Bitcoin Address Analysis Scheme Based on Subgraph Evolution*
     * Pending.
   * *BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs*
