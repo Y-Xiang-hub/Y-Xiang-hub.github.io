@@ -27,6 +27,14 @@ Project
   * *BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs*
     * Pending.
 
+* **Research on Blockchain-based Decentralized Big Data Transaction** (*Major Contributor*)
+  * *A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks*
+    * We propose a flexible scheme for data copyright protection in data sharing by using watermark-based policies, e.g., minimizing the risk of re-selling of partial, combined, and/or leaked data.
+    * We propose dedicated algorithms and protocols for automatically guaranteeing data sharing fairness and pro-actively protecting data copyright in data transactions by using smart contracts.
+  * *FAPS: A Fair, Autonomous and Privacy-Preserving Scheme for Big Data Exchange Based on Oblivious Transfer, Ether Cheque and Smart Contracts*
+    * Our smart contract-based data trading scheme, buyers and sellers can fairly and autonomously complete transaction(s) without involving any third-party entity. In addition, we use time limits to realize trading timing control.
+    * We apply m-out-of-n oblivious transfer protocol on the transactions to achieve enhanced privacy and security.
+    * We propose a novel Ether cheque system to achieve fairness and autonomy, which is also more user-friendly.
 
 * **Research on Deep Learning Security and Privacy Preservation** (*Major Contributor*)
   * *A Lightweight Privacy-Preserving Scheme Using Label-based Pixel Block Mixing for Image Classification in Deep Learning*
@@ -43,16 +51,6 @@ Project
   * *CVT: A Crowdsourcing Video Transcoding Scheme Based on Blockchain Smart Contracts*
     * We propose four essential components for achieving crowdsourcing video transcoding tasks, including the employer, the worker, the task allocation mechanism, and the payment mechanism.
     * We design a kind of smart contract combined with our proposed four components that can realize the bidding function and task execution function at the same time during the crowdsourcing video transcoding process.
-
-* **Research on Blockchain-based Decentralized Big Data Transaction** (*Major Contributor*)
-  * *A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks*
-    * We propose a flexible scheme for data copyright protection in data sharing by using watermark-based policies, e.g., minimizing the risk of re-selling of partial, combined, and/or leaked data.
-    * We propose dedicated algorithms and protocols for automatically guaranteeing data sharing fairness and pro-actively protecting data copyright in data transactions by using smart contracts.
-  * *FAPS: A Fair, Autonomous and Privacy-Preserving Scheme for Big Data Exchange Based on Oblivious Transfer, Ether Cheque and Smart Contracts*
-    * Our smart contract-based data trading scheme, buyers and sellers can fairly and autonomously complete transaction(s) without involving any third-party entity. In addition, we use time limits to realize trading timing control.
-    * We apply m-out-of-n oblivious transfer protocol on the transactions to achieve enhanced privacy and security.
-    * We propose a novel Ether cheque system to achieve fairness and autonomy, which is also more user-friendly.
-
 
 Supervision
 ======
