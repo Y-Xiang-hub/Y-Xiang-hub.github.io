@@ -29,6 +29,6 @@ Conference on Big Data (Big Data)*. IEEE, 2022, pp. 1957–1962.
 
 # Preprint
 
-[1] **Y. Xiang**, W. Ren, H. Gao, D. Bao, Y. Lei, T. Li, Q. Yang, W. Liu, T. Zhu, and K.-K. R. Choo, “Babd: A bitcoin address behavior dataset for address behavior pattern analysis,” *arXiv preprint arXiv:2204.05746*, 2022.  
+[1] **Y. Xiang**, W. Ren, H. Gao, D. Bao, Y. Lei, T. Li, Q. Yang, W. Liu, T. Zhu, and K.-K. R. Choo, “BABD: A bitcoin address behavior dataset for address behavior pattern analysis,” *arXiv preprint arXiv:2204.05746*, 2022.  
 [2] **Y. Xiang**, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo, “Generating image adversarial examples by embedding digital watermarks,” *arXiv preprint arXiv:2009.05107*, 2020.  
 [3] **Y. Xiang**, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo, “A lightweight privacy-preserving scheme using label-based pixel block mixing for image classification in deep learning,” *arXiv preprint arXiv:2105.08876*, 2021.
