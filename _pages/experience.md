@@ -62,7 +62,7 @@ Supervision
 * Qingqing Yang, Master Student at China University of Geosciences, *Research Paper* - **An Illicit Bitcoin Address Analysis Scheme Based on Subgraph Evolution**, Accepted by *24th IEEE International Conference on High Performance Computing and Communications*.
 * Ding Bao, Master Student at China University of Geosciences, *Research Paper* - **BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs**, *In Peer Review (Minor Revision)*.
 
-Intership
-======
+<!-- Intership -->
+<!-- ====== -->
 
   
