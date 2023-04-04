@@ -17,8 +17,8 @@ author_profile: true
 
 # Journal
 
-[1] **Y. Xiang**, W. Ren, T. Li, X. Zheng, T. Zhu, and K.-K. R. Choo, “A multi-type and decentralized data transaction scheme based on smart contracts and digital watermarks,” *Journal of Network and Computer Applications*, vol. 176, p. 102953, 2021.  
-[2] T. Li, W. Ren, **Y. Xiang**, X. Zheng, T. Zhu, K.-K. R. Choo, and G. Srivastava, “FAPS: A fair, autonomous and privacy-preserving scheme for big data exchange based on oblivious transfer, ether cheque and smart contracts,” *Information Sciences*, vol. 544, pp. 469–484, 2021.  
+[1] **Y. Xiang**, W. Ren, T. Li, X. Zheng, T. Zhu, and K.-K. R. Choo, “[A multi-type and decentralized data transaction scheme based on smart contracts and digital watermarks](https://www.sciencedirect.com/science/article/abs/pii/S1084804520304057),” *Journal of Network and Computer Applications*, vol. 176, p. 102953, 2021.  
+[2] T. Li, W. Ren, **Y. Xiang**, X. Zheng, T. Zhu, K.-K. R. Choo, and G. Srivastava, “[FAPS: A fair, autonomous and privacy-preserving scheme for big data exchange based on oblivious transfer, ether cheque and smart contracts](https://www.sciencedirect.com/science/article/abs/pii/S0020025520308823),” *Information Sciences*, vol. 544, pp. 469–484, 2021.  
 [3] Y. Chen, H. Yin, **Y. Xiang**, W. Ren, Y. Ren, and N. N. Xiong, “CVT: A crowdsourcing video transcoding scheme based on blockchain smart contracts,” *IEEE Access*, vol. 8, pp. 220 672–220 681, 2020.  
 
 # Conference
