@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Competition
-======
+# Competition
+
 * **Meritorious Winner of Mathematical Contest in Modeling (MCM)**, Apr. 2019, [Certificate](https://www.comap-math.com/mcm/2019Certs/1903649.pdf). 
   * Issued by Consortium for Mathematics and Its Applications (COMAP). 
   * Top 8% of 14,108 teams.
@@ -20,16 +20,12 @@ Competition
   * Top 8% of 42,128 teams from 1,449 colleges and universities.
   * Our team proposed a dynamic scheduling strategy of the intelligent Rail Guided Vehicle (RGV) based on multi-strategy optimization. Specifically, for the specific application scenarios and specific problems of RGV, we propose an efficient dynamic scheduling strategy, which mainly includes two parts called the "state machine model" and the "strategy model". In addition, the proposed scheme has good portability to other similar scenarios.
 
-Scholarship
-======
+# Scholarship
+
 * **National Scholarship for Graduate Students**, Dec. 2021
   * Issued by Ministry of Education of the People's Republic of China.
-
-
 * **First-class Academic Scholarship for Graduate Students**, Oct. 2020, Oct. 2021, and Oct. 2022
   * Issued by China University of Geosciences.
-
-
 * **Outstanding Student Scholarship**, Dec. 2018
   * Issued by China University of Geosciences.
  
