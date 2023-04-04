@@ -25,7 +25,7 @@ Project
   * *An Illicit Bitcoin Address Analysis Scheme Based on Subgraph Evolution*
     * We propose a novel framework for analyzing Bitcoin addresses in their subgraphs with an evolution perspective, which includes empirical analysis and machine learning-based analysis.
     * We implement an empirical analysis of the average quantity and average numerical relationship of address/transaction nodes in the 4-hop subgraphs in ten continuous periods.
-    * We propose a [110-dimensional feature set](https://www.kaggle.com/datasets/lemonx/bitcoin-subgraph-evolution-data)) of a Bitcoin address in a 4-hop subgraph, additionally, based on the proposed feature set, we apply machine learning models to classify the different types of addresses and the highest accuracy rate reaches 0.95.
+    * We propose a [110-dimensional feature set](https://www.kaggle.com/datasets/lemonx/bitcoin-subgraph-evolution-data) of a Bitcoin address in a 4-hop subgraph, additionally, based on the proposed feature set, we apply machine learning models to classify the different types of addresses and the highest accuracy rate reaches 0.95.
   * *BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs*
     * Pending.
 
