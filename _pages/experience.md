@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Project
-======
+# Project
 
 * **Research on Illicit Bitcoin Addresses** (*Team Leader & Major Contributor*)
   * *BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis*
@@ -54,15 +53,14 @@ Project
     * We propose four essential components for achieving crowdsourcing video transcoding tasks, including the employer, the worker, the task allocation mechanism, and the payment mechanism.
     * We design a kind of smart contract combined with our proposed four components that can realize the bidding function and task execution function at the same time during the crowdsourcing video transcoding process.
 
-Supervision
-======
+# Supervision
 
 * Wenwen Zheng, Undergraduate Student at China University of Geosciences, *Undergraduate Thesis* - **A Graph Neural Network-based Method for Analyzing Abnormal Behaviors of Bitcoin Addresses**, 2022.
 * Shiyuan Feng, Undergraduate Student at China University of Geosciences, *Undergraduate Thesis* - **A Machine Learning- and Motivation-based Approach for Analyzing Abnormal Behaviors of Bitcoin Addresses**, 2022.
 * Qingqing Yang, Master Student at China University of Geosciences, *Research Paper* - **An Illicit Bitcoin Address Analysis Scheme Based on Subgraph Evolution**, Accepted by *24th IEEE International Conference on High Performance Computing and Communications*.
 * Ding Bao, Master Student at China University of Geosciences, *Research Paper* - **BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs**, *In Peer Review (Minor Revision)*.
 
-<!-- Intership -->
-<!-- ====== -->
+<!-- # Intership -->
+
 
   
