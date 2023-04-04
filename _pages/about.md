@@ -25,7 +25,7 @@ Collaborators
 * [Tiantian Li](https://scholar.google.com/citations?user=WgIgW_0AAAAJ&hl=en), Master Student, University of Melbourne
 * Yuchen Lei, Master Student, Wuhan University
 * [Yuquan Li](https://www.linkedin.com/in/yuquan-li-0228/), Master of Management Studies, University of Southern California
-* Wenxuan Wang, PhD Student, Peking University
+* Wenxuan Wang, Ph.D. Student, Peking University
 * Linchuan Xiang, Professor, Huazhong University of Science and Technology
 
 
