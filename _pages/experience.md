@@ -19,7 +19,7 @@ redirect_from:
   * *An Illicit Bitcoin Address Analysis Scheme Based on Subgraph Evolution*
     * In this paper, we propose a new framework for analyzing Bitcoin addresses in their subgraphs with an evolutionary perspective, using both empirical and machine learning-based analysis. The authors conduct an empirical analysis of the average quantity and numerical relationship of address/transaction nodes in 4-hop subgraphs over ten continuous periods. They also propose [a 110-dimensional feature set](https://www.kaggle.com/datasets/lemonx/bitcoin-subgraph-evolution-data) for a Bitcoin address in a 4-hop subgraph and apply machine learning models to classify different types of addresses, achieving an accuracy rate of up to 0.95.
   * *BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs*
-    * Pending.
+    * In this paper, we propose BTC-Shadow, a tool designed to reveal hidden characteristics of Bitcoin transactions through customized interactive interfaces. It constructs a heterogeneous graph of Bitcoin transactions and a unique isomorphic graph not found in similar tools. Additionally, we propose a node-cutting method to reduce node count in graphs, making large-scale Bitcoin transaction analysis more manageable while preserving network structures.
 
 * **Research on Blockchain-based Decentralized Big Data Transaction** (*Major Contributor*)
   * *A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks*
@@ -42,7 +42,7 @@ redirect_from:
 * Wenwen Zheng, Undergraduate Student at China University of Geosciences, *Undergraduate Thesis* - **A Graph Neural Network-based Method for Analyzing Abnormal Behaviors of Bitcoin Addresses**, 2022.
 * Shiyuan Feng, Undergraduate Student at China University of Geosciences, *Undergraduate Thesis* - **A Machine Learning- and Motivation-based Approach for Analyzing Abnormal Behaviors of Bitcoin Addresses**, 2022.
 * Qingqing Yang, Master Student at China University of Geosciences, *Research Paper* - **An Illicit Bitcoin Address Analysis Scheme Based on Subgraph Evolution**, *24th IEEE International Conference on High Performance Computing and Communications*, 2022.
-* Ding Bao, Master Student at China University of Geosciences, *Research Paper* - **BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs**, *Accepted*.
+* Ding Bao, Master Student at China University of Geosciences, *Research Paper* - **BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs**, *Frontiers of Computer Science*, 2023.
 
 <!-- # Intership -->
 
