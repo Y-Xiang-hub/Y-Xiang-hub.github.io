@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Information Security at the School of Computer Sciences, China University of Geosciences. My research interests include blockchain, smart contracts, data mining, and AI security. For communication, do not hesitate to get in touch with me at <u>yuexin.xiang@cug.edu.cn</u>.
+I am a Master's student in Information Security at the School of Computer Sciences, China University of Geosciences. My research interests include blockchain, DeFi, smart contracts, data mining, and AI security. For communication, do not hesitate to get in touch with me at <u>yuexin.xiang@cug.edu.cn</u>.
 
 Education
 ======
