@@ -23,7 +23,7 @@ Education
 Collaborators
 ======
 * [Tiantian Li](https://scholar.google.com/citations?user=WgIgW_0AAAAJ&hl=en), Master Student, University of Melbourne
-* Yuchen Lei, Master Student, Wuhan University
+* [Yuchen Lei](https://www.linkedin.com/in/%E5%AE%87%E8%BE%B0-%E9%9B%B7-7a554a228/), Master Student, Wuhan University
 * [Yuquan Li](https://www.linkedin.com/in/yuquan-li-0228/), Master of Management Studies, University of Southern California
 * Wenxuan Wang, Ph.D. Student, Peking University
 * Linchuan Xiang, Professor, Huazhong University of Science and Technology
