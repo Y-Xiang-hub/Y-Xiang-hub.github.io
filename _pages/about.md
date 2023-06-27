@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Information Security at the School of Computer Sciences, China University of Geosciences. My research interests include blockchain, DeFi, smart contracts, data mining, and AI security. For communication, do not hesitate to get in touch with me at <u>yuexin.xiang@cug.edu.cn</u>.
+My research interests include blockchain, security, data mining, and artificial intelligence. For communication, do not hesitate to get in touch with me at <u>yuexin.xiang@cug.edu.cn</u>.
 
 Education
 ======
-* M.E. in Information Security, **[China University of Geosciences](https://en.cug.edu.cn/)**, Sep. 2020 - Jun. 2023 
+* MEng in Computer Science and Technology (Information Security), **[China University of Geosciences](https://en.cug.edu.cn/)**, Sep. 2020 - Jun. 2023 
   -   [School of Computer Science](https://en.cs.cug.edu.cn/)
   -   **GPA: 90.8/100**
-* B.E. in Information Security, **China University of Geosciences**, Sep. 2016 - Jun. 2020
+* BEng in Information Security, **China University of Geosciences**, Sep. 2016 - Jun. 2020
   -   School of Computer Science
   -   **GPA: 85.9/100**
 
