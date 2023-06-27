@@ -13,9 +13,9 @@ My research interests include blockchain, security, data mining, and artificial 
 Education
 ======
 * MEng in Computer Science and Technology, **[China University of Geosciences](https://en.cug.edu.cn/)**, Sep. 2020 - Jun. 2023
-  -   Specialty in Information Security
   -   [School of Computer Science](https://en.cs.cug.edu.cn/)
   -   **GPA: 90.8/100**
+  -   Specialty in Information Security
 * BEng in Information Security, **China University of Geosciences**, Sep. 2016 - Jun. 2020
   -   School of Computer Science
   -   **GPA: 85.9/100**
