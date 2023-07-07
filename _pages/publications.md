@@ -20,8 +20,7 @@ author_profile: true
 [1] **Y. Xiang**, W. Ren, T. Li, X. Zheng, T. Zhu, and K.-K. R. Choo, “[A multi-type and decentralized data transaction scheme based on smart contracts and digital watermarks](https://www.sciencedirect.com/science/article/abs/pii/S1084804520304057),” *Journal of Network and Computer Applications*, vol. 176, p. 102953, 2021.  
 [2] T. Li, W. Ren, **Y. Xiang**, X. Zheng, T. Zhu, K.-K. R. Choo, and G. Srivastava, “[FAPS: A fair, autonomous and privacy-preserving scheme for big data exchange based on oblivious transfer, ether cheque and smart contracts](https://www.sciencedirect.com/science/article/abs/pii/S0020025520308823),” *Information Sciences*, vol. 544, pp. 469–484, 2021.  
 [3] Y. Chen, H. Yin, **Y. Xiang**, W. Ren, Y. Ren, and N. N. Xiong, “[CVT: A crowdsourcing video transcoding scheme based on blockchain smart contracts](https://ieeexplore.ieee.org/abstract/document/9285293),” *IEEE Access*, vol. 8, pp. 220672–220681, 2020.  
-[4] D. Bao, W. Ren, **Y. Xiang**, W. Liu, T. Zhu, Y. Ren, & K.-K. R. Choo, “[BTC-Shadow: An analysis and visualization system for exposing implicit behaviors in bitcoin transaction graphs](https://link.springer.com/article/10.1007/s11704-023-2531-0),” *Frontiers of Computer Science*, Frontiers of Computer Science,
-vol. 17, no. 6, pp. 1–3, 2023.
+[4] D. Bao, W. Ren, **Y. Xiang**, W. Liu, T. Zhu, Y. Ren, & K.-K. R. Choo, “[BTC-Shadow: An analysis and visualization system for exposing implicit behaviors in bitcoin transaction graphs](https://link.springer.com/article/10.1007/s11704-023-2531-0),” *Frontiers of Computer Science*, vol. 17, no. 6, pp. 1–3, 2023.
 
 # Conference
 
