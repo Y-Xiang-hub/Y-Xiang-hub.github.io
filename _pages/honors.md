@@ -15,7 +15,7 @@ redirect_from:
   * Issued by Consortium for Mathematics and Its Applications (COMAP). 
   * Top 8% of 14,108 teams.
   * Our team proposes a disaster response system model - DroneGo, which is an emergency response scheme proposed for hurricane damage in Puerto Rico and can be used for other types of disaster response in Puerto Rico. Specifically, there are three essential models proposed in the paper that are the "rescue position selection model", the "medical supplies and drones bin-packing model" and the "UAV route detection model" respectively.
-* **Provincial First Prize of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)**, Dec. 2018.
+* **State-Level First Prize of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)**, Dec. 2018.
   * Issued by China Society for Industrial and Applied Mathematics.
   * Top 8% of 42,128 teams from 1,449 colleges and universities.
   * Our team proposes a dynamic scheduling strategy of the intelligent Rail Guided Vehicle (RGV) based on multi-strategy optimization. Specifically, for the specific application scenarios and specific problems of RGV, we propose an efficient dynamic scheduling strategy, which mainly includes two parts called the "state machine model" and the "strategy model". In addition, the proposed scheme has good portability to other similar scenarios.
