@@ -15,12 +15,10 @@ Education
 * M.Eng. in Computer Science and Technology, **[China University of Geosciences](https://en.cug.edu.cn/)**
   -   Sep. 2020 - Jun. 2023
   -   [School of Computer Science](https://en.cs.cug.edu.cn/)
-  -   GPA: 90.8/100
   -   Specialization in Information Security
 * B.Eng. in Information Security, **China University of Geosciences**
   -   Sep. 2016 - Jun. 2020
   -   School of Computer Science
-  -   GPA: 85.9/100
 
 
 Collaborators
