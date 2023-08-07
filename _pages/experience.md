@@ -21,19 +21,19 @@ redirect_from:
   * *BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs*
     * In this paper, we propose BTC-Shadow, a tool designed to reveal hidden characteristics of Bitcoin transactions through customized interactive interfaces. It constructs a heterogeneous graph of Bitcoin transactions and a unique isomorphic graph not found in similar tools. Additionally, we propose a node-cutting method to reduce node count in graphs, making large-scale Bitcoin transaction analysis more manageable while preserving network structures.
 
-* **Research on Blockchain-based Decentralized Big Data Transaction** (*Major Contributor*)
+* **Research on Blockchain-based Decentralized Big Data Transactions** (*Major Contributor*)
   * *A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks*
     * In this paper, we propose a scheme for protecting data copyright in data sharing through watermark-based policies, which minimize the risk of re-selling of partial, combined, and/or leaked data. Additionally, the authors propose algorithms and protocols for ensuring data sharing fairness and protecting data copyright through the use of smart contracts.
   * *FAPS: A Fair, Autonomous and Privacy-Preserving Scheme for Big Data Exchange Based on Oblivious Transfer, Ether Cheque and Smart Contracts*
     * In this paper, we propose a smart contract-based data trading scheme that enables fair and autonomous transactions between buyers and sellers without any third-party involvement. We use time limits to control trading timing and apply m-out-of-n oblivious transfer protocol to enhance privacy and security. We also introduce a novel Ether cheque system that is user-friendly and helps achieve fairness and autonomy.
 
-* **Research on Deep Learning Security and Privacy Preservation** (*Major Contributor*)
+* **Research on Security and Privacy Preservation in Deep Learning Models** (*Major Contributor*)
   * *A Lightweight Privacy-Preserving Scheme Using Label-based Pixel Block Mixing for Image Classification in Deep Learning*
     * In this paper, we propose a pixel block mixing algorithm to prevent image data privacy leakage in deep learning training. The effectiveness of the approach is evaluated by comparing the training results from the original training set and the mixed training set with the same deep learning model structures and parameters. Data augmentation is also applied to the mixed training set to improve the training effect.
   * *Generating Image Adversarial Examples by Embedding Digital Watermarks*
     * In this paper, we propose several contributions related to image watermarking and generating adversarial examples. We first present an improved Patchwork watermarking algorithm based on discrete wavelet transform (DWT) that efficiently generates image adversarial examples. The source code for this algorithm is made available on GitHub. Additionally, we propose a novel watermarking algorithm-based framework consisting of three essential modules and two types of datasets to generate adversarial examples. Experimental results show that the success rate can achieve an average of 95.47% on the CIFAR-10 dataset, and the processing speed of each image is an average of 1.17 seconds. Lastly, we also propose a modified discrete cosine transform (DCT) based Patchwork watermarking algorithm.
 
-* **Research on Crowdsourcing Mechanism Based on Smart Contract** (*Major Contributor*)
+* **Research on Crowdsourcing Mechanism Based on Smart Contracts** (*Major Contributor*)
   * *CVT: A Crowdsourcing Video Transcoding Scheme Based on Blockchain Smart Contracts*
     * In this paper, we propose four essential components for achieving crowdsourcing video transcoding tasks: the employer, the worker, the task allocation mechanism, and the payment mechanism. We then design a smart contract that combines these four components to realize the bidding function and task execution function simultaneously during the crowdsourcing video transcoding process.
 
