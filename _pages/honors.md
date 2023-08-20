@@ -23,9 +23,9 @@ redirect_from:
 # Scholarship
 
 * **National Scholarship for Postgraduate**, Dec. 2021
-  * Issued by Ministry of Education of the People's Republic of China.
+  * Issued by the Ministry of Education of the People's Republic of China.
 * **First-class Academic Scholarship for Postgraduate**, Oct. 2020, Oct. 2021, and Oct. 2022
-  * Issued by China University of Geosciences.
+  * Issued by the Ministry of Education of the People's Republic of China.
 * **China University of Geosciences Talent Learning Progress Scholarship**, Dec. 2018
   * Issued by China University of Geosciences.
  
