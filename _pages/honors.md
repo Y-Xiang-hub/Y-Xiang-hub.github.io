@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Competition
+# Award
 
 * [**Meritorious Winner of Mathematical Contest in Modeling (MCM)**](https://www.comap-math.com/mcm/2019Certs/1903649.pdf), Apr. 2019. 
   * Issued by Consortium for Mathematics and Its Applications (COMAP). 
