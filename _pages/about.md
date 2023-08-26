@@ -13,14 +13,13 @@ My research interests include blockchain, security, data mining, and artificial 
 Education
 ======
 * M.Eng. in Computer Science and Technology, **[China University of Geosciences](https://en.cug.edu.cn/)**
-  -   Sep. 2020 - Jun. 2023
   -   [School of Computer Science](https://en.cs.cug.edu.cn/)
   -   Specialization in Information Security
+  -   Sep. 2020 - Jun. 2023
 * B.Eng. in Information Security, **China University of Geosciences**
-  -   Sep. 2016 - Jun. 2020
   -   School of Computer Science
-
-
+  -   Sep. 2016 - Jun. 2020
+ 
 Collaborators
 ======
 * [Tiantian Li](https://scholar.google.com/citations?user=WgIgW_0AAAAJ&hl=en), Master of Engineering in Information Technology, University of Melbourne
