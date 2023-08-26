@@ -11,10 +11,10 @@ redirect_from:
 
 # Project
 
-**1. Research on Illicit Bitcoin Addresses** (*Team Leader & Major Contributor*)<br /> 
-**2. Research on Blockchain-based Decentralized Big Data Transactions** (*Major Contributor*)<br /> 
-**3. Research on Security and Privacy Preservation in Deep Learning Models** (*Major Contributor*)<br /> 
-**4. Research on Crowdsourcing Mechanism Based on Smart Contracts** (*Major Contributor*)
+* Research on Illicit Bitcoin Addresses (*Team Leader & Major Contributor*)<br /> 
+* Research on Blockchain-based Decentralized Big Data Transactions (*Major Contributor*)<br /> 
+* Research on Security and Privacy Preservation in Deep Learning Models (*Major Contributor*)<br /> 
+* Research on Crowdsourcing Mechanism Based on Smart Contracts (*Major Contributor*)
 
 # Supervision
 
