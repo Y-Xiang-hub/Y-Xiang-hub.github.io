@@ -12,8 +12,8 @@ My research interests include blockchain, security, data mining, and artificial 
 
 Education
 ======
-* M.Eng. in Computer Science and Technology, **[China University of Geosciences](https://en.cug.edu.cn/)**
-  -   [School of Computer Science](https://en.cs.cug.edu.cn/)
+* M.Eng. in Computer Science and Technology, **China University of Geosciences**
+  -   School of Computer Science
   -   Specialization in Information Security
   -   Sep. 2020 - Jun. 2023
 * B.Eng. in Information Security, **China University of Geosciences**
