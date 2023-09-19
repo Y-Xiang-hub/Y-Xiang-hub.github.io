@@ -20,7 +20,7 @@ author_profile: true
 
 * A Lightweight Privacy-Preserving Scheme Using Pixel Block Mixing for Facial Image Classification in Deep Learning<br />
 **Y. Xiang**, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
-Accepted by *Engineering Applications of Artificial Intelligence*, 2023.
+*Accepted by Engineering Applications of Artificial Intelligence*, 2023.
 * [BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs](https://link.springer.com/article/10.1007/s11704-023-2531-0)<br />
 D. Bao, W. Ren, **Y. Xiang**, W. Liu, T. Zhu, Y. Ren, and K.-K. R. Choo<br />
 *Frontiers of Computer Science*, 2023.
