@@ -46,7 +46,7 @@ Q. Yang, **Y. Xiang**, W. Liu, and W. Ren<br />
 # Preprint
 
 * [BABD: A Bitcoin Address Behavior Dataset for Address Behavior Pattern Analysis](https://arxiv.org/abs/2204.05746)<br />
-**Y. Xiang**, Y. Lei, D. Bao, T. Li, Q. Yang, W. Ren, W. Liu, T. Zhu, and K.-K. R. Choo<br />
+**Y. Xiang**, Y. Lei, D. Bao, W. Ren, T. Li, Q. Yang, W. Liu, T. Zhu, and K.-K. R. Choo<br />
 *arXiv preprint*, 2022. 
 * [A Lightweight Privacy-preserving Scheme Using Label-based Pixel Block Mixing for Image Classification in Deep Learning](https://arxiv.org/abs/2105.08876)<br />
 **Y. Xiang**, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
