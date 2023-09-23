@@ -38,7 +38,7 @@ Y. Chen, H. Yin, **Y. Xiang**, W. Ren, Y. Ren, and N. N. Xiong<br />
 
 * [Leveraging Subgraph Structure for Exploration and Analysis of Bitcoin Address](https://ieeexplore.ieee.org/abstract/document/10020980)<br />
 **Y. Xiang**, T. Li, and Y. Li<br />
-*2022 IEEE International Conference on Big Data (Big Data)*. 
+*2022 IEEE International Conference on Big Data*. 
 * [An Illicit Bitcoin Address Analysis Scheme Based on Subgraph Evolution](https://ieeexplore.ieee.org/abstract/document/10074805)<br />
 Q. Yang, **Y. Xiang**, W. Liu, and W. Ren<br />
 *2022 IEEE 24th International Conference on High Performance Computing & Communications*.
