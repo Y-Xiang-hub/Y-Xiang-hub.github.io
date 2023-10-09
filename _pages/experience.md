@@ -19,8 +19,8 @@ redirect_from:
 # Supervision
 
 * **Undergraduate Students**
-  * Wenwen Zheng, Thesis: **A Graph Neural Network-based Method for Analyzing Abnormal Behaviors of Bitcoin Addresses,** China University of Geosciences, Wuhan, China, Jun. 2022.
-  * Shiyuan Feng, Thesis: **A Machine Learning- and Motivation-based Approach for Analyzing Abnormal Behaviors of Bitcoin Addresses,** China University of Geosciences, Wuhan, China, Jun. 2022.
+  * Wenwen Zheng, Thesis: **A Graph Neural Network-based Method for Analyzing Abnormal Behaviors of Bitcoin Address,** China University of Geosciences, Wuhan, China, Jun. 2022.
+  * Shiyuan Feng, Thesis: **A Machine Learning- and Motivation-based Approach for Analyzing Abnormal Behaviors of Bitcoin Address,** China University of Geosciences, Wuhan, China, Jun. 2022.
 * **Master's Students**
   * Qingqing Yang, Paper: **An Illicit Bitcoin Address Analysis Scheme Based on Subgraph Evolution,** *24th IEEE International Conference on High Performance Computing and Communications*, Dec. 2022.
   * Ding Bao, Paper: **BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs,** *Frontiers of Computer Science*, May 2023.
