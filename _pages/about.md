@@ -12,8 +12,9 @@ My research interests include blockchain, security, data mining, and artificial 
 
 Education
 ======
-* M.Eng. in **Computer Science and Technology**, at School of Computer Science, China University of Geosciences, China, Sep. 2020 - Jun. 2023.
-* B.Eng. in **Information Security**, at School of Computer Science, China University of Geosciences, China, Sep. 2016 - Jun. 2020.
+* Ph.D. in **Information Technology**, Monash University, Australia, will start in 2024.
+* M.Eng. in **Computer Science and Technology**, China University of Geosciences, China, Sep. 2020 - Jun. 2023.
+* B.Eng. in **Information Security**, China University of Geosciences, China, Sep. 2016 - Jun. 2020.
  
 Collaborators
 ======
