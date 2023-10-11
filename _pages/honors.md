@@ -21,9 +21,7 @@ redirect_from:
 # Scholarship
 
 
-* **Monash Graduate Scholarship**, Oct. 2023.
-  * Issued by Monash University.
-* **Monash International Tuition Scholarship**, Oct. 2023.
+* **Monash Graduate Scholarship** and **Monash International Tuition Scholarship**, Oct. 2023.
   * Issued by Monash University.
 * **National Scholarship for Postgraduate**, Dec. 2021
   * Issued by the Ministry of Education of the People's Republic of China.
