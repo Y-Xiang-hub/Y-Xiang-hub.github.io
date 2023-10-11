@@ -21,12 +21,14 @@ redirect_from:
 # Scholarship
 
 
-* **Monash Graduate Scholarship**, Oct. 2023
+* **Monash Graduate Scholarship**, Oct. 2023.
+  * Issued by Monash University.
+* **Monash International Tuition Scholarship**, Oct. 2023.
   * Issued by Monash University.
 * **National Scholarship for Postgraduate**, Dec. 2021
   * Issued by the Ministry of Education of the People's Republic of China.
-* **First-class Academic Scholarship for Postgraduate**, Oct. 2020, Oct. 2021, and Oct. 2022
+* **First-class Academic Scholarship for Postgraduate**, Oct. 2020, Oct. 2021, and Oct. 2022.
   * Issued by the Ministry of Education of the People's Republic of China.
-* **China University of Geosciences Talent Learning Progress Scholarship**, Dec. 2018
+* **China University of Geosciences Talent Learning Progress Scholarship**, Dec. 2018.
   * Issued by China University of Geosciences.
  
