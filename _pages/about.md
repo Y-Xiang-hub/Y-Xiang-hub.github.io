@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research interests include blockchain, security, data mining, and artificial intelligence. For communication, do not hesitate to get in touch with me at <u>yuexin.xiang@cug.edu.cn</u>.
+My research interests include blockchain, security, and artificial intelligence. For communication, do not hesitate to get in touch with me at <u>yuexin.xiang@cug.edu.cn</u>.
 
 Education
 ======
