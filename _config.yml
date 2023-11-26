@@ -88,7 +88,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8oDgOMgAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     : https://www.researchgate.net/profile/Yuexin-Xiang
+  researchgate     : # https://www.researchgate.net/profile/Yuexin-Xiang
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "yuexin-xiang/"
-  orcid            : "https://orcid.org/0000-0001-5959-4817"
+  orcid            : # "https://orcid.org/0000-0001-5959-4817"
   pinterest        : 
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
