@@ -24,7 +24,10 @@ Collaborators
 * Wenxuan Wang, Ph.D. Candidate, Peking University
 * Linchuan Xiang, Professor, Huazhong University of Science and Technology
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2sT8kPDPch8P16xxYGXkhU-dkeBASOwIHGzWfqgU0Ks"></script>
+<div id="clustrmaps-container">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2sT8kPDPch8P16xxYGXkhU-dkeBASOwIHGzWfqgU0Ks"></script>
+</div>
+
 
 
 
