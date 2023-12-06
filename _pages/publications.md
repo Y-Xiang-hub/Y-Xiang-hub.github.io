@@ -17,9 +17,9 @@ author_profile: true
 
 # Journal
 
-* [AdvEWM: Generating Image Adversarial Examples by Embedding Digital Watermarks](https://arxiv.org/abs/2009.05107)<br />
+* [AdvEWM: Generating Image Adversarial Examples by Embedding Digital Watermarks](https://doi.org/10.1016/j.jisa.2023.103662)<br />
 **Y. Xiang**, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
-*Accepted by Journal of Information Security and Applications*, 2023.
+*Journal of Information Security and Applications*, 2024.
 * [A Lightweight Privacy-Preserving Scheme Using Pixel Block Mixing for Facial Image Classification in Deep Learning](https://doi.org/10.1016/j.engappai.2023.107180)<br />
 **Y. Xiang**, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
 *Engineering Applications of Artificial Intelligence*, 2023.
