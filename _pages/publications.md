@@ -17,7 +17,9 @@ author_profile: true
 
 # Journal
 
-
+* [AdvEWM: Generating Image Adversarial Examples by Embedding Digital Watermarks](https://arxiv.org/abs/2009.05107)<br />
+**Y. Xiang**, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
+*Accepted by Journal of Information Security and Applications*, 2023.
 * [A Lightweight Privacy-Preserving Scheme Using Pixel Block Mixing for Facial Image Classification in Deep Learning](https://doi.org/10.1016/j.engappai.2023.107180)<br />
 **Y. Xiang**, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
 *Engineering Applications of Artificial Intelligence*, 2023.
@@ -48,6 +50,3 @@ Q. Yang, **Y. Xiang**, W. Liu, and W. Ren<br />
 * [BABD: A Bitcoin Address Behavior Dataset for Address Behavior Pattern Analysis](https://arxiv.org/abs/2204.05746)<br />
 **Y. Xiang**, Y. Lei, D. Bao, W. Ren, T. Li, Q. Yang, W. Liu, T. Zhu, and K.-K. R. Choo<br />
 *arXiv preprint*, 2022. 
-* [Generating Image Adversarial Examples by Embedding Digital Watermarks](https://arxiv.org/abs/2009.05107)<br />
-**Y. Xiang**, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
-*arXiv preprint*, 2020.
