@@ -12,7 +12,7 @@ My research interests include blockchain, security, and artificial intelligence.
 
 Education
 ======
-* Ph.D. in **Information Technology**, Monash University, Australia, will start in 2024.
+* Ph.D. in **Computer Science**, Monash University, Australia, will start in 2024.
 * M.Eng. in **Computer Science and Technology**, China University of Geosciences, China, Sep. 2020 - Jun. 2023.
 * B.Eng. in **Information Security**, China University of Geosciences, China, Sep. 2016 - Jun. 2020.
  
