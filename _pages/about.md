@@ -18,7 +18,7 @@ Education
  
 Collaborators
 ======
-* [Tiantian Li](https://scholar.google.com/citations?user=yGoE1ZsAAAAJ&hl=en&oi=sra), Master of Information Technology, University of Melbourne
+* [Tiantian Li](https://www.linkedin.com/in/tiant-li/), Master of Information Technology, University of Melbourne
 * [Yuchen Lei](https://www.linkedin.com/in/yuchen-lei/), Master's Student, Wuhan University
 * [Yuquan Li](https://www.linkedin.com/in/yuquan-li-0228/), Master of Management Studies, University of Southern California
 * Wenxuan Wang, PhD Candidate, Peking University
