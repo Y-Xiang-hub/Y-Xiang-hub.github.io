@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My research interests include blockchain, security, and artificial intelligence. For communication, do not hesitate to get in touch with me at <u>Yuexin.Xiang@monash.edu</u>.
+Hello, I'm Yuexin Xiang, currently pursuing a PhD at Monash University's Faculty of Information Technology. My research revolves around blockchain, security, and artificial intelligence. Feel free to reach out for any academic inquiries or collaborations at <u>Yuexin.Xiang@monash.edu</u>.
 
 Education
 ======
-* Ph.D. in **Computer Science**, Monash University, Australia, will start in 2024.
+* Ph.D. in **Computer Science**, Monash University, Australia, Jan. 2024 - Jan. 2028 (expected).
 * M.Eng. in **Computer Science and Technology**, China University of Geosciences, China, Sep. 2020 - Jun. 2023.
 * B.Eng. in **Information Security**, China University of Geosciences, China, Sep. 2016 - Jun. 2020.
  
