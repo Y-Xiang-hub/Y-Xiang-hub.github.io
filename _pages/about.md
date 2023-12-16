@@ -22,9 +22,5 @@ Collaborators
 * [Yuchen Lei](www.linkedin.com/in/~yclei/), Master's Student, Wuhan University
 * [Yuquan Li](https://www.linkedin.com/in/yuquan-li-0228/), Master of Management Studies, University of Southern California
 
-<!--* Wenxuan Wang, PhD Candidate, Peking University>
-<!--* Linchuan Xiang, Professor, Huazhong University of Science and Technology>
-
-
 
 
