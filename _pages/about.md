@@ -19,7 +19,7 @@ Education
 Collaborators
 ======
 * [Tiantian Li](https://www.linkedin.com/in/tiant-li/), Master of Information Technology, University of Melbourne.
-* [Yuchen Lei](www.linkedin.com/in/~yclei/), Master's Student, Wuhan University.
+* [Yuchen Lei](https://www.linkedin.com/in/~yclei/), Master's Student, Wuhan University.
 * [Yuquan Li](https://www.linkedin.com/in/yuquan-li-0228/), Master of Management Studies, University of Southern California.
 
 
