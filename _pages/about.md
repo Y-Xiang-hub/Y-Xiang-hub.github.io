@@ -12,9 +12,9 @@ Hi, I'm Yuexin Xiang, currently pursuing a PhD in the Faculty of Information Tec
 
 Education
 ======
-* Ph.D. in **Computer Science**, Monash University, Australia, 2024 - 2028 (expected).
-* M.Eng. in **Computer Science and Technology**, China University of Geosciences, China, 2020 - 2023.
-* B.Eng. in **Information Security**, China University of Geosciences, China, 2016 - 2020.
+* PhD in **Computer Science**, Monash University, 2024 - 2028 (expected).
+* MEng in **Computer Science and Technology**, China University of Geosciences,2020 - 2023.
+* BEng in **Information Security**, China University of Geosciences, 2016 - 2020.
  
 Collaborators
 ======
