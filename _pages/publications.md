@@ -17,6 +17,9 @@ author_profile: true
 
 # Journal
 
+* [BABD: A Bitcoin Address Behavior Dataset for Address Behavior Pattern Analysis](https://arxiv.org/abs/2204.05746)<br />
+**Y. Xiang**, Y. Lei, D. Bao, W. Ren, T. Li, Q. Yang, W. Liu, T. Zhu, and K.-K. R. Choo<br />
+*Accepted by the IEEE Transactions on Information Forensics & Security*, 2024. 
 * [AdvEWM: Generating Image Adversarial Examples by Embedding Digital Watermarks](https://doi.org/10.1016/j.jisa.2023.103662)<br />
 **Y. Xiang**, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
 *Journal of Information Security and Applications*, 2024.
@@ -45,8 +48,5 @@ Y. Chen, H. Yin, **Y. Xiang**, W. Ren, Y. Ren, and N. N. Xiong<br />
 Q. Yang, **Y. Xiang**, W. Liu, and W. Ren<br />
 *2022 IEEE 24th International Conference on High Performance Computing & Communications*.
 
-# Preprint
+<!--# Preprint-->
 
-* [BABD: A Bitcoin Address Behavior Dataset for Address Behavior Pattern Analysis](https://arxiv.org/abs/2204.05746)<br />
-**Y. Xiang**, Y. Lei, D. Bao, W. Ren, T. Li, Q. Yang, W. Liu, T. Zhu, and K.-K. R. Choo<br />
-*arXiv preprint*, 2022. 
