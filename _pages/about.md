@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Yuexin Xiang, currently pursuing PhD in the Faculty of Information Technology at Monash University in Australia. My research revolves around blockchain, security, and artificial intelligence. Feel free to reach out for any academic inquiries or collaborations at <a>Yuexin.Xiang@monash.edu</a>.
+Hi, I'm Yuexin Xiang, currently pursuing PhD in the Faculty of Information Technology at Monash University in Australia. My research revolves around blockchain, security, and artificial intelligence. 
+
+If you have any academic inquiries or are interested in exploring potential collaborative projects, please feel free to contact me at <a>Yuexin.Xiang@monash.edu</a>.
 
 Education
 ======
