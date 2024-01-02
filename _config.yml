@@ -83,7 +83,7 @@ author:
   name             : "Yuexin Xiang"
   avatar           : "profile.jpg"
   bio              : "PhD Student"
-  location         : "Australia"
+  location         : #"Australia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8oDgOMgAAAAJ&hl=en&oi=ao"
