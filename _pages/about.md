@@ -12,8 +12,6 @@ Hi, I'm Yuexin Xiang, currently pursuing PhD in the Faculty of Information Techn
 
 <span style="color: red;">If you have any academic inquiries or are interested in exploring potential collaborative projects, please feel free to contact me at</span> [Yuexin.Xiang@monash.edu](mailto:Yuexin.Xiang@monash.edu).
 
-If you have any academic inquiries or are interested in exploring potential collaborative projects, please feel free to contact me at <a>Yuexin.Xiang@monash.edu</a>.
-
 Education
 ======
 * PhD in **Computer Science**, Monash University, 2024 - 2028 (expected).
