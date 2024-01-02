@@ -50,6 +50,9 @@
 
 /* remove border*/
 .page__content {
+  a {
+    text-decoration: none;
+  }
 
   .archive__item-title {
     margin-top: 1em;
