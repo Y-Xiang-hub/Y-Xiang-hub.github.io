@@ -23,7 +23,7 @@ html {
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 p {
@@ -44,6 +44,14 @@ p {
 // }
 div.sidebar.sticky {
   font-size: 1rem;
+}
+
+.page__content a {
+  text-decoration: none;
+}
+
+.archive li a {
+  text-decoration: none;
 }
 
 /* Selected elements */
