@@ -141,14 +141,17 @@ a {
 /* Apply focus state */
 
 a:focus {
-  // @extend %tab-focus;
-  @include tab-focus;
+  @extend %tab-focus;
+  // @include tab-focus;
 }
 
 /* Remove outline from links */
 
-a:hover,
-a:active {
+// a:hover,
+// a:active {
+//   outline: 0;
+// }
+a:hover {
   outline: 0;
 }
 
