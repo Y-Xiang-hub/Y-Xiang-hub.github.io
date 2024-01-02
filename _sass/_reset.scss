@@ -30,14 +30,18 @@ p {
   font-size: 12px;
 }
 
-// .author__avatar {
-//   padding: 5px;
-//   border: none;
-//   max-width: 150px;
-//   max-height: 150px;
-//   object-fit: cover;
-//   scale: 1.5;
-// }
+.author__avatar {
+  padding: 0;
+  border: 0;
+  max-width: 150px;
+  max-height: 150px;
+  object-fit: cover;
+  border-radius: 0%;
+}
+
+.sidebar p, .sidebar li {
+  font-size: 12px;
+}
 
 /* Selected elements */
 
