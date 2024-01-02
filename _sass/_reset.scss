@@ -77,17 +77,15 @@ div.sidebar.sticky {
 }
 
 // .greedy-nav a
-.masthead__menu-item a:focus {
+.masthead__menu-item a:active {
   // color: #5c6266;
   color: blueviolet;
 }
-.masthead__menu-item a:focus::before {
+.masthead__menu-item a:active::before {
   // background-color: #BDC1C4;
   background-color: blue;
 }
-// a:focus {
-//   @include tab-focus;
-// }
+
 
 
 
@@ -143,7 +141,8 @@ a {
 /* Apply focus state */
 
 a:focus {
-  @extend %tab-focus;
+  // @extend %tab-focus;
+  @include tab-focus;
 }
 
 /* Remove outline from links */
