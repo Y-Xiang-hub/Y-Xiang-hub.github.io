@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuexin Xiang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yuexin Xiang"
 description              : &description "PhD Student"
