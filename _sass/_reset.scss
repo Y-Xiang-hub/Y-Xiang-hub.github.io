@@ -74,6 +74,21 @@ div.sidebar.sticky {
   text-decoration: none;
 }
 
+.masthead__menu-item a:focus {
+  // color: #5c6266;
+  color: blueviolet;
+}
+.masthead__menu-item a:focus::before {
+  // background-color: #BDC1C4;
+  background-color: blue;
+}
+// a:focus {
+//   @include tab-focus;
+// }
+
+
+
+
 /* Selected elements */
 
 ::-moz-selection {
