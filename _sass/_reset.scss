@@ -23,12 +23,21 @@ html {
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 12px;
+  font-size: 1.5em;
   background-color: antiquewhite;
 }
 
 p {
-  font-size: 8px;
+  font-size: 1.2em;
+}
+
+.author__avatar {
+  padding: 5px;
+  border: none;
+  max-width: 150px;
+  max-height: 150px;
+  object-fit: cover;
+  scale: 1.5;
 }
 
 /* Selected elements */
@@ -77,6 +86,7 @@ audio:not([controls]) {
 
 a {
   color: $link-color;
+  font-size: 1em;
 }
 
 /* Apply focus state */
