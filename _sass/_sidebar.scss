@@ -85,10 +85,16 @@
   img {
     max-width: 175px;
     border-radius: 50%;
+    // max-width: 150px;
+    // border-radius: 0;
 
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
+      // padding: 0;
+      // border: 0;
+      // display: block;
+      // box-sizing: border-box;
     }
   }
 }
