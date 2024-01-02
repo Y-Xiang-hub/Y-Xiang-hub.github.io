@@ -39,8 +39,11 @@ p {
   border-radius: 0%;
 }
 
-.sidebar p, .sidebar li {
-  font-size: 12px;
+// .sidebar p, .sidebar li {
+//   font-size: 12px;
+// }
+div.sidebar.sticky {
+  font-size: 1rem;
 }
 
 /* Selected elements */
