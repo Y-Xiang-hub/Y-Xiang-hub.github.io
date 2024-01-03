@@ -46,7 +46,7 @@ Y. Chen, H. Yin, **Y. Xiang**, W. Ren, Y. Ren, and N. N. Xiong<br />
 *2022 IEEE International Conference on Big Data*. 
 * [An Illicit Bitcoin Address Analysis Scheme Based on Subgraph Evolution](https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys57074.2022.00116)<br />
 Q. Yang, **Y. Xiang**, W. Liu, and W. Ren<br />
-*2022 IEEE 24th International Conference on High Performance Computing & Communications*.
+*2022 IEEE 24th International Conference on High Performance Computing and Communications*.
 
 <!--# Preprint-->
 
