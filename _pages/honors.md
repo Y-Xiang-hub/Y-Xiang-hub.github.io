@@ -12,7 +12,7 @@ redirect_from:
 # Award
 
 * [**Meritorious Winner of Mathematical Contest in Modeling**](https://www.comap-math.com/mcm/2019Certs/1903649.pdf), Apr. 2019. 
-  * Issued by Consortium for Mathematics and Its Applications (COMAP). 
+  * Issued by Consortium for Mathematics and Its Applications. 
   * Top 8% of 14,108 teams worldwide.
 * **State-level First Prize of Contemporary Undergraduate Mathematical Contest in Modeling**, Dec. 2018.
   * Issued by China Society for Industrial and Applied Mathematics.
