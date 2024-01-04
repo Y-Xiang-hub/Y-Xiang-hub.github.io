@@ -73,6 +73,13 @@ div.sidebar.sticky {
   margin-top: 25px;
 }
 
+h1.archive::after {
+  box-sizing: border-box;
+  width: 100px;
+  height: 10px;
+  background-color: brown;
+}
+
 .archive li a {
   text-decoration: none;
 }
