@@ -23,7 +23,7 @@ NEWS
 
 [Dec'23] Our paper "AdvEWM: Generating Image Adversarial Examples by Embedding Digital Watermarks" has been published in JISA.
 
-[Sep'23] Our paper "A Lightweight Privacy-Preserving Scheme Using Pixel Block Mixing for Facial Image Classification in Deep Learning" has been published in EAAI.
+[Nov'23] Our paper "A Lightweight Privacy-Preserving Scheme Using Pixel Block Mixing for Facial Image Classification in Deep Learning" has been published in EAAI.
 
 
 Education
