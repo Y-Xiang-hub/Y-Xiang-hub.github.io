@@ -87,7 +87,7 @@ h1::after {
 }
 
 a.tab__active {
-  color: #5c6266;
+  color: #5c6266 !important;
   font-weight: bold;
 }
 
@@ -101,6 +101,22 @@ a.tab__active::after {
   position: absolute;
   left: 0;
   bottom: 0;
+}
+
+ul.list__news {
+  border: 1px solid #dadada;
+  width: 100%;
+  height: 25%;
+  overflow: auto;
+}
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 7px;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background-color: rgba(0,0,0,.5);
+  -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
 }
 
 

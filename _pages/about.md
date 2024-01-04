@@ -19,7 +19,7 @@ Hi, I'm Yuexin Xiang, currently pursuing PhD in the Faculty of Information Techn
 
 NEWS
 ======
-<ul style="border: 2px solid #ccc!important; border-radius: 10px; width: 100%; height: 30%; overflow: scroll;">
+<ul class="list__news">
   <li>[Jan'24] Our paper "BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis" has been published in <strong>IEEE TIFS</strong>.</li>
   <li>[Dec'23] Our paper "AdvEWM: Generating Image Adversarial Examples by Embedding Digital Watermarks" has been published in <strong>JISA</strong>.</li>
   <li>[Nov'23] Our paper "A Lightweight Privacy-Preserving Scheme Using Pixel Block Mixing for Facial Image Classification in Deep Learning" has been published in <strong>EAAI</strong>.</li>
