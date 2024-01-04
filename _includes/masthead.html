@@ -22,20 +22,12 @@
   </div>
 </div>
 
-
-<script>
-  const pathname = window.location.pathname.split("/")[1];
-  let page = pathname=="" ? "home" : pathname;
-  let activeTab = document.getElementById(page);
-  activeTab.classList.add("tab__active");
-</script>
-
 <style>
-  .greedy-nav .tab__active a {
+  a.tab__active {
     color: brown;
     font-weight: bold;
   }
-  .greedy-nav .tab__active a::before {
+  a.tab__active::before {
     content: "";
     display: block;
     background-color: #bdc1c4;
@@ -52,3 +44,10 @@
     z-index: 999;
   }
 </style>
+
+<script>
+  const pathname = window.location.pathname.split("/")[1];
+  let page = pathname=="" ? "home" : pathname;
+  let activeTab = document.getElementById(page);
+  activeTab.classList.add("tab__active");
+</script>
