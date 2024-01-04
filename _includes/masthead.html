@@ -22,6 +22,14 @@
   </div>
 </div>
 
+
+<script>
+  const pathname = window.location.pathname.split("/")[1];
+  let page = pathname=="" ? "home" : pathname;
+  let activeTab = document.getElementById(page);
+  activeTab.classList.add("tab__active");
+</script>
+
 <style>
   .greedy-nav .tab__active a {
     color: brown;
@@ -33,7 +41,7 @@
     left: 0;
     bottom: 0;
     height: 4px;
-    background: #bdc1c4;
+    background-color: #bdc1c4;
     width: 100%;
     /* -webkit-transition: all 0.2s ease-in-out; */
     /* transition: all 0.2s ease-in-out; */
@@ -42,10 +50,3 @@
     /* transform: scaleX(0); */
   }
 </style>
-
-<script>
-  const pathname = window.location.pathname.split("/")[1];
-  let page = pathname=="" ? "home" : pathname;
-  let activeTab = document.getElementById(page);
-  activeTab.classList.add("tab__active");
-</script>
