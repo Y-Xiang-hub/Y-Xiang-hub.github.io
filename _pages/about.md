@@ -25,7 +25,7 @@ NEWS
 
 [Nov'23] Our paper "A Lightweight Privacy-Preserving Scheme Using Pixel Block Mixing for Facial Image Classification in Deep Learning" has been published in **EAAI**.
 
-[Oct'23] I am honored to be the recipient of the **Monash Central Scholarship** for 2023.
+[Oct'23] I am honored to be the recipient of **Monash Central Scholarship** for 2023.
 
 
 Education
