@@ -19,11 +19,11 @@ Hi, I'm Yuexin Xiang, currently pursuing PhD in the Faculty of Information Techn
 
 NEWS
 ======
-[Jan'24] Our paper "BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis" has been published in IEEE TIFS! 
+[Jan'24] Our paper "BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis" has been published in IEEE TIFS. 
 
-[Dec'23] Our work about DNN security has been published in JISA!
+[Dec'23] Our paper "AdvEWM: Generating Image Adversarial Examples by Embedding Digital Watermarks" has been published in JISA.
 
-[Sep'23] Our work about DNN privacy preservation has been published in EAAI!
+[Sep'23] Our paper "A Lightweight Privacy-Preserving Scheme Using Pixel Block Mixing for Facial Image Classification in Deep Learning" has been published in EAAI.
 
 
 Education
