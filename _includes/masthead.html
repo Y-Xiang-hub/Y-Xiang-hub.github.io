@@ -37,16 +37,18 @@
   }
   .greedy-nav .tab__active a::before {
     content: "";
+    display: block;
+    background-color: #bdc1c4;
     position: absolute;
     left: 0;
     bottom: 0;
     height: 4px;
-    background-color: #bdc1c4;
     width: 100%;
     /* -webkit-transition: all 0.2s ease-in-out; */
     /* transition: all 0.2s ease-in-out; */
     /* -webkit-transform: scaleX(0); */
     /* -ms-transform: scaleX(0); */
     /* transform: scaleX(0); */
+    z-index: 999;
   }
 </style>
