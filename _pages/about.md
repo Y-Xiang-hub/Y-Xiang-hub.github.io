@@ -19,7 +19,8 @@ Hi, I'm Yuexin Xiang, currently pursuing PhD in the Faculty of Information Techn
 
 NEWS
 ======
-[Jan'24] Our work has been published in IEEE TIFS!
+[Jan'24] Our work has been published in IEEE TIFS! 
+
 [Dec'23] Our works about DNN security and privacy preservation have been accepted by EAAI and JISA!
 
 
