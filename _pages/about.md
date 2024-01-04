@@ -21,8 +21,9 @@ NEWS
 ======
 [Jan'24] Our work has been published in IEEE TIFS! 
 
-[Dec'23] Our works about DNN security and privacy preservation have been accepted by EAAI and JISA!
+[Dec'23] Our work about DNN security has been published in JISA!
 
+[Sep'23] Our work about DNN privacy preservation has been published in EAAI!
 
 
 Education
