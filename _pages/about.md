@@ -19,7 +19,7 @@ Hi, I'm Yuexin Xiang, currently pursuing PhD in the Faculty of Information Techn
 
 NEWS
 ======
-[Jan'24] Our work has been published in IEEE TIFS! 
+[Jan'24] Our paper "BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis" has been published in IEEE TIFS! 
 
 [Dec'23] Our work about DNN security has been published in JISA!
 
