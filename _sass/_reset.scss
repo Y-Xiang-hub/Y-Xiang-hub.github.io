@@ -104,9 +104,9 @@ a.tab__active::after {
 }
 
 ul.list__news {
-  border: 1px solid #dadada;
+  // border: 1px solid #dadada;
   width: 100%;
-  max-height: 100px;
+  max-height: 150px;
   overflow: auto;
 }
 ::-webkit-scrollbar {
@@ -115,7 +115,7 @@ ul.list__news {
 }
 ::-webkit-scrollbar-thumb {
   border-radius: 4px;
-  background-color: rgba(0,0,0,.5);
+  background-color: rgba(127, 127, 127, 0.5);
   -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
 }
 
