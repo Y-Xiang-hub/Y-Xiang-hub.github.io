@@ -107,7 +107,7 @@ ul.list__news {
   border: 1px solid #dadada;
   width: 100%;
   max-height: 100px;
-  overflow: scroll;
+  overflow: auto;
 }
 ::-webkit-scrollbar {
   -webkit-appearance: none;
