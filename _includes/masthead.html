@@ -22,8 +22,16 @@
   </div>
 </div>
 
+<style>
+  .tab__active {
+    color: brown;
+    font-weight: bold;
+  }
+</style>
+
 <script>
-  // const pathname = window.location.pathname.split("/")[1];
-  // let page = pathname=="" ? "/" : pathname;
-  // let activeTab = document.getElementById("myDIV");
+  const pathname = window.location.pathname.split("/")[1];
+  let page = pathname=="" ? "home" : pathname;
+  let activeTab = document.getElementById(page);
+  activeTab.classList.add("tab__active");
 </script>
