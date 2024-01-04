@@ -1,5 +1,5 @@
 ---
-layout: new
+layout: archive
 permalink: /
 # title: "About Me"
 # excerpt: "About Me"
