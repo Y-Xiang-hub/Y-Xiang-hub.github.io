@@ -2,11 +2,11 @@
 main:
   
   - title: "Publication"
-    url: /publications/
+    url: /publication/
     pageid: "publications"
 
   - title: "Honor"
-    url: /honors/
+    url: /honor/
     pageid: "honors"  
 
   - title: "Experience"
