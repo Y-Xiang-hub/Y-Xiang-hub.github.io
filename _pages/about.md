@@ -32,7 +32,7 @@ Education
 * MEng in **Computer Science and Technology**, China University of Geosciences, 2020 - 2023.
 * BEng in **Information Security**, China University of Geosciences, 2016 - 2020.
  
-Collaborators
+Collaborator
 ======
 * [Tiantian Li](https://www.linkedin.com/in/tiant-li/), Master of Information Technology, University of Melbourne.
 * [Yuchen Lei](https://www.linkedin.com/in/~yclei/), Master's Student, Wuhan University.
