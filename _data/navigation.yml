@@ -1,11 +1,11 @@
 # main links links
 main:
   
-  - title: "Publications"
+  - title: "Publication"
     url: /publications/
     pageid: "publications"
 
-  - title: "Honors"
+  - title: "Honor"
     url: /honors/
     pageid: "honors"  
 
