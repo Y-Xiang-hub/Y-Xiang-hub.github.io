@@ -13,4 +13,6 @@ main:
     url: /experience/
     pageid: "experience"
 
-
+  - title: "Service"
+    url: /services/
+    pageid: "services"
