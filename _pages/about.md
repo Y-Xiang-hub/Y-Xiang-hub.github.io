@@ -34,7 +34,7 @@ Education
  
 Collaborator
 ======
-* [Kim-Kwang Raymond Choo](https://www.linkedin.com/in/raymondchoo), University of Texas at San Antonio
+* [Kim-Kwang Raymond Choo](https://www.linkedin.com/in/raymondchoo), University of Texas at San Antonio.
 * [Yuchen Lei](https://www.linkedin.com/in/~yclei/), Wuhan University.
 * [Tiantian Li](https://www.linkedin.com/in/tiant-li/), University of Melbourne.
 * [Yuquan Li](https://www.linkedin.com/in/yuquan-li-0228/), University of Southern California.
