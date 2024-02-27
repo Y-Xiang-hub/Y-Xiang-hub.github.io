@@ -32,12 +32,11 @@ Education
 * MEng in **Computer Science and Technology**, China University of Geosciences, 2020 - 2023.
 * BEng in **Information Security**, China University of Geosciences, 2016 - 2020.
  
-Collaborator
+Selected Publication
 ======
-* [Kim-Kwang Raymond Choo](https://www.linkedin.com/in/raymondchoo), University of Texas at San Antonio.
-* [Yuchen Lei](https://www.linkedin.com/in/~yclei/), Wuhan University.
-* [Tiantian Li](https://www.linkedin.com/in/tiant-li/), University of Melbourne.
-* [Yuquan Li](https://www.linkedin.com/in/yuquan-li-0228/), University of Southern California & Shanghai Jiao Tong University.
+* Y. Xiang, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K.-K. R. Choo, "**BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis**," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 2171-2185, 2024.
+* Y. Xiang, T. Li, W. Ren, T. Zhu, and K. K. R. Choo, "**A Lightweight Privacy-preserving Scheme Using Pixel Block Mixing for Facial Image Classification in Deep Learning**," Engineering Applications of Artificial Intelligence, vol. 126, 107180, 2023.
+* Y. Xiang, W. Ren, T. Li, X. Zheng, T. Zhu, and K. K. R. Choo, "**A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks**," Journal of Network and Computer Applications, vol. 176, 102953.
 
 
 
