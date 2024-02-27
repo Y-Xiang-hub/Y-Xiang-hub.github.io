@@ -11,9 +11,9 @@ redirect_from:
 
 # Membership
 
-* Institute of Electrical and Electronics Engineers (IEEE) Graduate Student Member<br /> 
-* Association for Computing Machinery (ACM) Student Member<br /> 
-* China Computer Federation (CCF) Member<br /> 
+* IEEE Graduate Student Member<br /> 
+* ACM Student Member<br /> 
+* CCF Member<br /> 
 
 # Invited Reviewer
 * Computers & Security
