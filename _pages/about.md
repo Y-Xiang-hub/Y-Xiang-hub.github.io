@@ -35,8 +35,8 @@ Education
 Selected Publication
 ======
 * Y. Xiang, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K.-K. R. Choo, "**[BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis](https://doi.org/10.1109/TIFS.2023.3347894)**," IEEE Transactions on Information Forensics and Security, vol. 19, pp. 2171-2185, 2024.
-* Y. Xiang, T. Li, W. Ren, T. Zhu, and K. K. R. Choo, "**[A Lightweight Privacy-preserving Scheme Using Pixel Block Mixing for Facial Image Classification in Deep Learning](https://doi.org/10.1016/j.engappai.2023.107180)**," Engineering Applications of Artificial Intelligence, vol. 126, 107180, 2023.
-* Y. Xiang, W. Ren, T. Li, X. Zheng, T. Zhu, and K. K. R. Choo, "**[A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks](https://doi.org/10.1016/j.jnca.2020.102953)**," Journal of Network and Computer Applications, vol. 176, 102953.
+* Y. Xiang, T. Li, W. Ren, T. Zhu, and K. K. R. Choo, "**[A Lightweight Privacy-preserving Scheme Using Pixel Block Mixing for Facial Image Classification in Deep Learning](https://doi.org/10.1016/j.engappai.2023.107180)**," Engineering Applications of Artificial Intelligence, vol. 126, pp. 107180, 2023.
+* Y. Xiang, W. Ren, T. Li, X. Zheng, T. Zhu, and K. K. R. Choo, "**[A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks](https://doi.org/10.1016/j.jnca.2020.102953)**," Journal of Network and Computer Applications, vol. 176, pp. 102953, 2021.
 
 
 
