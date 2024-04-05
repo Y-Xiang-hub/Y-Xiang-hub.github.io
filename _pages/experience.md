@@ -20,7 +20,7 @@ redirect_from:
 
 # Project
 
-* Research on Illicit Bitcoin Addresses in Transaction Graphs (*Team Leader*)<br /> 
+* Research on Illicit Bitcoin Address Detection in Transaction Graphs (*Team Leader*)<br /> 
 * Research on Blockchain-based Decentralized Big Data Transactions (*Major Contributor*)<br /> 
 * Research on Security and Privacy Preservation in Deep Learning Models (*Major Contributor*)<br /> 
 * Research on Crowdsourcing Mechanism Based on Smart Contracts (*Major Contributor*)
