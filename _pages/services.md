@@ -12,7 +12,7 @@ redirect_from:
 # Invited Reviewer
 * Computers & Security
 * Journal of Network and Computer Applications
-
+* Computer Standards & Interfaces
   
 # Membership
 
