@@ -13,7 +13,7 @@ redirect_from:
 
 About Me
 ======
-Hi, I'm Yuexin Xiang, currently pursuing PhD in the Faculty of Information Technology at Monash University (supervised by [Rafael Dowsley](https://dowsley.net), [Tsz Hon Yuen](https://thyuen.github.io), and [Jiangshan Yu](https://www.jiangshanyu.com)). My research revolves around blockchain, security, and artificial intelligence. 
+Hi, I'm Yuexin Xiang, currently pursuing PhD in the Faculty of Information Technology at Monash University in Australia. My research revolves around blockchain, security, and artificial intelligence. 
 
 <span style="color: red;">If you have any academic inquiries or are interested in exploring potential collaborative projects, please feel free to contact me at</span> <a style="text-decoration: none"><strong>Yuexin.Xiang@monash.edu</strong></a>.
 
@@ -28,7 +28,7 @@ NEWS
 
 Education
 ======
-* PhD in **Computer Science**, Monash University, 2024 - 2028 (expected).
+* PhD in **Computer Science** (supervised by [Rafael Dowsley](https://dowsley.net), [Tsz Hon Yuen](https://thyuen.github.io), and [Jiangshan Yu](https://www.jiangshanyu.com)), Monash University, 2024 - 2028 (expected).
 * MEng in **Computer Science and Technology**, China University of Geosciences, 2020 - 2023.
 * BEng in **Information Security**, China University of Geosciences, 2016 - 2020.
  
