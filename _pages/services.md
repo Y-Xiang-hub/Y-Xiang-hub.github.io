@@ -11,9 +11,11 @@ redirect_from:
 
 # Invited Reviewer
 * Computers & Security
+* Computer Standards & Interfaces
 * Journal of Network and Computer Applications
 * Journal of Information Security and Applications
-* Computer Standards & Interfaces
+* Neural Networks
+
   
 # Membership
 
