@@ -13,7 +13,7 @@ redirect_from:
 * Computers & Security
 * Computer Standards & Interfaces
 * Computers & Industrial Engineering
-* Expert Systems With Applications
+* Expert Systems with Applications
 * Journal of Network and Computer Applications
 * Journal of Information Security and Applications
 * Neural Networks
