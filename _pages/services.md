@@ -18,9 +18,10 @@ redirect_from:
 * Journal of Information Security and Applications
 * Neural Networks
 
-  
-# Membership
+# Conference Service
+* PC Member, ACM CCS 2024 Artifact Evaluation 
 
+# Membership
 * IEEE Graduate Student Member<br /> 
 * ACM Student Member<br /> 
 * CCF Member<br /> 
