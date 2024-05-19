@@ -12,11 +12,15 @@ redirect_from:
 # Scholarship
 
 * **Monash Graduate Scholarship**, Oct. 2023
+  * Issued by Monash University
 * **Monash International Tuition Scholarship**, Oct. 2023
+  * Issued by Monash University
 * **National Scholarship for Postgraduate**, Dec. 2021
+  * Issued by Ministry of Education of the People's Republic of China
 * **China National Computer Congress Participation Scholarship**, Sep, 2021
+  * Issued by China Computer Federation
 * **First-class Academic Scholarship for Postgraduate**, Oct. 2020, Oct. 2021, and Oct. 2022
-
+  * Issued by Ministry of Education of the People's Republic of China
 
 # Award
 
