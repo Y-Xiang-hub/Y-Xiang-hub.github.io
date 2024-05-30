@@ -21,10 +21,10 @@ redirect_from:
 
 # Project
 
-* Research on Illicit Bitcoin Address Pattern Analysis in Transaction Graphs<br /> 
-* Research on Blockchain-based Decentralized Big Data Transactions<br /> 
-* Research on Security and Privacy Preservation in Deep Learning Models <br /> 
-* Research on Crowdsourcing Mechanism Based on Smart Contracts 
+* Research on Illicit Activity Detection and Analysis in Cryptocurrency Transaction Graphs<br /> 
+* Research on Decentralized Data Transaction Approach Based on Blockchain<br /> 
+* Research on Security and Privacy Preservation Techniques in Deep Neural Networks<br /> 
+* Research on Enhanced Crowdsourcing Mechanisms Using Smart Contracts
 
 <!-- # Intership -->
 
