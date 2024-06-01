@@ -20,8 +20,8 @@ author_profile: true
 * [BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis](https://doi.org/10.1109/TIFS.2023.3347894)<br />
 **Y. Xiang**, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K.-K. R. Choo<br />
 *IEEE Transactions on Information Forensics and Security*, 2024<br />
-  [<span style="color: blue;">Code Repository</span>](https://github.com/Y-Xiang-hub/Bitcoin-Address-Behavior-Analysis) &nbsp; | &nbsp;
-  [<span style="color: blue;">Dataset on Kaggle</span>](https://www.kaggle.com/datasets/lemonx/babd13)
+  [<span style="color: blue;">Code</span>](https://github.com/Y-Xiang-hub/Bitcoin-Address-Behavior-Analysis) &nbsp; | &nbsp;
+  [<span style="color: blue;">Data</span>](https://www.kaggle.com/datasets/lemonx/babd13)
 * [AdvEWM: Generating Image Adversarial Examples by Embedding Digital Watermarks](https://doi.org/10.1016/j.jisa.2023.103662)<br />
 **Y. Xiang**, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
 *Journal of Information Security and Applications*, 2024<br />
