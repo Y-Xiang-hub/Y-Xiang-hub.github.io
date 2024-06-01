@@ -24,7 +24,7 @@ author_profile: true
 * [AdvEWM: Generating Image Adversarial Examples by Embedding Digital Watermarks](https://doi.org/10.1016/j.jisa.2023.103662)<br />
 **Y. Xiang**, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
 *Journal of Information Security and Applications*, 2024<br />
-[<span style="color: blue;">[code]</span>](https://github.com/Y-Xiang-hub/Bitcoin-Address-Behavior-Analysis)|[<span style="color: blue;">[data]</span>](https://www.kaggle.com/datasets/lemonx/babd13)
+[<span style="color: blue;">[code]</span>](https://github.com/Y-Xiang-hub/AdvEWM)
 * [A Lightweight Privacy-Preserving Scheme Using Pixel Block Mixing for Facial Image Classification in Deep Learning](https://doi.org/10.1016/j.engappai.2023.107180)<br />
 **Y. Xiang**, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
 *Engineering Applications of Artificial Intelligence*, 2023
