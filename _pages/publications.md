@@ -37,12 +37,15 @@ D. Bao, W. Ren, **Y. Xiang**, W. Liu, T. Zhu, Y. Ren, and K.-K. R. Choo<br />
 * [A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks](https://doi.org/10.1016/j.jnca.2020.102953)<br />
 **Y. Xiang**, W. Ren, T. Li, X. Zheng, T. Zhu, and K.-K. R. Choo<br />
 *Journal of Network and Computer Applications*, 2021<br />
+[<span style="color: blue;">[Code]</span>](https://github.com/Y-Xiang-hub/A-Copyright-Protection-Method-in-Big-Data-Trade)
 * [FAPS: A Fair, Autonomous and Privacy-preserving Scheme for Big Data Exchange Based on Oblivious Transfer, Ether Cheque and Smart Contracts](https://doi.org/10.1016/j.ins.2020.08.116)<br />
 T. Li, W. Ren, **Y. Xiang**, X. Zheng, T. Zhu, K.-K. R. Choo, and G. Srivastava<br />
-*Information Sciences*, 2021<br />  
+*Information Sciences*, 2021<br />
+[<span style="color: blue;">[Code]</span>](https://github.com/Y-Xiang-hub/FAPS-Prototype)
 * [CVT: A Crowdsourcing Video Transcoding Scheme Based on Blockchain Smart Contracts](https://doi.org/10.1109/ACCESS.2020.3043042)<br />
 Y. Chen, H. Yin, **Y. Xiang**, W. Ren, Y. Ren, and N. N. Xiong<br />
-*IEEE Access*, 2020 
+*IEEE Access*, 2020<br />
+[<span style="color: blue;">[Code]</span>](https://github.com/Y-Xiang-hub/Crowdsourcing-With-Smart-Contract)
 
 # Conference
 
