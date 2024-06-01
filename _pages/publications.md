@@ -20,7 +20,8 @@ author_profile: true
 * [BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis](https://doi.org/10.1109/TIFS.2023.3347894)<br />
 **Y. Xiang**, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K.-K. R. Choo<br />
 *IEEE Transactions on Information Forensics and Security*, 2024<br />
-[<span style="color: blue;">[code]</span>](https://github.com/Y-Xiang-hub/Bitcoin-Address-Behavior-Analysis)<br>[<span style="color: blue;">[data]</span>](https://www.kaggle.com/datasets/lemonx/babd13)
+  [<span style="color: blue;">Code Repository</span>](https://github.com/Y-Xiang-hub/Bitcoin-Address-Behavior-Analysis) &nbsp; | &nbsp;
+  [<span style="color: blue;">Dataset on Kaggle</span>](https://www.kaggle.com/datasets/lemonx/babd13)
 * [AdvEWM: Generating Image Adversarial Examples by Embedding Digital Watermarks](https://doi.org/10.1016/j.jisa.2023.103662)<br />
 **Y. Xiang**, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
 *Journal of Information Security and Applications*, 2024<br />
@@ -28,15 +29,17 @@ author_profile: true
 * [A Lightweight Privacy-Preserving Scheme Using Pixel Block Mixing for Facial Image Classification in Deep Learning](https://doi.org/10.1016/j.engappai.2023.107180)<br />
 **Y. Xiang**, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
 *Engineering Applications of Artificial Intelligence*, 2023
+[<span style="color: blue;">[code]</span>](https://github.com/oopshell/Pixel-Blocks-Mixing-For-Image-Privacy-Preservation)
 * [BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs](https://doi.org/10.1007/s11704-023-2531-0)<br />
 D. Bao, W. Ren, **Y. Xiang**, W. Liu, T. Zhu, Y. Ren, and K.-K. R. Choo<br />
-*Frontiers of Computer Science*, 2023.
+*Frontiers of Computer Science*, 2023<br />
+[<span style="color: blue;">[demo]</span>](https://github.com/whbyaoi/BTCShadow)
 * [A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks](https://doi.org/10.1016/j.jnca.2020.102953)<br />
 **Y. Xiang**, W. Ren, T. Li, X. Zheng, T. Zhu, and K.-K. R. Choo<br />
-*Journal of Network and Computer Applications*, 2021
+*Journal of Network and Computer Applications*, 2021<br />
 * [FAPS: A Fair, Autonomous and Privacy-preserving Scheme for Big Data Exchange Based on Oblivious Transfer, Ether Cheque and Smart Contracts](https://doi.org/10.1016/j.ins.2020.08.116)<br />
 T. Li, W. Ren, **Y. Xiang**, X. Zheng, T. Zhu, K.-K. R. Choo, and G. Srivastava<br />
-*Information Sciences*, 2021  
+*Information Sciences*, 2021<br />  
 * [CVT: A Crowdsourcing Video Transcoding Scheme Based on Blockchain Smart Contracts](https://doi.org/10.1109/ACCESS.2020.3043042)<br />
 Y. Chen, H. Yin, **Y. Xiang**, W. Ren, Y. Ren, and N. N. Xiong<br />
 *IEEE Access*, 2020 
