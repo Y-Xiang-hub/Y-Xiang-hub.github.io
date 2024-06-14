@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 # Invited Reviewer
+* Computer Networks
 * Computers & Security
 * Computer Standards & Interfaces
-* Computer Networks
 * Computers & Industrial Engineering
 * Expert Systems with Applications
 * Journal of Network and Computer Applications
