@@ -12,6 +12,7 @@ redirect_from:
 # Invited Reviewer
 * Computers & Security
 * Computer Standards & Interfaces
+* Computer Networks
 * Computers & Industrial Engineering
 * Expert Systems with Applications
 * Journal of Network and Computer Applications
