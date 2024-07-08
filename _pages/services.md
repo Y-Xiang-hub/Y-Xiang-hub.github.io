@@ -15,6 +15,7 @@ redirect_from:
 * Computers & Security
 * Computer Standards & Interfaces
 * Computers & Industrial Engineering
+* Computers and Electrical Engineering
 * Expert Systems with Applications
 * Journal of Network and Computer Applications
 * Journal of Information Security and Applications
