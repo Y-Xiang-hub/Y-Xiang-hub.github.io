@@ -19,6 +19,7 @@ redirect_from:
 * Expert Systems with Applications
 * Journal of Network and Computer Applications
 * Journal of Information Security and Applications
+* Neurocomputing
 * Neural Networks
 
 # Conference Service
