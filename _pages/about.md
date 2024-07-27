@@ -29,7 +29,7 @@ NEWS
 
 Education
 ======
-* PhD in **Information Technology** (supervised by [Rafael Dowsley](https://dowsley.net), [Tsz Hon Yuen](https://thyuen.github.io), and [Jiangshan Yu](https://www.jiangshanyu.com)), Monash University, 2024 - Now
+* PhD, Monash University, 2024 - Now (supervised by [Rafael Dowsley](https://dowsley.net), [Tsz Hon Yuen](https://thyuen.github.io), and [Jiangshan Yu](https://www.jiangshanyu.com))
 * MEng in **Computer Science and Technology**, China University of Geosciences, 2020 - 2023
 * BEng in **Information Security**, China University of Geosciences, 2016 - 2020
  
