@@ -13,7 +13,7 @@ redirect_from:
 
 About Me
 ======
-Hi, I'm Yuexin Xiang, currently pursuing PhD in the Faculty of Information Technology at Monash University in Australia. My research revolves around blockchain, security, and artificial intelligence. If you have academic inquiries or are interested in collaboration, feel free to contact me at <a style="text-decoration: none"><strong>Yuexin.Xiang@monash.edu</strong></a>.
+Hi, I'm Yuexin Xiang, currently pursuing PhD in the Faculty of Information Technology at Monash University in Australia. My research revolves around blockchain, security, and artificial intelligence. If you have academic inquiries or are interested in collaboration, feel free to contact me at <a style="text-decoration: none">Yuexin.Xiang@monash.edu</a>.
 
 NEWS
 ======
@@ -33,9 +33,9 @@ Education
  
 Selected Publication
 ======
-* Y. Xiang, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K.-K. R. Choo, "**[BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis](https://doi.org/10.1109/TIFS.2023.3347894)**," IEEE Transactions on Information Forensics and Security, vol. 19, pp. 2171-2185, 2024.
-* Y. Xiang, T. Li, and Y. Li, "**[Leveraging Subgraph Structure for Exploration and Analysis of Bitcoin Address](https://doi.org/10.1109/BigData55660.2022.10020980)**," IEEE International Conference on Big Data, Osaka, Japan, 2022, pp. 1957-1962.
-* Y. Xiang, W. Ren, T. Li, X. Zheng, T. Zhu, and K. K. R. Choo, "**[A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks](https://doi.org/10.1016/j.jnca.2020.102953)**," Journal of Network and Computer Applications, vol. 176, pp. 102953, 2021.
+* Y. Xiang, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K.-K. R. Choo, "[BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis](https://doi.org/10.1109/TIFS.2023.3347894)," IEEE Transactions on Information Forensics and Security, vol. 19, pp. 2171-2185, 2024.
+* Y. Xiang, T. Li, and Y. Li, "[Leveraging Subgraph Structure for Exploration and Analysis of Bitcoin Address](https://doi.org/10.1109/BigData55660.2022.10020980)," IEEE International Conference on Big Data, Osaka, Japan, 2022, pp. 1957-1962.
+* Y. Xiang, W. Ren, T. Li, X. Zheng, T. Zhu, and K. K. R. Choo, "[A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks](https://doi.org/10.1016/j.jnca.2020.102953)," Journal of Network and Computer Applications, vol. 176, pp. 102953, 2021.
 
 
 
