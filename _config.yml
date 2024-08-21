@@ -82,9 +82,7 @@ analytics:
 author:
   name             : "Yuexin Xiang"
   avatar           : "profile.jpg"
-  bio              : | 
-                    PhD Student 
-                    Monash University
+  bio              : "PhD Student\n Monash University"
   location         : #"Australia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
