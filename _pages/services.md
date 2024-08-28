@@ -23,7 +23,7 @@ redirect_from:
 * Neurocomputing
 
 # Conference Service
-* PC Member, ACM CCS 2024 Artifact Evaluation 
+* PC Member, [ACM CCS 2024 Artifact Evaluation](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html)
 
 # Membership
 * IEEE Graduate Student Member<br /> 
