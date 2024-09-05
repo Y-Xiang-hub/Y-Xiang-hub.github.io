@@ -17,12 +17,6 @@ redirect_from:
 * Qingqing Yang, Master Thesis: Research on Security Analysis Techniques for Detecting Illicit Activities in Blockchain Transactions, China University of Geosciences, Wuhan, China, Jun. 2024
  
 
-# Project
-
-* Research on Blockchain-empowered Cryptocurrency Transaction Graph Analysis<br /> 
-* Research on Blockchain Smart Contract-based Applications<br /> 
-* Research on Security and Privacy Preservation Techniques in Deep Neural Networks<br /> 
-
 
 <!-- # Intership -->
 
