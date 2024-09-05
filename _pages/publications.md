@@ -15,22 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+# Blockchain and Cryptocurrency Transaction Analysis
 
 * [BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis](https://doi.org/10.1109/TIFS.2023.3347894)<br />
 Y. Xiang, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K.-K. R. Choo<br />
 *IEEE Transactions on Information Forensics and Security*, 2024.<br />
 <a href="https://github.com/Y-Xiang-hub/Bitcoin-Address-Behavior-Analysis" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;" onmouseover="this.style.backgroundColor='#1a6f5c'" onmouseout="this.style.backgroundColor='#20c997'">code</a>
 <a href="https://www.kaggle.com/datasets/lemonx/babd13" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block;" onmouseover="this.style.backgroundColor='#1a6f5c'" onmouseout="this.style.backgroundColor='#20c997'">data</a>
-
-* [AdvEWM: Generating Image Adversarial Examples by Embedding Digital Watermarks](https://doi.org/10.1016/j.jisa.2023.103662)<br />
-Y. Xiang, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
-*Journal of Information Security and Applications*, 2024.<br />
-<a href="https://github.com/Y-Xiang-hub/AdvEWM" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;" onmouseover="this.style.backgroundColor='#1a6f5c'" onmouseout="this.style.backgroundColor='#20c997'">code</a>
-
-* [A Lightweight Privacy-Preserving Scheme Using Pixel Block Mixing for Facial Image Classification in Deep Learning](https://doi.org/10.1016/j.engappai.2023.107180)<br />
-Y. Xiang, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
-*Engineering Applications of Artificial Intelligence*, 2023.<br />
-<a href="https://github.com/oopshell/Pixel-Blocks-Mixing-For-Image-Privacy-Preservation" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;" onmouseover="this.style.backgroundColor='#1a6f5c'" onmouseout="this.style.backgroundColor='#20c997'">code</a>
 
 * [BTC-Shadow: An Analysis and Visualization System for Exposing Implicit Behaviors in Bitcoin Transaction Graphs](https://doi.org/10.1007/s11704-023-2531-0)<br />
 D. Bao, W. Ren, Y. Xiang, W. Liu, T. Zhu, Y. Ren, and K.-K. R. Choo<br />
@@ -47,6 +38,8 @@ Q. Yang, Y. Xiang, W. Liu, and W. Ren<br />
 *IEEE International Conference on High Performance Computing and Communications*, 2022.<br />
 <a href="https://www.kaggle.com/datasets/lemonx/bitcoin-subgraph-evolution-data" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;" onmouseover="this.style.backgroundColor='#1a6f5c'" onmouseout="this.style.backgroundColor='#20c997'">data</a>
 
+# Decentralized Data Transactions with Smart Contracts
+
 * [A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks](https://doi.org/10.1016/j.jnca.2020.102953)<br />
 Y. Xiang, W. Ren, T. Li, X. Zheng, T. Zhu, and K.-K. R. Choo<br />
 *Journal of Network and Computer Applications*, 2021.<br />
@@ -61,6 +54,19 @@ T. Li, W. Ren, Y. Xiang, X. Zheng, T. Zhu, K.-K. R. Choo, and G. Srivastava<br /
 Y. Chen, H. Yin, Y. Xiang, W. Ren, Y. Ren, and N. N. Xiong<br />
 *IEEE Access*, 2020.<br />
 <a href="https://github.com/Y-Xiang-hub/Crowdsourcing-With-Smart-Contract" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;" onmouseover="this.style.backgroundColor='#1a6f5c'" onmouseout="this.style.backgroundColor='#20c997'">code</a>
+
+
+# Security and Privacy in AI 
+
+* [AdvEWM: Generating Image Adversarial Examples by Embedding Digital Watermarks](https://doi.org/10.1016/j.jisa.2023.103662)<br />
+Y. Xiang, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
+*Journal of Information Security and Applications*, 2024.<br />
+<a href="https://github.com/Y-Xiang-hub/AdvEWM" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;" onmouseover="this.style.backgroundColor='#1a6f5c'" onmouseout="this.style.backgroundColor='#20c997'">code</a>
+
+* [A Lightweight Privacy-Preserving Scheme Using Pixel Block Mixing for Facial Image Classification in Deep Learning](https://doi.org/10.1016/j.engappai.2023.107180)<br />
+Y. Xiang, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
+*Engineering Applications of Artificial Intelligence*, 2023.<br />
+<a href="https://github.com/oopshell/Pixel-Blocks-Mixing-For-Image-Privacy-Preservation" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;" onmouseover="this.style.backgroundColor='#1a6f5c'" onmouseout="this.style.backgroundColor='#20c997'">code</a>
 
 
 
