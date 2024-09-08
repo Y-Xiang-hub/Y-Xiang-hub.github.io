@@ -17,6 +17,7 @@ redirect_from:
 * Computers & Industrial Engineering
 * Computers and Electrical Engineering
 * Expert Systems with Applications
+* IEEE/CAA Journal of Automatica Sinica
 * Journal of Network and Computer Applications
 * Journal of Information Security and Applications
 * Neural Networks
