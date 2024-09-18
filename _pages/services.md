@@ -16,6 +16,7 @@ redirect_from:
 * Computer Standards & Interfaces
 * Computers & Industrial Engineering
 * Computers and Electrical Engineering
+* Distributed Ledger Technologies: Research and Practice
 * Expert Systems with Applications
 * IEEE/CAA Journal of Automatica Sinica
 * Journal of Network and Computer Applications
