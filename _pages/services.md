@@ -19,6 +19,7 @@ redirect_from:
 * Distributed Ledger Technologies: Research and Practice
 * Expert Systems with Applications
 * IEEE/CAA Journal of Automatica Sinica
+* IEEE Transactions on Information Forensics and Security
 * Journal of Network and Computer Applications
 * Journal of Information Security and Applications
 * Neural Networks
