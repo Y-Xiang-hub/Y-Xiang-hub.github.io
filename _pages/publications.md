@@ -56,7 +56,7 @@ Y. Chen, H. Yin, Y. Xiang, W. Ren, Y. Ren, and N. N. Xiong<br />
 <a href="https://github.com/Y-Xiang-hub/Crowdsourcing-With-Smart-Contract" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;" onmouseover="this.style.backgroundColor='#1a6f5c'" onmouseout="this.style.backgroundColor='#20c997'">code</a>
 
 
-# Security and Privacy in AI 
+# AI Security and Privacy 
 
 * [AdvEWM: Generating Image Adversarial Examples by Embedding Digital Watermarks](https://doi.org/10.1016/j.jisa.2023.103662)<br />
 Y. Xiang, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo<br />
