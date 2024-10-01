@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+
+# Visiting
+* Visiting PhD Scholar, School of Computer Science, University of Sydney, Sep 2024 – Oct 2024
+
+
+
+
 # Supervision
 
 * Wenwen Zheng, Bachelor Thesis: A Graph Neural Network-based Method for Illicit Bitcoin Address Analysis, China University of Geosciences, Wuhan, China, Jun. 2022
