@@ -12,17 +12,17 @@ redirect_from:
 
 # Visiting
 
-* Visiting PhD Scholar, School of Computer Science, University of Sydney, Sep 2024 – Oct 2024
+* Visiting PhD Scholar, *School of Computer Science*, **University of Sydney**, Sep 2024 – Oct 2024
 
 
 
 
 # Supervision
 
-* Wenwen Zheng, Bachelor Thesis: A Graph Neural Network-based Method for Illicit Bitcoin Address Analysis, China University of Geosciences, Wuhan, China, Jun. 2022
-* Shiyuan Feng, Bachelor Thesis: A Machine Learning- and Motivation-based Approach for Illicit Bitcoin Address Analysis, China University of Geosciences, Wuhan, China, Jun. 2022
-* Ding Bao, Master Thesis: Research on Blockchain Transaction Monitoring and Visualization System, China University of Geosciences, Wuhan, China, Jun. 2024
-* Qingqing Yang, Master Thesis: Research on Security Analysis Techniques for Detecting Illicit Activities in Blockchain Transactions, China University of Geosciences, Wuhan, China, Jun. 2024
+* *Wenwen Zheng*, **Bachelor Thesis**: A Graph Neural Network-based Method for Illicit Bitcoin Address Analysis, China University of Geosciences, Wuhan, China, Jun. 2022
+* *Shiyuan Feng*, **Bachelor Thesis**: A Machine Learning- and Motivation-based Approach for Illicit Bitcoin Address Analysis, China University of Geosciences, Wuhan, China, Jun. 2022
+* *Ding Bao*, **Master Thesis**: Research on Blockchain Transaction Monitoring and Visualization System, China University of Geosciences, Wuhan, China, Jun. 2024
+* *Qingqing Yang*, **Master Thesis**: Research on Security Analysis Techniques for Detecting Illicit Activities in Blockchain Transactions, China University of Geosciences, Wuhan, China, Jun. 2024
  
 
 
