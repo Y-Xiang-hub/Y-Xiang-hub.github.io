@@ -12,7 +12,7 @@ redirect_from:
 
 # Visiting
 
-* Visiting PhD Scholar, *School of Computer Science*, **University of Sydney**, Sep 2024 – Oct 2024
+* Visiting PhD Scholar, University of Sydney (School of Computer Science), Sep 2024 – Oct 2024
 
 
 
