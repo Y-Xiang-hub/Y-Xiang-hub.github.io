@@ -11,9 +11,9 @@ redirect_from:
 
 # Scholarship
 
-* **[Monash Graduate Scholarship]**(https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-graduate-scholarship-mgs), Oct. 2023
+* [**Monash Graduate Scholarship**](https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-graduate-scholarship-mgs), Oct. 2023
   * Issued by Monash University
-* **[Monash International Tuition Scholarship]**(https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-tuition-scholarship), Oct. 2023
+* [**Monash International Tuition Scholarship**](https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-tuition-scholarship), Oct. 2023
   * Issued by Monash University
 * **National Scholarship for Postgraduate**, Dec. 2021
   * Issued by Ministry of Education of the People's Republic of China
@@ -24,7 +24,7 @@ redirect_from:
 
 # Award
 
-* **[Meritorious Winner of Mathematical Contest in Modeling]**(https://www.comap-math.org/mcm/2019Certs/1903649.pdf), Apr. 2019
+* [**Meritorious Winner of Mathematical Contest in Modeling**](https://www.comap-math.org/mcm/2019Certs/1903649.pdf), Apr. 2019
   * Issued by Consortium for Mathematics and Its Applications
   <!-- * Top 8% of 14,108 teams worldwide -->
 * **State-level First Prize of Contemporary Undergraduate Mathematical Contest in Modeling**, Dec. 2018
