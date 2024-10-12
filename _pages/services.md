@@ -18,6 +18,7 @@ redirect_from:
 * Computers and Electrical Engineering
 * Distributed Ledger Technologies: Research and Practice
 * Expert Systems with Applications
+* Engineering Applications of Artificial Intelligence
 * IEEE/CAA Journal of Automatica Sinica
 * IEEE Transactions on Information Forensics and Security
 * Journal of Network and Computer Applications
