@@ -31,6 +31,7 @@ redirect_from:
 
 # Membership
 * IEEE Graduate Student Member<br /> 
+* IEEE Computer Society Graduate Student Member
 * ACM Student Member<br /> 
 * CCF Member<br /> 
 
