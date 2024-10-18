@@ -21,12 +21,14 @@ redirect_from:
 * Engineering Applications of Artificial Intelligence
 * IEEE/CAA Journal of Automatica Sinica
 * IEEE Transactions on Information Forensics and Security
+* IEEE Transactions on Intelligent Transportation Systems 
 * Journal of Network and Computer Applications
 * Journal of Information Security and Applications
 * Neural Networks
 * Neurocomputing
 
 # Conference Service
+* Reviewer, CHI 2025 Case Studies
 * PC Member, [ACM CCS 2024 Artifact Evaluation](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html)
 
 # Membership
