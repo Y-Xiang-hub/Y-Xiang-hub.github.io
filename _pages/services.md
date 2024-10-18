@@ -20,8 +20,8 @@ redirect_from:
 * Expert Systems with Applications
 * Engineering Applications of Artificial Intelligence
 * IEEE/CAA Journal of Automatica Sinica
+* IEEE Transactions on Intelligent Transportation Systems
 * IEEE Transactions on Information Forensics and Security
-* IEEE Transactions on Intelligent Transportation Systems 
 * Journal of Network and Computer Applications
 * Journal of Information Security and Applications
 * Neural Networks
