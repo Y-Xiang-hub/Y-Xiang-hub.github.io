@@ -28,6 +28,7 @@ redirect_from:
 * Neurocomputing
 
 # Conference Service
+* Reviewer, The Web Conference 2025
 * Reviewer, CHI 2025 Case Studies
 * PC Member, [ACM CCS 2024 Artifact Evaluation](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html)
 
