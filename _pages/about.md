@@ -20,6 +20,7 @@ If you have academic inquiries, feel free to contact me at <a style="text-decora
 News
 ======
 <ul class="list__news">
+  <li><span style="color: blue;">[Dec'24]</span> I'm happy to serve as PC member for CVC'25.</li>
   <li><span style="color: blue;">[Sep'24]</span> I’m excited to start as Visiting PhD Scholar at USYD invited by A/Prof. Jiangshan Yu.</li>
   <li><span style="color: blue;">[Apr'24]</span> I'm happy to serve as PC member for ACM CCS'24 Artifact Evaluation.</li>
   <li><span style="color: blue;">[Jan'24]</span> Our paper "BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis" has been published in IEEE TIFS.</li>
