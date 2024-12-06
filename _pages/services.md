@@ -31,7 +31,7 @@ redirect_from:
 # Conference Service
 * PC Member, [CVC 2025](https://cryptovalleyconference.com/call-for-papers)
 * PC Member, [ACM CCS 2024 Artifact Evaluation](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html)
-* Reviewer, The Web Conference 2025
+* Reviewer, WWW 2025
 * Reviewer, IJCNN 2025
 * Reviewer, CHI 2025 Case Studies
 
