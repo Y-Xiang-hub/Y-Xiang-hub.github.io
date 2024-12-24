@@ -14,6 +14,7 @@ redirect_from:
 * Blockchain: Research and Applications
 * Computer Networks
 * Computers & Security
+* Computer Communications
 * Computer Standards & Interfaces
 * Computers & Industrial Engineering
 * Computers and Electrical Engineering
