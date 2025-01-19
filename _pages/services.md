@@ -21,6 +21,7 @@ redirect_from:
 * Distributed Ledger Technologies: Research and Practice
 * Expert Systems with Applications
 * Engineering Applications of Artificial Intelligence
+* Information Sciences
 * IEEE/CAA Journal of Automatica Sinica
 * IEEE Transactions on Intelligent Transportation Systems
 * IEEE Transactions on Information Forensics and Security
