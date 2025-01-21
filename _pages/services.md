@@ -35,6 +35,7 @@ redirect_from:
 * PC Member, [ACM CCS 2024 Artifact Evaluation](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html)
 * Reviewer, WWW 2025
 * Reviewer, IJCNN 2025
+* Reviewer, ICLR 2025 Financial AI Workshop
 * Reviewer, CHI 2025 Case Studies
 
 # Membership
