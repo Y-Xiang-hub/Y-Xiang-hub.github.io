@@ -38,7 +38,7 @@ Q. Yang, Y. Xiang, W. Liu, and W. Ren<br />
 *IEEE International Conference on High Performance Computing and Communications*, 2022.<br />
 <a href="https://www.kaggle.com/datasets/lemonx/bitcoin-subgraph-evolution-data" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;" onmouseover="this.style.backgroundColor='#1a6f5c'" onmouseout="this.style.backgroundColor='#20c997'">data</a>
 
-# Decentralized Data Transactions 
+# Blockchain Application
 
 * [A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks](https://doi.org/10.1016/j.jnca.2020.102953)<br />
 Y. Xiang, W. Ren, T. Li, X. Zheng, T. Zhu, and K.-K. R. Choo<br />
