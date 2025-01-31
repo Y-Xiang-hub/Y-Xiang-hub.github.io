@@ -17,9 +17,6 @@ author_profile: true
 
 # Cryptocurrency Analysis
 
-, "," arXiv preprint arXiv:2501.18158, 2025.
-
-
 * [Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin Case Study](https://arxiv.org/abs/2501.18158)<br />
 Y. Lei, Y. Xiang, Q. Wang, R. Dowsley, T. H. Yuen, and J. Yu<br />
 *arXiv preprint*, 2025.<br />
