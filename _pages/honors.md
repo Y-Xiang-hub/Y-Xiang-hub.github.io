@@ -25,7 +25,7 @@ redirect_from:
 
 # Grant
 
-* **OpenAI Researcher Access Program** (1000 USD), Jan. 2025
+* **OpenAI Researcher Access Program** (1,000 USD), Jan. 2025
   * Issued by OpenAI
 
 
