@@ -20,6 +20,7 @@ If you have academic inquiries, feel free to contact me at <a style="text-decora
 News
 ======
 <ul class="list__news">
+  <li><span style="color: blue;">[Jan'25]</span> I'm honored to receive funding from OpenAI Researcher Access Program. </li>
   <li><span style="color: blue;">[Dec'24]</span> I'm pleased to serve as PC member for CVC'25.</li>
   <li><span style="color: blue;">[Sep'24]</span> I’m thrilled to start as Visiting PhD Scholar at USYD invited by A/Prof. Jiangshan Yu.</li>
   <li><span style="color: blue;">[Apr'24]</span> I'm pleased to serve as PC member for ACM CCS'24 Artifact Evaluation.</li>
