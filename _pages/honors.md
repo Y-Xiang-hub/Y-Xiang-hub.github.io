@@ -23,7 +23,7 @@ redirect_from:
   * Issued by Ministry of Education of the People's Republic of China
 
 # Grant
-* [**OpenAI Researcher Access Program**], 1000 USD, Jan. 2025
+* **OpenAI Researcher Access Program**, 1000 USD, Jan. 2025
 
 # Award
 
