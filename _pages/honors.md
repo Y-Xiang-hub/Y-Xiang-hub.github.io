@@ -22,9 +22,13 @@ redirect_from:
 * **First-class Academic Scholarship for Postgraduate**, Oct. 2020, Oct. 2021, and Oct. 2022
   * Issued by Ministry of Education of the People's Republic of China
 
+
 # Grant
+
 * **OpenAI Researcher Access Program** (1000 USD), Jan. 2025
   * Issued by OpenAI
+
+
 # Award
 
 * [**Meritorious Winner of Mathematical Contest in Modeling**](https://www.comap-math.org/mcm/2019Certs/1903649.pdf), Apr. 2019
