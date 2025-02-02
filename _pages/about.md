@@ -38,9 +38,9 @@ Education
  
 Selected Publication
 ======
+* Y. Lei, Y. Xiang\*, Q. Wang, R. Dowsley, T. H. Yuen, and J. Yu, “[Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin Case Study](https://arxiv.org/abs/2501.18158),” arXiv preprint arXiv:2501.18158, 2025.
 * Y. Xiang, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K.-K. R. Choo, "[BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis](https://doi.org/10.1109/TIFS.2023.3347894)," IEEE Transactions on Information Forensics and Security, vol. 19, pp. 2171-2185, 2024.
 * Y. Xiang, T. Li, and Y. Li, "[Leveraging Subgraph Structure for Exploration and Analysis of Bitcoin Address](https://doi.org/10.1109/BigData55660.2022.10020980)," IEEE International Conference on Big Data, Osaka, Japan, 2022, pp. 1957-1962.
-* Y. Lei, Y. Xiang\*, Q. Wang, R. Dowsley, T. H. Yuen, and J. Yu, “[Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin Case Study](https://arxiv.org/abs/2501.18158),” arXiv preprint arXiv:2501.18158, 2025.
 * Y. Xiang, W. Ren, T. Li, X. Zheng, T. Zhu, and K. K. R. Choo, "[A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks](https://doi.org/10.1016/j.jnca.2020.102953)," Journal of Network and Computer Applications, vol. 176, pp. 102953, 2021.
 
 
