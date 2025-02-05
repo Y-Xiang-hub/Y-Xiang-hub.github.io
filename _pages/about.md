@@ -55,7 +55,7 @@ Education
   }
   .edu-degree {
     font-weight: 500;
-    font-size: 1.05em;
+    font-size: 1em;
   }
   .edu-university {
     margin-left: 6px;
