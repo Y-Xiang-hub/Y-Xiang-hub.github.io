@@ -40,19 +40,19 @@ Selected Publication
 ======
 * [Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin Case Study](https://arxiv.org/abs/2501.18158)<br />
   Y. Lei\*, Y. Xiang\*†, Q. Wang, R. Dowsley, T. H. Yuen, and J. Yu<br />
-  arXiv preprint arXiv:2501.18158, 2025.<br />
+  arXiv preprint, 2025.<br />
   
 * [BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis](https://doi.org/10.1109/TIFS.2023.3347894)<br />
   Y. Xiang, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K.-K. R. Choo<br />
-  IEEE Transactions on Information Forensics and Security, vol. 19, pp. 2171-2185, 2024.<br />
+  IEEE Transactions on Information Forensics and Security, 2024.<br />
   
 * [Leveraging Subgraph Structure for Exploration and Analysis of Bitcoin Address](https://doi.org/10.1109/BigData55660.2022.10020980)<br />
   Y. Xiang, T. Li, and Y. Li<br />
-  IEEE International Conference on Big Data, Osaka, Japan, 2022, pp. 1957-1962.<br />
+  IEEE International Conference on Big Data, 2022.<br />
 
 * [A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks](https://doi.org/10.1016/j.jnca.2020.102953)<br />
   Y. Xiang, W. Ren, T. Li, X. Zheng, T. Zhu, and K. K. R. Choo<br />
-  Journal of Network and Computer Applications, vol. 176, pp. 102953, 2021.<br />
+  Journal of Network and Computer Applications, 2021.<br />
 
 
 
