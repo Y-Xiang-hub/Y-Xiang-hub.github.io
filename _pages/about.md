@@ -37,14 +37,14 @@ News
 Education
 ======
 
-<ul style="list-style: none; padding-left: 0;">
+<ul style="list-style: none; padding-left: 0; margin: 0;">
   <li style="margin-bottom: 16px;">
-    <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <div>
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+      <div style="flex: 1;">
         <span style="font-weight: 500; font-size: 1.05em;">PhD</span>
         <span style="margin-left: 10px; font-style: italic; color: #333;">Monash University</span>
       </div>
-      <div style="font-size: 0.9em; color: #666;">2024 - Now</div>
+      <div style="font-size: 0.9em; color: #666; margin-top: 4px;">2024 - Now</div>
     </div>
     <div style="margin-top: 4px; font-size: 0.9em; color: #777;">
       Supervised by 
@@ -53,24 +53,24 @@ Education
       <a href="https://jiangshanyu.github.io" style="color: #007acc; text-decoration: none;">Jiangshan Yu</a>
     </div>
   </li>
-
+  
   <li style="margin-bottom: 16px;">
-    <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <div>
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+      <div style="flex: 1;">
         <span style="font-weight: 500; font-size: 1.05em;">MEng in Computer Science and Technology</span>
         <span style="margin-left: 10px; font-style: italic; color: #333;">China University of Geosciences</span>
       </div>
-      <div style="font-size: 0.9em; color: #666;">2020 - 2023</div>
+      <div style="font-size: 0.9em; color: #666; margin-top: 4px;">2020 - 2023</div>
     </div>
   </li>
-
+  
   <li>
-    <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <div>
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+      <div style="flex: 1;">
         <span style="font-weight: 500; font-size: 1.05em;">BEng in Information Security</span>
         <span style="margin-left: 10px; font-style: italic; color: #333;">China University of Geosciences</span>
       </div>
-      <div style="font-size: 0.9em; color: #666;">2016 - 2020</div>
+      <div style="font-size: 0.9em; color: #666; margin-top: 4px;">2016 - 2020</div>
     </div>
   </li>
 </ul>
