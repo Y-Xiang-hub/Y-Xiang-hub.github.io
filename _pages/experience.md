@@ -21,7 +21,7 @@ redirect_from:
   }
   .visiting-role {
     font-weight: 600;
-    font-size: 1.1em;
+    font-size: 1em;
   }
   .visiting-details {
     margin-top: 4px;
@@ -47,13 +47,14 @@ redirect_from:
   .supervision-item:last-child {
     border-bottom: none;
   }
-  .supervision-name {
-    font-weight: 500;
-    font-size: 1.05em;
-    margin-top: 4px;
-  }
   .supervision-title {
-    font-size: 0.95em;
+    font-weight: 600;
+    font-size: 1em;
+  }
+  .supervision-name {
+    font-weight: 600;
+    font-size: 1em;
+    margin-top: 4px;
   }
   .supervision-location {
     margin-top: 2px;
@@ -66,9 +67,10 @@ redirect_from:
     color: #777;
   }
 
-  /* < 600px */
+  /* 屏幕宽度 < 600px 时 */
   @media (max-width: 600px) {
     .visiting-role,
+    .supervision-title,
     .supervision-name {
       font-size: 1em;
     }
