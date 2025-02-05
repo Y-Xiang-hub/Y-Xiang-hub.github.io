@@ -13,6 +13,12 @@ redirect_from:
 # Visiting
 
 <style>
+  .list-container {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin: 0;
+  }
+
   /* Visiting */
   .visiting-item {
     margin-bottom: 8px;
@@ -33,21 +39,19 @@ redirect_from:
   }
 
   /* Supervision */
-  .supervision-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
   .supervision-item {
     margin-bottom: 6px;
     padding: 6px 0;
   }
+  /* 仅加粗 Thesis 类型 */
   .supervision-title strong {
     font-weight: 600;
   }
+  /* 论文题目斜体 */
   .supervision-title em {
     font-style: italic;
   }
+  /* 学生姓名正常字体 */
   .supervision-name {
     font-weight: normal;
     font-size: 1em;
@@ -79,15 +83,17 @@ redirect_from:
   }
 </style>
 
-<div class="visiting-item">
-  <div class="visiting-role">Visiting PhD Scholar</div>
-  <div class="visiting-details">University of Sydney (School of Computer Science)</div>
-  <div class="visiting-time">Sep 2024 – Oct 2024</div>
-</div>
+<ul class="list-container">
+  <li class="visiting-item">
+    <div class="visiting-role">Visiting PhD Scholar</div>
+    <div class="visiting-details">University of Sydney (School of Computer Science)</div>
+    <div class="visiting-time">Sep 2024 – Oct 2024</div>
+  </li>
+</ul>
 
 # Supervision
 
-<ul class="supervision-list">
+<ul class="list-container">
   <li class="supervision-item">
     <div class="supervision-title"><strong>Bachelor Thesis</strong>: <em>"A Graph Neural Network-based Method for Illicit Bitcoin Address Analysis"</em></div>
     <div class="supervision-name">Wenwen Zheng</div>
@@ -113,8 +119,6 @@ redirect_from:
     <div class="supervision-date">Jun 2024</div>
   </li>
 </ul>
-
-
 
 
 
