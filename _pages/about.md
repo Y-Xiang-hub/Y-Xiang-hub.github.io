@@ -35,27 +35,35 @@ News
 Education
 ======
 
-<ul style="list-style: none; padding-left: 0;">
-  <li style="margin-bottom: 16px;">
-    <strong>PhD, Monash University</strong> 
-    <span style="float: right; color: #888; font-size: 0.9em;">2024 - Now</span><br />
-    <small style="font-size: 0.9em;">
-      Supervised by 
-      <a href="https://dowsley.net" style="color: #007acc; text-decoration: none;">Rafael Dowsley</a>, 
-      <a href="https://thyuen.github.io" style="color: #007acc; text-decoration: none;">Tsz Hon Yuen</a>, and 
-      <a href="https://jiangshanyu.github.io" style="color: #007acc; text-decoration: none;">Jiangshan Yu</a>
-    </small>
-  </li>
-  <li style="margin-bottom: 16px;">
-    <strong>MEng in Computer Science and Technology, China University of Geosciences</strong>
-    <span style="float: right; color: #888; font-size: 0.9em;">2020 - 2023</span>
-  </li>
-  <li>
-    <strong>BEng in Information Security, China University of Geosciences</strong>
-    <span style="float: right; color: #888; font-size: 0.9em;">2016 - 2020</span>
-  </li>
-</ul>
+<div style="margin-bottom: 16px;">
+  <!-- 第一项 -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+    <strong style="font-size: 1.1em;">PhD, Monash University</strong>
+    <span style="color: #888; font-size: 0.9em;">2024 - Now</span>
+  </div>
+  <p style="margin: 4px 0 0; font-size: 0.9em;">
+    Supervised by 
+    <a href="https://dowsley.net" style="color: #007acc; text-decoration: none;">Rafael Dowsley</a>, 
+    <a href="https://dowsley.net" style="color: #007acc; text-decoration: none;">Tsz Hon Yuen</a>, and 
+    <a href="https://jiangshanyu.github.io" style="color: #007acc; text-decoration: none;">Jiangshan Yu</a>
+  </p>
+</div>
 
+<div style="margin-bottom: 16px;">
+  <!-- 第二项 -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+    <strong style="font-size: 1.1em;">MEng in Computer Science and Technology, China University of Geosciences</strong>
+    <span style="color: #888; font-size: 0.9em;">2020 - 2023</span>
+  </div>
+</div>
+
+<div style="margin-bottom: 16px;">
+  <!-- 第三项 -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+    <strong style="font-size: 1.1em;">BEng in Information Security, China University of Geosciences</strong>
+    <span style="color: #888; font-size: 0.9em;">2016 - 2020</span>
+  </div>
+</div>
 * PhD, Monash University, 2024 - Now (supervised by [Rafael Dowsley](https://dowsley.net), [Tsz Hon Yuen](https://thyuen.github.io), and [Jiangshan Yu](https://jiangshanyu.github.io/))
 * MEng in Computer Science and Technology, China University of Geosciences, 2020 - 2023
 * BEng in Information Security, China University of Geosciences, 2016 - 2020
