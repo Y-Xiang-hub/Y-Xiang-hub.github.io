@@ -17,20 +17,20 @@ redirect_from:
 
 # Supervision
 
-- **Bachelor Thesis**: "A Graph Neural Network-based Method for Illicit Bitcoin Address Analysis" 
-  Wenwen Zheng, China University of Geosciences<\br>
+- **Bachelor Thesis**: "A Graph Neural Network-based Method for Illicit Bitcoin Address Analysis" <br />
+  Wenwen Zheng, China University of Geosciences <br />
   *Jun 2022*
 
-- **Bachelor Thesis**: "A Machine Learning- and Motivation-based Approach for Illicit Bitcoin Address Analysis" 
-  Shiyuan Feng, China University of Geosciences 
+- **Bachelor Thesis**: "A Machine Learning- and Motivation-based Approach for Illicit Bitcoin Address Analysis" <br /> 
+  Shiyuan Feng, China University of Geosciences <br /> 
   *Jun 2022*
 
-- **Master Thesis**: *"Research on Blockchain Transaction Monitoring and Visualization System"*  
-  Ding Bao, China University of Geosciences
+- **Master Thesis**: "Research on Blockchain Transaction Monitoring and Visualization System" <br />
+  Ding Bao, China University of Geosciences <br />
   *Jun 2024*
 
-- **Master Thesis**: *"Research on Security Analysis Techniques for Detecting Illicit Activities in Blockchain Transactions"*  
-  Qingqing Yang, China University of Geosciences 
+- **Master Thesis**: "Research on Security Analysis Techniques for Detecting Illicit Activities in Blockchain Transactions" <br />  
+  Qingqing Yang, China University of Geosciences <br />
   *Jun 2024*
 
 
