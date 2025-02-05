@@ -50,9 +50,9 @@ redirect_from:
   .supervision-name {
     font-weight: 500;
     font-size: 1.05em;
+    margin-top: 4px;
   }
   .supervision-title {
-    margin-top: 4px;
     font-size: 0.95em;
   }
   .supervision-location {
@@ -93,26 +93,26 @@ redirect_from:
 
 <ul class="supervision-list">
   <li class="supervision-item">
-    <div class="supervision-name"><em>Wenwen Zheng</em></div>
     <div class="supervision-title"><strong>Bachelor Thesis</strong>: "A Graph Neural Network-based Method for Illicit Bitcoin Address Analysis"</div>
+    <div class="supervision-name"><em>Wenwen Zheng</em></div>
     <div class="supervision-location">China University of Geosciences, Wuhan, China</div>
     <div class="supervision-date">Jun 2022</div>
   </li>
   <li class="supervision-item">
-    <div class="supervision-name"><em>Shiyuan Feng</em></div>
     <div class="supervision-title"><strong>Bachelor Thesis</strong>: "A Machine Learning- and Motivation-based Approach for Illicit Bitcoin Address Analysis"</div>
+    <div class="supervision-name"><em>Shiyuan Feng</em></div>
     <div class="supervision-location">China University of Geosciences, Wuhan, China</div>
     <div class="supervision-date">Jun 2022</div>
   </li>
   <li class="supervision-item">
-    <div class="supervision-name"><em>Ding Bao</em></div>
     <div class="supervision-title"><strong>Master Thesis</strong>: "Research on Blockchain Transaction Monitoring and Visualization System"</div>
+    <div class="supervision-name"><em>Ding Bao</em></div>
     <div class="supervision-location">China University of Geosciences, Wuhan, China</div>
     <div class="supervision-date">Jun 2024</div>
   </li>
   <li class="supervision-item">
-    <div class="supervision-name"><em>Qingqing Yang</em></div>
     <div class="supervision-title"><strong>Master Thesis</strong>: "Research on Security Analysis Techniques for Detecting Illicit Activities in Blockchain Transactions"</div>
+    <div class="supervision-name"><em>Qingqing Yang</em></div>
     <div class="supervision-location">China University of Geosciences, Wuhan, China</div>
     <div class="supervision-date">Jun 2024</div>
   </li>
