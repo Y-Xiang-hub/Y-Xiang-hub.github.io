@@ -41,9 +41,7 @@ Education
   /* 每条教育记录 */
   .education-item {
     margin-bottom: 10px;
-    padding-bottom: 4px;
-    /* 可选：添加一条细分隔线 */
-    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
   }
   /* 第一行：学位、学校与时间 */
   .edu-top {
