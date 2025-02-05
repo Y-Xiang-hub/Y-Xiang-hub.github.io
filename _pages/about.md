@@ -38,21 +38,21 @@ Education
  
 Selected Publication
 ======
-[1] **[Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin Case Study](https://arxiv.org/abs/2501.18158)**
-  Y. Lei\*, Y. Xiang\*<sup>†</sup>, Q. Wang, R. Dowsley, T. H. Yuen, and J. Yu
-  _arXiv preprint, 2025._
+[1] **[Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin Case Study](https://arxiv.org/abs/2501.18158)** <br />
+  Y. Lei\*, Y. Xiang\*<sup>†</sup>, Q. Wang, R. Dowsley, T. H. Yuen, and J. Yu <br />
+  _arXiv preprint, 2025._ <br />
   
-[2] **[BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis](https://doi.org/10.1109/TIFS.2023.3347894)**
-  Y. Xiang, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K.-K. R. Choo
-  _IEEE Transactions on Information Forensics and Security, 2024._
+[2] **[BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis](https://doi.org/10.1109/TIFS.2023.3347894)** <br />
+  Y. Xiang, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K.-K. R. Choo <br />
+  _IEEE Transactions on Information Forensics and Security, 2024._ <br />
   
-[3] **[Leveraging Subgraph Structure for Exploration and Analysis of Bitcoin Address](https://doi.org/10.1109/BigData55660.2022.10020980)**
-  Y. Xiang, T. Li, and Y. Li
-  _IEEE International Conference on Big Data, 2022._
+[3] **[Leveraging Subgraph Structure for Exploration and Analysis of Bitcoin Address](https://doi.org/10.1109/BigData55660.2022.10020980)** <br />
+  Y. Xiang, T. Li, and Y. Li <br />
+  _IEEE International Conference on Big Data, 2022._ <br />
 
-[4] **[A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks](https://doi.org/10.1016/j.jnca.2020.102953)**
-  Y. Xiang, W. Ren, T. Li, X. Zheng, T. Zhu, and K. K. R. Choo
-  _Journal of Network and Computer Applications, 2021._
+[4] **[A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks](https://doi.org/10.1016/j.jnca.2020.102953)** <br />
+  Y. Xiang, W. Ren, T. Li, X. Zheng, T. Zhu, and K. K. R. Choo <br />
+  _Journal of Network and Computer Applications, 2021._ <br />
 
 
 
