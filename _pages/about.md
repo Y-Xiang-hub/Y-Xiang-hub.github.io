@@ -39,70 +39,55 @@ Education
 
 <style>
   .education-item {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    margin-bottom: 8px;
+    margin-bottom: 5px; 
+    line-height: 1.4;
   }
-  .education-item .left {
-    font-size: 1em;
+  .education-item > div {
+    margin: 2px 0;
   }
-  .education-item .degree {
+  .degree {
     font-weight: 500;
-    font-size: 1.05em;
+    font-size: 1.1em;
   }
-  .education-item .university {
+  .university {
     font-style: italic;
-    color: #333;
-    margin-left: 6px;
+    color: #555;
   }
-  .education-item .time {
+  .time,
+  .supervision {
     font-size: 0.9em;
-    color: #666;
+    color: #777;
   }
-
-  @media (max-width: 600px) {
-    .education-item {
-      flex-direction: column;
-      align-items: flex-start;
-    }
-    .education-item .time {
-      margin-top: 4px;
-    }
+  .supervision a {
+    color: #007acc;
+    text-decoration: none;
   }
 </style>
 
-<ul style="list-style: none; padding-left: 0; margin: 0;">
-  <li class="education-item">
-    <div class="left">
-      <span class="degree">PhD</span>
-      <span class="university">Monash University</span>
-    </div>
-    <div class="time">2024 - Now</div>
-    <div style="margin-top: 4px; font-size: 0.9em; color: #777;">
-      Supervised by 
-      <a href="https://dowsley.net" style="color: #007acc; text-decoration: none;">Rafael Dowsley</a>, 
-      <a href="https://thyuen.github.io" style="color: #007acc; text-decoration: none;">Tsz Hon Yuen</a>, and 
-      <a href="https://jiangshanyu.github.io" style="color: #007acc; text-decoration: none;">Jiangshan Yu</a>
-    </div>
-  </li>
-  
-  <li class="education-item">
-    <div class="left">
-      <span class="degree">MEng in Computer Science and Technology</span>
-      <span class="university">China University of Geosciences</span>
-    </div>
-    <div class="time">2020 - 2023</div>
-  </li>
-  
-  <li class="education-item">
-    <div class="left">
-      <span class="degree">BEng in Information Security</span>
-      <span class="university">China University of Geosciences</span>
-    </div>
-    <div class="time">2016 - 2020</div>
-  </li>
-</ul>
+<div class="education-item">
+  <div class="degree">PhD</div>
+  <div class="university">Monash University</div>
+  <div class="time">2024 - Now</div>
+  <div class="supervision">
+    Supervised by 
+    <a href="https://dowsley.net">Rafael Dowsley</a>, 
+    <a href="https://thyuen.github.io">Tsz Hon Yuen</a>, and 
+    <a href="https://jiangshanyu.github.io">Jiangshan Yu</a>
+  </div>
+</div>
+
+<div class="education-item">
+  <div class="degree">MEng in Computer Science and Technology</div>
+  <div class="university">China University of Geosciences</div>
+  <div class="time">2020 - 2023</div>
+</div>
+
+<div class="education-item">
+  <div class="degree">BEng in Information Security</div>
+  <div class="university">China University of Geosciences</div>
+  <div class="time">2016 - 2020</div>
+</div>
+
 
 <!-- * PhD, Monash University, 2024 - Now (supervised by [Rafael Dowsley](https://dowsley.net), [Tsz Hon Yuen](https://thyuen.github.io), and [Jiangshan Yu](https://jiangshanyu.github.io/))-->
 <!--* MEng in Computer Science and Technology, China University of Geosciences, 2020 - 2023-->
