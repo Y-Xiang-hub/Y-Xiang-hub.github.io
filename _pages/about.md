@@ -38,12 +38,12 @@ Education
 ======
 
 <style>
-  /* 每条教育记录 */
+
   .education-item {
     margin-bottom: 10px;
     padding-bottom: 5px;
   }
-  /* 第一行：学位、学校与时间 */
+
   .edu-top {
     display: flex;
     flex-wrap: wrap;
@@ -52,7 +52,7 @@ Education
     font-size: 1em;
   }
   .edu-left {
-    /* 学位和学校紧密排在一起 */
+
   }
   .edu-degree {
     font-weight: 500;
@@ -67,13 +67,13 @@ Education
     font-size: 0.9em;
     color: #666;
   }
-  /* 第二行：专业/导师等详细信息 */
+
   .edu-details {
     margin-top: 2px;
     font-size: 0.9em;
     color: #777;
   }
-  /* 链接样式 */
+
   .edu-details a {
     color: #007acc;
     text-decoration: none;
