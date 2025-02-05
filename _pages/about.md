@@ -39,7 +39,7 @@ Education
 
 <style>
   .education-item {
-    margin-bottom: 8px;
+    margin-bottom: 5px;
     padding-bottom: 5px;
   }
 
