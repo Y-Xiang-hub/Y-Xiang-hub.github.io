@@ -39,7 +39,7 @@ Education
 Selected Publication
 ======
 * [Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin Case Study](https://arxiv.org/abs/2501.18158)<br />
-  Y. Lei\*, Y. Xiang\*\†, Q. Wang, R. Dowsley, T. H. Yuen, and J. Yu<br />
+  Y. Lei\*, Y. Xiang\*†, Q. Wang, R. Dowsley, T. H. Yuen, and J. Yu<br />
   arXiv preprint arXiv:2501.18158, 2025.<br />
   
 * [BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis](https://doi.org/10.1109/TIFS.2023.3347894)<br />
