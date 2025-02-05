@@ -43,16 +43,13 @@ redirect_from:
     margin-bottom: 6px;
     padding: 6px 0;
   }
-  /* 仅加粗 Thesis 类型 */
   .supervision-title strong {
     font-weight: 600;
   }
-  /* 论文题目斜体 */
-  .supervision-title em {
+  .supervision-title {
     font-style: italic;
   }
-  /* 学生姓名正常字体 */
-  .supervision-name {
+  .supervision-name em {
     font-weight: normal;
     font-size: 1em;
   }
