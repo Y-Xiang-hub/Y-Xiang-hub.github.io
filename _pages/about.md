@@ -38,9 +38,8 @@ Education
 ======
 
 <style>
-
   .education-item {
-    margin-bottom: 10px;
+    margin-bottom: 8px;
     padding-bottom: 5px;
   }
 
