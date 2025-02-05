@@ -35,8 +35,6 @@ News
 Education
 ======
 
-### Education
-
 <ul style="list-style: none; padding-left: 0;">
   <li style="margin-bottom: 16px;">
     <div>
