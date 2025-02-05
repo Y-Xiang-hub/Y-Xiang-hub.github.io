@@ -20,7 +20,7 @@ redirect_from:
   }
   .visiting-role {
     font-weight: 600;
-    font-size: 1.1em;
+    font-size: 1em;
   }
   .visiting-details {
     margin-top: 2px;
