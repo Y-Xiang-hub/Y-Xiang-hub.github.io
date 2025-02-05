@@ -18,7 +18,7 @@ redirect_from:
 # Supervision
 
 - **Bachelor Thesis**: "A Graph Neural Network-based Method for Illicit Bitcoin Address Analysis" 
-  Wenwen Zheng, China University of Geosciences
+  Wenwen Zheng, China University of Geosciences<\br>
   *Jun 2022*
 
 - **Bachelor Thesis**: "A Machine Learning- and Motivation-based Approach for Illicit Bitcoin Address Analysis" 
