@@ -15,16 +15,15 @@ redirect_from:
 <style>
   /* Visiting */
   .visiting-item {
-    margin-bottom: 12px;
-    padding: 8px 0;
-    border-bottom: none;
+    margin-bottom: 8px;
+    padding: 6px 0;
   }
   .visiting-role {
     font-weight: 600;
-    font-size: 1em;
+    font-size: 1.1em;
   }
   .visiting-details {
-    margin-top: 4px;
+    margin-top: 2px;
     color: #555;
   }
   .visiting-time {
@@ -40,38 +39,33 @@ redirect_from:
     margin: 0;
   }
   .supervision-item {
-    margin-bottom: 12px;
-    padding: 8px 0;
-    border-bottom: none;
+    margin-bottom: 6px;
+    padding: 6px 0;
   }
-  .supervision-item:last-child {
-    border-bottom: none;
-  }
-  .supervision-title {
+  .supervision-title strong {
     font-weight: 600;
-    font-size: 1em;
+  }
+  .supervision-title em {
+    font-style: italic;
   }
   .supervision-name {
-    font-weight: 600;
+    font-weight: normal;
     font-size: 1em;
-    margin-top: 4px;
   }
   .supervision-location {
-    margin-top: 2px;
+    margin-top: 1px;
     font-size: 0.9em;
     color: #555;
   }
   .supervision-date {
-    margin-top: 2px;
+    margin-top: 1px;
     font-size: 0.9em;
     color: #777;
   }
 
-  /* 屏幕宽度 < 600px 时 */
   @media (max-width: 600px) {
     .visiting-role,
-    .supervision-title,
-    .supervision-name {
+    .supervision-title {
       font-size: 1em;
     }
     .visiting-time,
@@ -80,7 +74,7 @@ redirect_from:
     }
     .visiting-item,
     .supervision-item {
-      padding: 6px 0;
+      padding: 4px 0;
     }
   }
 </style>
@@ -95,30 +89,31 @@ redirect_from:
 
 <ul class="supervision-list">
   <li class="supervision-item">
-    <div class="supervision-title"><strong>Bachelor Thesis</strong>: "A Graph Neural Network-based Method for Illicit Bitcoin Address Analysis"</div>
-    <div class="supervision-name"><em>Wenwen Zheng</em></div>
+    <div class="supervision-title"><strong>Bachelor Thesis</strong>: <em>"A Graph Neural Network-based Method for Illicit Bitcoin Address Analysis"</em></div>
+    <div class="supervision-name">Wenwen Zheng</div>
     <div class="supervision-location">China University of Geosciences, Wuhan, China</div>
     <div class="supervision-date">Jun 2022</div>
   </li>
   <li class="supervision-item">
-    <div class="supervision-title"><strong>Bachelor Thesis</strong>: "A Machine Learning- and Motivation-based Approach for Illicit Bitcoin Address Analysis"</div>
-    <div class="supervision-name"><em>Shiyuan Feng</em></div>
+    <div class="supervision-title"><strong>Bachelor Thesis</strong>: <em>"A Machine Learning- and Motivation-based Approach for Illicit Bitcoin Address Analysis"</em></div>
+    <div class="supervision-name">Shiyuan Feng</div>
     <div class="supervision-location">China University of Geosciences, Wuhan, China</div>
     <div class="supervision-date">Jun 2022</div>
   </li>
   <li class="supervision-item">
-    <div class="supervision-title"><strong>Master Thesis</strong>: "Research on Blockchain Transaction Monitoring and Visualization System"</div>
-    <div class="supervision-name"><em>Ding Bao</em></div>
+    <div class="supervision-title"><strong>Master Thesis</strong>: <em>"Research on Blockchain Transaction Monitoring and Visualization System"</em></div>
+    <div class="supervision-name">Ding Bao</div>
     <div class="supervision-location">China University of Geosciences, Wuhan, China</div>
     <div class="supervision-date">Jun 2024</div>
   </li>
   <li class="supervision-item">
-    <div class="supervision-title"><strong>Master Thesis</strong>: "Research on Security Analysis Techniques for Detecting Illicit Activities in Blockchain Transactions"</div>
-    <div class="supervision-name"><em>Qingqing Yang</em></div>
+    <div class="supervision-title"><strong>Master Thesis</strong>: <em>"Research on Security Analysis Techniques for Detecting Illicit Activities in Blockchain Transactions"</em></div>
+    <div class="supervision-name">Qingqing Yang</div>
     <div class="supervision-location">China University of Geosciences, Wuhan, China</div>
     <div class="supervision-date">Jun 2024</div>
   </li>
 </ul>
+
 
 
 
