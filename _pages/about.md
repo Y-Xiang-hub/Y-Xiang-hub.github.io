@@ -37,15 +37,48 @@ News
 Education
 ======
 
+<style>
+  .education-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 8px;
+  }
+  .education-item .left {
+    font-size: 1em;
+  }
+  .education-item .degree {
+    font-weight: 500;
+    font-size: 1.05em;
+  }
+  .education-item .university {
+    font-style: italic;
+    color: #333;
+    margin-left: 6px;
+  }
+  .education-item .time {
+    font-size: 0.9em;
+    color: #666;
+  }
+
+  @media (max-width: 600px) {
+    .education-item {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .education-item .time {
+      margin-top: 4px;
+    }
+  }
+</style>
+
 <ul style="list-style: none; padding-left: 0; margin: 0;">
-  <li style="margin-bottom: 16px;">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-      <div style="flex: 1;">
-        <span style="font-weight: 500; font-size: 1.05em;">PhD</span>
-        <span style="margin-left: 10px; font-style: italic; color: #333;">Monash University</span>
-      </div>
-      <div style="font-size: 0.9em; color: #666; margin-top: 4px;">2024 - Now</div>
+  <li class="education-item">
+    <div class="left">
+      <span class="degree">PhD</span>
+      <span class="university">Monash University</span>
     </div>
+    <div class="time">2024 - Now</div>
     <div style="margin-top: 4px; font-size: 0.9em; color: #777;">
       Supervised by 
       <a href="https://dowsley.net" style="color: #007acc; text-decoration: none;">Rafael Dowsley</a>, 
@@ -54,24 +87,20 @@ Education
     </div>
   </li>
   
-  <li style="margin-bottom: 16px;">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-      <div style="flex: 1;">
-        <span style="font-weight: 500; font-size: 1.05em;">MEng in Computer Science and Technology</span>
-        <span style="margin-left: 10px; font-style: italic; color: #333;">China University of Geosciences</span>
-      </div>
-      <div style="font-size: 0.9em; color: #666; margin-top: 4px;">2020 - 2023</div>
+  <li class="education-item">
+    <div class="left">
+      <span class="degree">MEng in Computer Science and Technology</span>
+      <span class="university">China University of Geosciences</span>
     </div>
+    <div class="time">2020 - 2023</div>
   </li>
   
-  <li>
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-      <div style="flex: 1;">
-        <span style="font-weight: 500; font-size: 1.05em;">BEng in Information Security</span>
-        <span style="margin-left: 10px; font-style: italic; color: #333;">China University of Geosciences</span>
-      </div>
-      <div style="font-size: 0.9em; color: #666; margin-top: 4px;">2016 - 2020</div>
+  <li class="education-item">
+    <div class="left">
+      <span class="degree">BEng in Information Security</span>
+      <span class="university">China University of Geosciences</span>
     </div>
+    <div class="time">2016 - 2020</div>
   </li>
 </ul>
 
