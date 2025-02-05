@@ -38,54 +38,89 @@ Education
 ======
 
 <style>
+  /* 每条教育记录 */
   .education-item {
-    margin-bottom: 5px; 
-    line-height: 1.4;
+    margin-bottom: 10px;
+    padding-bottom: 4px;
+    /* 可选：添加一条细分隔线 */
+    border-bottom: 1px solid #eee;
   }
-  .education-item > div {
-    margin: 2px 0;
+  /* 第一行：学位、学校与时间 */
+  .edu-top {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1em;
   }
-  .degree {
+  .edu-left {
+    /* 学位和学校紧密排在一起 */
+  }
+  .edu-degree {
     font-weight: 500;
-    font-size: 1.1em;
+    font-size: 1.05em;
   }
-  .university {
+  .edu-university {
+    margin-left: 6px;
     font-style: italic;
-    color: #555;
+    color: #333;
   }
-  .time,
-  .supervision {
+  .edu-time {
+    font-size: 0.9em;
+    color: #666;
+  }
+  /* 第二行：专业/导师等详细信息 */
+  .edu-details {
+    margin-top: 2px;
     font-size: 0.9em;
     color: #777;
   }
-  .supervision a {
+  /* 链接样式 */
+  .edu-details a {
     color: #007acc;
     text-decoration: none;
   }
 </style>
 
 <div class="education-item">
-  <div class="degree">PhD</div>
-  <div class="university">Monash University</div>
-  <div class="time">2024 - Now</div>
-  <div class="supervision">
-    Supervised by 
-    <a href="https://dowsley.net">Rafael Dowsley</a>, 
+  <div class="edu-top">
+    <div class="edu-left">
+      <span class="edu-degree">PhD,</span>
+      <span class="edu-university">Monash University</span>
+    </div>
+    <div class="edu-time">2024 - Now</div>
+  </div>
+  <div class="edu-details">
+    Supervised by <a href="https://dowsley.net">Rafael Dowsley</a>, 
     <a href="https://thyuen.github.io">Tsz Hon Yuen</a>, and 
     <a href="https://jiangshanyu.github.io">Jiangshan Yu</a>
   </div>
 </div>
 
 <div class="education-item">
-  <div class="degree">MEng in Computer Science and Technology</div>
-  <div class="university">China University of Geosciences</div>
-  <div class="time">2020 - 2023</div>
+  <div class="edu-top">
+    <div class="edu-left">
+      <span class="edu-degree">MEng,</span>
+      <span class="edu-university">China University of Geosciences</span>
+    </div>
+    <div class="edu-time">2020 - 2023</div>
+  </div>
+  <div class="edu-details">
+    Computer Science and Technology
+  </div>
 </div>
 
 <div class="education-item">
-  <div class="degree">BEng in Information Security</div>
-  <div class="university">China University of Geosciences</div>
-  <div class="time">2016 - 2020</div>
+  <div class="edu-top">
+    <div class="edu-left">
+      <span class="edu-degree">BEng,</span>
+      <span class="edu-university">China University of Geosciences</span>
+    </div>
+    <div class="edu-time">2016 - 2020</div>
+  </div>
+  <div class="edu-details">
+    Information Security
+  </div>
 </div>
 
 
