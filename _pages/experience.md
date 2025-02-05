@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 
-### Visiting
+# Visiting
 
 <style>
-  /* Visiting 样式 */
+  /* Visiting */
   .visiting-item {
     margin-bottom: 12px;
     padding: 8px 0;
-    border-bottom: 1px solid #eee;
+    border-bottom: none;
   }
   .visiting-role {
     font-weight: 600;
@@ -33,7 +33,7 @@ redirect_from:
     color: #777;
   }
 
-  /* Supervision 样式 */
+  /* Supervision */
   .supervision-list {
     list-style: none;
     padding: 0;
@@ -42,7 +42,7 @@ redirect_from:
   .supervision-item {
     margin-bottom: 12px;
     padding: 8px 0;
-    border-bottom: 1px solid #eee;
+    border-bottom: none;
   }
   .supervision-item:last-child {
     border-bottom: none;
@@ -66,7 +66,7 @@ redirect_from:
     color: #777;
   }
 
-  /* 响应式调整：屏幕宽度小于600px时 */
+  /* < 600px */
   @media (max-width: 600px) {
     .visiting-role,
     .supervision-name {
@@ -89,32 +89,32 @@ redirect_from:
   <div class="visiting-time">Sep 2024 – Oct 2024</div>
 </div>
 
-### Supervision
+# Supervision
 
 <ul class="supervision-list">
   <li class="supervision-item">
     <div class="supervision-name"><em>Wenwen Zheng</em></div>
     <div class="supervision-title"><strong>Bachelor Thesis</strong>: "A Graph Neural Network-based Method for Illicit Bitcoin Address Analysis"</div>
     <div class="supervision-location">China University of Geosciences, Wuhan, China</div>
-    <div class="supervision-date">Jun. 2022</div>
+    <div class="supervision-date">Jun 2022</div>
   </li>
   <li class="supervision-item">
     <div class="supervision-name"><em>Shiyuan Feng</em></div>
     <div class="supervision-title"><strong>Bachelor Thesis</strong>: "A Machine Learning- and Motivation-based Approach for Illicit Bitcoin Address Analysis"</div>
     <div class="supervision-location">China University of Geosciences, Wuhan, China</div>
-    <div class="supervision-date">Jun. 2022</div>
+    <div class="supervision-date">Jun 2022</div>
   </li>
   <li class="supervision-item">
     <div class="supervision-name"><em>Ding Bao</em></div>
     <div class="supervision-title"><strong>Master Thesis</strong>: "Research on Blockchain Transaction Monitoring and Visualization System"</div>
     <div class="supervision-location">China University of Geosciences, Wuhan, China</div>
-    <div class="supervision-date">Jun. 2024</div>
+    <div class="supervision-date">Jun 2024</div>
   </li>
   <li class="supervision-item">
     <div class="supervision-name"><em>Qingqing Yang</em></div>
     <div class="supervision-title"><strong>Master Thesis</strong>: "Research on Security Analysis Techniques for Detecting Illicit Activities in Blockchain Transactions"</div>
     <div class="supervision-location">China University of Geosciences, Wuhan, China</div>
-    <div class="supervision-date">Jun. 2024</div>
+    <div class="supervision-date">Jun 2024</div>
   </li>
 </ul>
 
