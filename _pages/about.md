@@ -21,7 +21,7 @@ News
 ======
 <ul class="list__news" style="list-style: none; padding-left: 0;">
   <li><span style="color: blue;">[Jan'25]</span> I'm honored to receive funding from OpenAI Researcher Access Program. </li>
-  <li><span style="color: blue;">[Dec'24]</span> I'm pleased to serve as PC member for CVC'25.</li>
+  <li><span style="color: blue;">[Dec'24]</span> I'm pleased to serve as PC member for CVCBT'25.</li>
   <li><span style="color: blue;">[Sep'24]</span> I’m thrilled to start as Visiting PhD Scholar at USYD invited by A/Prof. Jiangshan Yu.</li>
   <li><span style="color: blue;">[Apr'24]</span> I'm pleased to serve as PC member for ACM CCS'24 Artifact Evaluation.</li>
   <li><span style="color: blue;">[Jan'24]</span> Our paper "BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis" has been published in IEEE TIFS.</li>
