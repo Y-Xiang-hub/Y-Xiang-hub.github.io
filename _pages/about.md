@@ -13,8 +13,8 @@ redirect_from:
 
 About Me
 ======
-<div style="font-family: Arial, sans-serif; font-size: 1em; color: #444; line-height: 1.5; padding: 10px 4px; margin: 4px 0;">
-  Hi, I'm Yuexin, currently pursuing a PhD in the Faculty of Information Technology at 
+<div style="font-family: Arial, sans-serif; font-size: 1em; color: #444; line-height: 1.5; padding: 10px 2px; margin: 2px 0;">
+  Hi, I'm Yuexin, currently pursuing PhD in the Faculty of Information Technology at 
   <strong><a href="https://www.monash.edu/" style="color: #007acc; text-decoration: none;">Monash University</a></strong> in Australia. 
   I previously obtained my Bachelor's and Master's degrees from 
   <strong><a href="https://en.cug.edu.cn" style="color: #007acc; text-decoration: none;">China University of Geosciences</a></strong>. 
@@ -38,7 +38,7 @@ News
     color: #555;
   }
   .list__news li {
-    padding: 4px 0;
+    padding: 3px 0;
     border-bottom: none;
   }
   .list__news li:last-child {
