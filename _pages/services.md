@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h2>Invited Reviewer</h2>
+# Invited Reviewer
 
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
@@ -35,7 +35,7 @@ redirect_from:
   </ul>
 </div>
 
-<h2>Conference Service</h2>
+# Conference Service
 
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
@@ -54,7 +54,7 @@ redirect_from:
   </ul>
 </div>
 
-<h2>Membership</h2>
+# Membership
 
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
