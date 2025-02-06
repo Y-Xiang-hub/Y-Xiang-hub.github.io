@@ -11,9 +11,11 @@ redirect_from:
 
 # Visiting
 
-- **University of Sydney (School of Computer Science)**  
-  Visiting PhD Scholar  
-  *Sep 2024 – Oct 2024*
+<div style="margin: 4px 0; padding: 5px;">
+  <strong> University of Sydney (School of Computer Science)</a></strong> <br />
+  <span style="font-size: 0.95em; color: #555;">Visiting PhD Scholar</span> <br />
+  <em style="font-size: 0.9em; color: #888;">Sep 2024 – Oct 2024</em>
+</div>
 
 # Supervision
 
