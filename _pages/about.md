@@ -13,16 +13,16 @@ redirect_from:
 
 About Me
 ======
-<div style="font-family: Arial, sans-serif; font-size: 1em; color: #444; line-height: 1.6; 
-            background-color: #f9f9f9; border: 1px solid #e0e0e0; border-radius: 8px; 
-            padding: 16px; margin: 16px 0;">
+<div style="font-family: Arial, sans-serif; font-size: 1em; color: #444; line-height: 1.6; padding: 16px; margin: 16px 0;">
   Hi, I'm Yuexin, currently pursuing a PhD in the Faculty of Information Technology at 
   <strong><a href="https://www.monash.edu/" style="color: #007acc; text-decoration: none;">Monash University</a></strong> in Australia. 
-  I previously obtained my Bachelor's and Master's degrees from <strong><a href="https://en.cug.edu.cn" style="color: #007acc; text-decoration: none;">China University of Geosciences</strong>. 
+  I previously obtained my Bachelor's and Master's degrees from 
+  <strong><a href="https://en.cug.edu.cn" style="color: #007acc; text-decoration: none;">China University of Geosciences</a></strong>. 
   My research focuses on <strong>decentralization</strong>, with key areas in blockchain, cybersecurity, and artificial intelligence. 
   If you have academic inquiries, feel free to contact me at 
   <a href="mailto:Yuexin.Xiang@monash.edu" style="color: #007acc; text-decoration: none;">Yuexin.Xiang@monash.edu</a>.
 </div>
+
 
 News
 ======
