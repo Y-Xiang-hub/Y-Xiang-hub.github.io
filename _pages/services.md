@@ -9,40 +9,61 @@ redirect_from:
 
 {% include base_path %}
 
-# Invited Reviewer
-* Applied Intelligence
-* Blockchain: Research and Applications
-* Computer Networks
-* Computers & Security
-* Computer Communications
-* Computer Standards & Interfaces
-* Computers & Industrial Engineering
-* Computers and Electrical Engineering
-* Distributed Ledger Technologies: Research and Practice
-* Expert Systems with Applications
-* Engineering Applications of Artificial Intelligence
-* Information Sciences
-* IEEE/CAA Journal of Automatica Sinica
-* IEEE Transactions on Intelligent Transportation Systems
-* IEEE Transactions on Information Forensics and Security
-* Journal of Network and Computer Applications
-* Journal of Information Security and Applications
-* Neural Networks
-* Neurocomputing
+<h2>Invited Reviewer</h2>
 
-# Conference Service
-* PC Member, [CVCBT 2025](https://cryptovalleyconference.com/call-for-papers)
-* PC Member, [ACM CCS 2024 Artifact Evaluation](https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html)
-* Reviewer, WWW 2025
-* Reviewer, IJCNN 2025
-* Reviewer, ICLR 2025 Workshop Advances in Financial AI
-* Reviewer, CHI 2025 Case Studies
+<div style="margin: 3px 0; padding: 3px;">
+  <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
+    <li>Applied Intelligence</li>
+    <li>Blockchain: Research and Applications</li>
+    <li>Computer Networks</li>
+    <li>Computers & Security</li>
+    <li>Computer Communications</li>
+    <li>Computer Standards & Interfaces</li>
+    <li>Computers & Industrial Engineering</li>
+    <li>Computers and Electrical Engineering</li>
+    <li>Distributed Ledger Technologies: Research and Practice</li>
+    <li>Expert Systems with Applications</li>
+    <li>Engineering Applications of Artificial Intelligence</li>
+    <li>Information Sciences</li>
+    <li>IEEE/CAA Journal of Automatica Sinica</li>
+    <li>IEEE Transactions on Intelligent Transportation Systems</li>
+    <li>IEEE Transactions on Information Forensics and Security</li>
+    <li>Journal of Network and Computer Applications</li>
+    <li>Journal of Information Security and Applications</li>
+    <li>Neural Networks</li>
+    <li>Neurocomputing</li>
+  </ul>
+</div>
 
-# Membership
-* IEEE Graduate Student Member<br /> 
-* IEEE Computer Society Graduate Student Member
-* ACM Student Member<br /> 
-* CCF Member<br /> 
+<h2>Conference Service</h2>
+
+<div style="margin: 3px 0; padding: 3px;">
+  <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
+    <li>
+      <strong>PC Member:</strong> 
+      <a href="https://cryptovalleyconference.com/call-for-papers" style="text-decoration: none; color: #007acc;">CVCBT 2025</a>
+    </li>
+    <li>
+      <strong>PC Member:</strong> 
+      <a href="https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html" style="text-decoration: none; color: #007acc;">ACM CCS 2024 Artifact Evaluation</a>
+    </li>
+    <li><strong>Reviewer:</strong> WWW 2025</li>
+    <li><strong>Reviewer:</strong> IJCNN 2025</li>
+    <li><strong>Reviewer:</strong> ICLR 2025 Workshop Advances in Financial AI</li>
+    <li><strong>Reviewer:</strong> CHI 2025 Case Studies</li>
+  </ul>
+</div>
+
+<h2>Membership</h2>
+
+<div style="margin: 3px 0; padding: 3px;">
+  <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
+    <li>IEEE Graduate Student Member</li>
+    <li>IEEE Computer Society Graduate Student Member</li>
+    <li>ACM Student Member</li>
+    <li>CCF Member</li>
+  </ul>
+</div>
 
 
 
