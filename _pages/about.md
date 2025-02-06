@@ -41,7 +41,6 @@ News
   }
 </style>
 
-<!--
 <ul class="list__news">
   <li><span class="date">[Jan'25]</span> I'm honored to receive funding from <strong>OpenAI Researcher Access Program</strong>.</li>
   <li><span class="date">[Dec'24]</span> I'm pleased to serve as PC member for <strong>CVCBT'25</strong>.</li>
@@ -53,6 +52,7 @@ News
   <li><span class="date">[Oct'23]</span> I'm honored to be the recipient of <strong>Monash Central Scholarship</strong>.</li>
 </ul>
 
+<!--
 <ul class="list__news" style="list-style: none; padding-left: 0;">
   <li><span style="color: blue;">[Jan'25]</span> I'm honored to receive funding from <strong>OpenAI Researcher Access Program</strong>. </li>
   <li><span style="color: blue;">[Dec'24]</span> I'm pleased to serve as PC member for <strong>CVCBT'25</strong>.</li>
