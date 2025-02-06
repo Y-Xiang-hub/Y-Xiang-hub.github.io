@@ -46,7 +46,7 @@ redirect_from:
 # Grant
 
 <div style="margin: 3px 0; padding: 3px;">
-  <strong>OpenAI Researcher Access Program (1,000 USD)</strong> <br />
+  <strong>OpenAI Researcher Access Program</strong> (1,000 USD) <br />
   <span style="font-size: 0.95em; color: #555;">Issued by OpenAI</span> <br />
   <em style="font-size: 0.9em; color: #888;">Jan 2025</em>
 </div>
