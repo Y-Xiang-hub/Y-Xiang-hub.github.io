@@ -51,8 +51,6 @@ redirect_from:
   <em style="font-size: 0.9em; color: #888;">Jan 2025</em>
 </div>
 
-
-
 # Award
 
 <div style="margin: 3px 0; padding: 3px;">
@@ -60,11 +58,12 @@ redirect_from:
   <span style="font-size: 0.95em; color: #555;">Issued by Consortium for Mathematics and Its Applications</span> <br />
   <em style="font-size: 0.9em; color: #888;">Apr 2019</em>
 </div>
-  <!-- * Top 8% of 14,108 teams worldwide -->
 
 <div style="margin: 3px 0; padding: 3px;">
   <strong>State-level First Prize of Contemporary Undergraduate Mathematical Contest in Modeling</strong> <br />
   <span style="font-size: 0.95em; color: #555;">Issued by China Society for Industrial and Applied Mathematics</span> <br />
   <em style="font-size: 0.9em; color: #888;">Dec 2018</em>
 </div>
+
+  <!-- * Top 8% of 14,108 teams worldwide -->
   <!--  Top 8% of 42,128 teams from 1,449 universities in China -->
