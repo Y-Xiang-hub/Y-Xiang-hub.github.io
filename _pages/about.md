@@ -13,7 +13,7 @@ redirect_from:
 
 About Me
 ======
-<div style="font-family: Arial, sans-serif; font-size: 1em; color: #444; line-height: 1.6; padding: 16px; margin: 16px 0;">
+<div style="font-family: Arial, sans-serif; font-size: 1em; color: #444; line-height: 1.5; padding: 10px 8px; margin: 8px 0;">
   Hi, I'm Yuexin, currently pursuing a PhD in the Faculty of Information Technology at 
   <strong><a href="https://www.monash.edu/" style="color: #007acc; text-decoration: none;">Monash University</a></strong> in Australia. 
   I previously obtained my Bachelor's and Master's degrees from 
@@ -22,6 +22,7 @@ About Me
   If you have academic inquiries, feel free to contact me at 
   <a href="mailto:Yuexin.Xiang@monash.edu" style="color: #007acc; text-decoration: none;">Yuexin.Xiang@monash.edu</a>.
 </div>
+
 
 
 News
