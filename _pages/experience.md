@@ -26,27 +26,35 @@ redirect_from:
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 18px; font-size: 0.95em; color: #555; line-height: 1.5;">
     <li>
-      <strong>Bachelor Thesis:</strong> <em>A Graph Neural Network-based Method for Illicit Bitcoin Address Analysis</em> <br />
-      <span>Wenwen Zheng (China University of Geosciences)</span> <br />
-      <em style="font-size: 0.9em; color: #888;">Jun 2022</em>
+      <div style="margin: 3px 0; padding: 3px;">
+        <strong>Bachelor Thesis:</strong> <em>A Graph Neural Network-based Method for Illicit Bitcoin Address Analysis</em> <br />
+        <span>Wenwen Zheng (China University of Geosciences)</span> <br />
+        <em style="font-size: 0.9em; color: #888;">Jun 2022</em>
+      </div>
     </li>
 
     <li>
-      <strong>Bachelor Thesis:</strong> <em>A Machine Learning- and Motivation-based Approach for Illicit Bitcoin Address Analysis</em> <br />
-      <span>Shiyuan Feng (China University of Geosciences)</span> <br />
-      <em style="font-size: 0.9em; color: #888;">Jun 2022</em>
+      <div style="margin: 3px 0; padding: 3px;">
+        <strong>Bachelor Thesis:</strong> <em>A Machine Learning- and Motivation-based Approach for Illicit Bitcoin Address Analysis</em> <br />
+        <span>Shiyuan Feng (China University of Geosciences)</span> <br />
+        <em style="font-size: 0.9em; color: #888;">Jun 2022</em>
+      </div>
     </li>
 
     <li>
-      <strong>Master Thesis:</strong> <em>Research on Blockchain Transaction Monitoring and Visualization System</em> <br />
-      <span>Ding Bao (China University of Geosciences)</span> <br />
-      <em style="font-size: 0.9em; color: #888;">Jun 2024</em>
+      <div style="margin: 3px 0; padding: 3px;">
+        <strong>Master Thesis:</strong> <em>Research on Blockchain Transaction Monitoring and Visualization System</em> <br />
+        <span>Ding Bao (China University of Geosciences)</span> <br />
+        <em style="font-size: 0.9em; color: #888;">Jun 2024</em>
+      </div>
     </li>
 
     <li>
-      <strong>Master Thesis:</strong> <em>Research on Security Analysis Techniques for Detecting Illicit Activities in Blockchain Transactions</em> <br />
-      <span>Qingqing Yang (China University of Geosciences)</span> <br />
-      <em style="font-size: 0.9em; color: #888;">Jun 2024</em>
+      <div style="margin: 3px 0; padding: 3px;">
+        <strong>Master Thesis:</strong> <em>Research on Security Analysis Techniques for Detecting Illicit Activities in Blockchain Transactions</em> <br />
+        <span>Qingqing Yang (China University of Geosciences)</span> <br />
+        <em style="font-size: 0.9em; color: #888;">Jun 2024</em>
+      </div>
     </li>
   </ul>
 </div>
