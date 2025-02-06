@@ -124,25 +124,25 @@ Education
 Selected Publication
 ======
 
-<div style="margin: 4px 0; padding: 5px;">
+<div style="margin: 3px 0; padding: 5px;">
   <strong> <a href="https://arxiv.org/abs/2501.18158" style="text-decoration: none; color: #007acc;">Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin Case Study</a></strong> <br />
   <span style="font-size: 0.95em; color: #555;">Y. Lei*, Y. Xiang*<sup>†</sup>, Q. Wang, R. Dowsley, T. H. Yuen, and J. Yu</span> <br />
   <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2025.</em>
 </div>
 
-<div style="margin: 4px 0; padding: 5px;">
+<div style="margin: 3px 0; padding: 5px;">
   <strong> <a href="https://doi.org/10.1109/TIFS.2023.3347894" style="text-decoration: none; color: #007acc;">BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis</a></strong> <br />
   <span style="font-size: 0.95em; color: #555;">Y. Xiang, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K.-K. R. Choo</span> <br />
   <em style="font-size: 0.9em; color: #888;">IEEE Transactions on Information Forensics and Security, 2024.</em>
 </div>
 
-<div style="margin: 4px 0; padding: 5px;">
+<div style="margin: 3px 0; padding: 5px;">
   <strong> <a href="https://doi.org/10.1109/BigData55660.2022.10020980" style="text-decoration: none; color: #007acc;">Leveraging Subgraph Structure for Exploration and Analysis of Bitcoin Address</a></strong> <br />
   <span style="font-size: 0.95em; color: #555;">Y. Xiang, T. Li, and Y. Li</span> <br />
   <em style="font-size: 0.9em; color: #888;">IEEE International Conference on Big Data, 2022.</em>
 </div>
 
-<div style="margin: 4px 0; padding: 5px;">
+<div style="margin: 3px 0; padding: 5px;">
   <strong> <a href="https://doi.org/10.1016/j.jnca.2020.102953" style="text-decoration: none; color: #007acc;">A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks</a></strong> <br />
   <span style="font-size: 0.95em; color: #555;">Y. Xiang, W. Ren, T. Li, X. Zheng, T. Zhu, and K. K. R. Choo</span> <br />
   <em style="font-size: 0.9em; color: #888;">Journal of Network and Computer Applications, 2021.</em>
