@@ -28,7 +28,7 @@ News
     color: #555;
   }
   .list__news li {
-    padding: 8px 0;
+    padding: 4px 0;
     border-bottom: none;
   }
   .list__news li:last-child {
