@@ -128,7 +128,7 @@ Education
       <span class="edu-degree">PhD,</span>
       <span class="edu-university">Monash University</span>
     </div>
-    <div class="edu-time">2024 - Now</div>
+    <div class="edu-time">Jan 2024 - Now</div>
   </div>
   <div class="edu-details">
     Supervised by <a href="https://dowsley.net">Rafael Dowsley</a>, 
@@ -143,7 +143,7 @@ Education
       <span class="edu-degree">MEng,</span>
       <span class="edu-university">China University of Geosciences</span>
     </div>
-    <div class="edu-time">2020 - 2023</div>
+    <div class="edu-time">Sep 2020 - Jul 2023</div>
   </div>
   <div class="edu-details">
     Computer Science and Technology
@@ -156,7 +156,7 @@ Education
       <span class="edu-degree">BEng,</span>
       <span class="edu-university">China University of Geosciences</span>
     </div>
-    <div class="edu-time">2016 - 2020</div>
+    <div class="edu-time">Sep 2016 - Jul 2020</div>
   </div>
   <div class="edu-details">
     Information Security
