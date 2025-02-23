@@ -51,7 +51,7 @@ redirect_from:
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 18px; font-size: 0.95em; color: #555; line-height: 1.5;">
     <li>
-      <strong><a href="https://openai.com/form/researcher-access-program/" style="text-decoration: none; color: #007acc;">OpenAI Researcher Access Program</a>(1,000 USD)</strong> <br />
+      <strong><a href="https://openai.com/form/researcher-access-program/" style="text-decoration: none; color: #007acc;">OpenAI Researcher Access Program</a></strong>(1,000 USD) <br />
       <span>Issued by OpenAI</span> <br />
       <em style="font-size: 0.9em; color: #888;">Jan 2025</em>
     </li>
