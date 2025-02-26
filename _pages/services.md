@@ -42,14 +42,14 @@ redirect_from:
     <li>
       <div style="margin: 3px 0; padding: 3px;">
         <strong>PC Member:</strong> 
-        <a href="https://cryptovalleyconference.com/call-for-papers" style="text-decoration: none; color: #007acc;">CVCBT 2025</a>, 
-        <a href="https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html" style="text-decoration: none; color: #007acc;">ACM CCS 2024 Artifact Evaluation</a>
+        <a href="https://cryptovalleyconference.com/call-for-papers" style="text-decoration: none; color: #007acc;">CVCBT'25</a>, 
+        <a href="https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html" style="text-decoration: none; color: #007acc;">ACM CCS'24 Artifact Evaluation</a>
       </div>
     </li>
 
     <li>
       <div style="margin: 3px 0; padding: 3px;">
-        <strong>Reviewer:</strong> WWW 2025, IJCNN 2025, ICLR 2025 Workshop Advances in Financial AI, CHI 2025 Case Studies
+        <strong>Reviewer:</strong> WWW'25, IJCNN'25, ICLR'25 Workshop Advances in Financial AI, CHI'25 Case Studies
       </div>
     </li>
   </ul>
