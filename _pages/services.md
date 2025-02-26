@@ -43,7 +43,7 @@ redirect_from:
       <div style="margin: 3px 0; padding: 3px;">
         <strong>PC Member:</strong> 
         <a href="https://cryptovalleyconference.com/call-for-papers" style="text-decoration: none; color: #007acc;">CVCBT'25</a>, 
-        <a href="https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html" style="text-decoration: none; color: #007acc;">CCS'24 Artifact Evaluation</a>
+        <a href="https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html" style="text-decoration: none; color: #007acc;">ACM CCS'24 Artifact Evaluation</a>
       </div>
     </li>
 
