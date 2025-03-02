@@ -75,7 +75,6 @@ author_profile: true
      style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
      onmouseover="this.style.backgroundColor='#1a6f5c'"
      onmouseout="this.style.backgroundColor='#20c997'">data</a>
-
   <a href="https://Y-Xiang-hub.github.io/files/BigData22.mp4" 
      style="background-color: #ff9800; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block;"
      onmouseover="this.style.backgroundColor='#e68900'"
