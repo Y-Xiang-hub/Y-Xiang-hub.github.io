@@ -62,19 +62,26 @@ author_profile: true
          onmouseout="this.style.backgroundColor='#20c997'">demo</a>
     </li>
     <li>
-      <strong>
-        <a href="https://doi.org/10.1109/BigData55660.2022.10020980" style="text-decoration: none; color: #007acc;">
-          Leveraging Subgraph Structure for Exploration and Analysis of Bitcoin Address
-        </a>
-      </strong><br />
-      <span>
-        Y. Xiang, T. Li, and Y. Li
-      </span><br />
-      <em style="font-size: 0.9em; color: #888;">IEEE International Conference on Big Data, 2022.</em><br />
-      <a href="https://www.kaggle.com/datasets/lemonx/basd8" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
-         onmouseover="this.style.backgroundColor='#1a6f5c'"
-         onmouseout="this.style.backgroundColor='#20c997'">data</a>
-    </li>
+  <strong>
+    <a href="https://doi.org/10.1109/BigData55660.2022.10020980" style="text-decoration: none; color: #007acc;">
+      Leveraging Subgraph Structure for Exploration and Analysis of Bitcoin Address
+    </a>
+  </strong><br />
+  <span>
+    Y. Xiang, T. Li, and Y. Li
+  </span><br />
+  <em style="font-size: 0.9em; color: #888;">IEEE International Conference on Big Data, 2022.</em><br />
+  <a href="https://www.kaggle.com/datasets/lemonx/basd8" 
+     style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
+     onmouseover="this.style.backgroundColor='#1a6f5c'"
+     onmouseout="this.style.backgroundColor='#20c997'">data</a>
+
+  <a href="https://Y-Xiang-hub.github.io/files/BigData22.mp4" 
+     style="background-color: #ff9800; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block;"
+     onmouseover="this.style.backgroundColor='#e68900'"
+     onmouseout="this.style.backgroundColor='#ff9800'" 
+     target="_blank">video</a>
+</li>
     <li>
       <strong>
         <a href="https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys57074.2022.00116" style="text-decoration: none; color: #007acc;">
