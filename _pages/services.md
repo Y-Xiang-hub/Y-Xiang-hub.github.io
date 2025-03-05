@@ -25,6 +25,7 @@ redirect_from:
     <li>Expert Systems with Applications</li>
     <li>Engineering Applications of Artificial Intelligence</li>
     <li>Information Sciences</li>
+    <li>Information Processing and Management</li>
     <li>IEEE/CAA Journal of Automatica Sinica</li>
     <li>IEEE Transactions on Intelligent Transportation Systems</li>
     <li>IEEE Transactions on Information Forensics and Security</li>
