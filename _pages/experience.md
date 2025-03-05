@@ -21,17 +21,6 @@ redirect_from:
   </ul>
 </div>
 
-# Membership
-
-<div style="margin: 3px 0; padding: 3px;">
-  <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
-    <li>IEEE Graduate Student Member</li>
-    <li>IEEE Computer Society Graduate Student Member</li>
-    <li>ACM Student Member</li>
-    <li>CCF Member</li>
-  </ul>
-</div>
-
 # Supervision
 
 <div style="margin: 3px 0; padding: 3px;">
@@ -70,7 +59,16 @@ redirect_from:
   </ul>
 </div>
 
+# Membership
 
+<div style="margin: 3px 0; padding: 3px;">
+  <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
+    <li>IEEE Graduate Student Member</li>
+    <li>IEEE Computer Society Graduate Student Member</li>
+    <li>ACM Student Member</li>
+    <li>CCF Member</li>
+  </ul>
+</div>
 
 
 <!--# Visiting
