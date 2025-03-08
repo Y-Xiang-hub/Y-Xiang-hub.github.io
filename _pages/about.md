@@ -52,7 +52,7 @@ News
 </style>
 
 <ul class="list__news">
-  <li><span class="date">[Jan'25]</span> I'm honored to receive funding from <strong>OpenAI Researcher Access Program</strong>.</li>
+  <li><span class="date">[Jan'25]</span> I'm honored to be accepted into <strong>OpenAI Researcher Access Program</strong>.</li>
   <li><span class="date">[Dec'24]</span> I'm pleased to serve as PC member for <strong>CVCBT'25</strong>.</li>
   <li><span class="date">[Sep'24]</span> I’m thrilled to start as Visiting PhD Scholar at <strong>USYD</strong> invited by A/Prof. Jiangshan Yu.</li>
   <li><span class="date">[Apr'24]</span> I'm pleased to serve as PC member for <strong>ACM CCS'24 Artifact Evaluation</strong>.</li>
