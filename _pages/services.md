@@ -34,6 +34,7 @@ redirect_from:
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
     <li>Applied Intelligence</li>
+    <li>Applied Soft Computing</li>
     <li>Blockchain: Research and Applications</li>
     <li>Computer Networks</li>
     <li>Computers & Security</li>
