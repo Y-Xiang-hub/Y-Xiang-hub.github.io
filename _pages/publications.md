@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Cryptocurrency Analysis
+# Blockchain Analysis
 
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
