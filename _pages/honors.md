@@ -63,13 +63,13 @@ redirect_from:
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 18px; font-size: 0.95em; color: #555; line-height: 1.5;">
     <li>
-      <strong><a href="https://www.comap-math.org/mcm/2019Certs/1903649.pdf" style="text-decoration: none; color: #007acc;">Meritorious Winner of Mathematical Contest in Modeling</a></strong> <br />
+      <strong><a href="https://www.comap-math.org/mcm/2019Certs/1903649.pdf" style="text-decoration: none; color: #007acc;">Meritorious Winner in Mathematical Contest in Modeling</a></strong> <br />
       <span>Issued by Consortium for Mathematics and Its Applications</span> <br />
       <em style="font-size: 0.9em; color: #888;">Apr 2019</em>
     </li>
 
     <li>
-      <strong>State-level First Prize of Contemporary Undergraduate Mathematical Contest in Modeling</strong> <br />
+      <strong>State-level First Prize in Contemporary Undergraduate Mathematical Contest in Modeling</strong> <br />
       <span>Issued by China Society for Industrial and Applied Mathematics</span> <br />
       <em style="font-size: 0.9em; color: #888;">Dec 2018</em>
     </li>
