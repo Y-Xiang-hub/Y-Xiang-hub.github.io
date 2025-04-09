@@ -15,7 +15,7 @@ About Me
 ======
 <div style="font-family: Arial, sans-serif; font-size: 1em; color: #444; line-height: 1.5; padding: 10px 2px; margin: 2px 0;">
   Hi, I'm Yuexin, currently pursuing PhD in the Faculty of Information Technology at 
-  <strong><a href="https://www.monash.edu/" style="color: #007acc; text-decoration: none;">Monash University</a></strong> in Australia. 
+  <strong><a href="https://www.monash.edu/" style="color: #007acc; text-decoration: none;">Monash University</a></strong>, under the Department of Software Systems and Cybersecurity (SSC). 
   I previously obtained my Bachelor's and Master's degrees from 
   <strong><a href="https://en.cug.edu.cn" style="color: #007acc; text-decoration: none;">China University of Geosciences</a></strong>. 
   My research focuses on <strong>Decentralization</strong>, with key areas in blockchain, cybersecurity, and artificial intelligence. 
@@ -52,7 +52,7 @@ News
 </style>
 
 <ul class="list__news">
-  <li><span class="date">[Mar'25]</span> Our team won the <strong>Third Prize</strong> in PKUBA Global Research Arena.</li>
+  <li><span class="date">[Apr'25]</span> Our team won the <strong>Third Prize</strong> in PKUBA Global Research Arena.</li>
   <li><span class="date">[Mar'25]</span> I'm pleased to be officially confirmed as <strong>PhD Candidate</strong> at Monash University.</li>
   <li><span class="date">[Jan'25]</span> I'm honored to be accepted into <strong>OpenAI Researcher Access Program</strong>.</li>
   <li><span class="date">[Dec'24]</span> I'm pleased to serve as PC member for <strong>CVCBT'25</strong>.</li>
