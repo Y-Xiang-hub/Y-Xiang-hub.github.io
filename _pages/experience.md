@@ -21,6 +21,20 @@ redirect_from:
   </ul>
 </div>
 
+
+# Teaching
+
+<div style="margin: 3px 0; padding: 3px;">
+  <ul style="margin: 0; padding-left: 18px; font-size: 0.95em; color: #555; line-height: 1.5;">
+    <li>
+      <strong>FIT5129 - Cyber Operations, Monash University</strong> <br />
+      <span>Teaching Associate</span> <br />
+      <em style="font-size: 0.9em; color: #888;">2025</em>
+    </li>
+  </ul>
+</div>
+
+
 # Supervision
 
 <div style="margin: 3px 0; padding: 3px;">
