@@ -65,7 +65,7 @@ redirect_from:
     <li>
       <strong>Third Prize in PKUBA Global Research Arena</strong> <br />
       <span>Issued by Peking University Blockchain Association</span> <br />
-      <em style="font-size: 0.9em; color: #888;">Mar 2025</em>
+      <em style="font-size: 0.9em; color: #888;">Apr 2025</em>
     </li>
     
     <li>
