@@ -63,7 +63,7 @@ redirect_from:
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 18px; font-size: 0.95em; color: #555; line-height: 1.5;">
     <li>
-      <strong>Third Prize in PKUBA Global Research Arena</strong> <br />
+      <strong><a href="https://x.com/PKUBlockchain/status/1915306345492078965" style="text-decoration: none; color: #007acc;">Third Prize in PKUBA Global Research Arena</strong> <br />
       <span>Issued by Peking University Blockchain Association</span> <br />
       <em style="font-size: 0.9em; color: #888;">Apr 2025</em>
     </li>
