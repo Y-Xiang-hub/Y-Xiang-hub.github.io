@@ -19,8 +19,8 @@ redirect_from:
           OpenAI Researcher Access Program
         </a>
       </strong> (1,000 USD) <br />
-      <span><strong>Project:</strong> Leveraging LLMs for Advanced Analysis and Behavioral Insights in Decentralized Blockchain Networks</span> <br />
       <span>Issued by OpenAI</span> <br />
+      <span><strong>Project:</strong> Leveraging LLMs for Advanced Analysis and Behavioral Insights in Decentralized Blockchain Networks</span> <br />
       <em style="font-size: 0.9em; color: #888;">Jan 2025</em>
     </li>
   </ul>
