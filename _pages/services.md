@@ -23,7 +23,7 @@ redirect_from:
 
     <li>
       <div style="margin: 3px 0; padding: 3px;">
-        <strong>Reviewer/Sub-reviewer:</strong> NDSS'26, KDD'25 (Outstanding Reviewer), DSN'25, WWW'25, IJCNN'25, ICLR'25 Workshop Advances in Financial AI, CHI'25 Case Studies
+        <strong>Reviewer/Sub-reviewer:</strong> NDSS'26, KDD'25 ([Outstanding Reviewer](https://kdd2025.kdd.org/applied-data-science-ads-track-program-committee/)), DSN'25, WWW'25, IJCNN'25, ICLR'25 Workshop Advances in Financial AI, CHI'25 Case Studies
       </div>
     </li>
   </ul>
