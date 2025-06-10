@@ -28,7 +28,7 @@ redirect_from:
     DSN'25, WWW'25, IJCNN'25, ICLR'25 Workshop Advances in Financial AI, CHI'25 Case Studies
   </div>
 </li>
-
+</div>
 
 # Invited Reviewer
 
