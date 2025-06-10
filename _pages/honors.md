@@ -49,9 +49,9 @@ redirect_from:
       <span>Issued by Ministry of Education of the People's Republic of China</span> <br />
       <em style="font-size: 0.9em; color: #888;">Dec 2021</em>
     </li>
-
+    
     <li>
-      <strong>China National Computer Congress Participation Scholarship</strong> <br />
+      <strong><a href="https://www.ccf.org.cn/Media_list/cncc/2021-09-07/736399.shtml" style="text-decoration: none; color: #007acc;">China National Computer Congress Participation Scholarship</a></strong> <br />
       <span>Issued by China Computer Federation</span> <br />
       <em style="font-size: 0.9em; color: #888;">Sep 2021</em>
     </li>
