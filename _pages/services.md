@@ -46,6 +46,7 @@ redirect_from:
   <li>IEEE Transactions on Information Forensics and Security</li>
   <li>Journal of Network and Computer Applications</li>
   <li>Journal of Information Security and Applications</li>
+  <li>Knowledge-Based Systems</li>
   <li>Neural Networks</li>
   <li>Neurocomputing</li>
 </ul>
