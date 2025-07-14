@@ -18,7 +18,7 @@ redirect_from:
     <a href="https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html" style="text-decoration: none; color: #007acc;">ACM CCS'24 Artifact Evaluation</a>
   </li>
   <li>
-    <strong>Reviewer/Sub-reviewer:</strong> NDSS'26, 
+    <strong>Reviewer/Sub-reviewer:</strong> KDD'26, NDSS'26, 
     <a href="https://kdd2025.kdd.org/applied-data-science-ads-track-program-committee/" style="text-decoration: none; color: #007acc;">KDD'25 (Outstanding Reviewer)</a>, 
     DSN'25, WWW'25, IJCNN'25, ICLR'25 Workshop Advances in Financial AI, CHI'25 Case Studies
   </li>
