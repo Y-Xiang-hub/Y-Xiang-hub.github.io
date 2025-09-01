@@ -52,6 +52,7 @@ News
 </style>
 
 <ul class="list__news">
+  <li><span class="date">[Aug'25]</span> I'm pleased to serve as SAC for <strong>KDD'26 ADS Track</strong>.</li>
   <li><span class="date">[Apr'25]</span> Our team won the <strong>Third Prize</strong> in PKUBA Global Research Arena.</li>
   <li><span class="date">[Mar'25]</span> I'm pleased to be officially confirmed as <strong>PhD Candidate</strong> at Monash University.</li>
   <li><span class="date">[Jan'25]</span> I'm honored to be accepted into <strong>OpenAI Researcher Access Program</strong>.</li>
