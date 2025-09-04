@@ -37,7 +37,7 @@ author_profile: true
         </a>
       </strong><br />
       <span>
-        Y. Xiang, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K.-K. R. Choo
+        Y. Xiang, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K. K. R. Choo
       </span><br />
       <em style="font-size: 0.9em; color: #888;">IEEE Transactions on Information Forensics and Security, 2024.</em><br />
       <a href="https://github.com/Y-Xiang-hub/Bitcoin-Address-Behavior-Analysis" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
@@ -54,7 +54,7 @@ author_profile: true
         </a>
       </strong><br />
       <span>
-        D. Bao, W. Ren, Y. Xiang, W. Liu, T. Zhu, Y. Ren, and K.-K. R. Choo
+        D. Bao, W. Ren, Y. Xiang, W. Liu, T. Zhu, Y. Ren, and K. K. R. Choo
       </span><br />
       <em style="font-size: 0.9em; color: #888;">Frontiers of Computer Science, 2023.</em><br />
       <a href="https://github.com/whbyaoi/BTCShadow" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
@@ -109,7 +109,7 @@ author_profile: true
         </a>
       </strong><br />
       <span>
-        Y. Xiang, W. Ren, T. Li, X. Zheng, T. Zhu, and K.-K. R. Choo
+        Y. Xiang, W. Ren, T. Li, X. Zheng, T. Zhu, and K. K. R. Choo
       </span><br />
       <em style="font-size: 0.9em; color: #888;">Journal of Network and Computer Applications, 2021.</em><br />
       <a href="https://github.com/Y-Xiang-hub/A-Copyright-Protection-Method-in-Big-Data-Trade" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
@@ -123,7 +123,7 @@ author_profile: true
         </a>
       </strong><br />
       <span>
-        T. Li, W. Ren, Y. Xiang, X. Zheng, T. Zhu, K.-K. R. Choo, and G. Srivastava
+        T. Li, W. Ren, Y. Xiang, X. Zheng, T. Zhu, K. K. R. Choo, and G. Srivastava
       </span><br />
       <em style="font-size: 0.9em; color: #888;">Information Sciences, 2021.</em><br />
       <a href="https://github.com/Y-Xiang-hub/FAPS-Prototype" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
@@ -158,7 +158,7 @@ author_profile: true
         </a>
       </strong><br />
       <span>
-        Y. Xiang, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo
+        Y. Xiang, T. Li, W. Ren, T. Zhu, and K. K. R. Choo
       </span><br />
       <em style="font-size: 0.9em; color: #888;">Journal of Information Security and Applications, 2024.</em><br />
       <a href="https://github.com/Y-Xiang-hub/AdvEWM" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
@@ -172,7 +172,7 @@ author_profile: true
         </a>
       </strong><br />
       <span>
-        Y. Xiang, T. Li, W. Ren, T. Zhu, and K.-K. R. Choo
+        Y. Xiang, T. Li, W. Ren, T. Zhu, and K. K. R. Choo
       </span><br />
       <em style="font-size: 0.9em; color: #888;">Engineering Applications of Artificial Intelligence, 2023.</em><br />
       <a href="https://github.com/oopshell/Pixel-Blocks-Mixing-For-Image-Privacy-Preservation" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
