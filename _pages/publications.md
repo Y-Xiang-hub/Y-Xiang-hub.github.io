@@ -158,7 +158,7 @@ author_profile: true
         </a>
       </strong><br />
       <span>
-        Y. Xiang, T. Li, W. Ren, T. Zhu, and K. K. R. Choo
+        Y. Xiang, T. Li, W. Ren, J. He, T. Zhu, and K. K. R. Choo
       </span><br />
       <em style="font-size: 0.9em; color: #888;">Journal of Information Security and Applications, 2024.</em><br />
       <a href="https://github.com/Y-Xiang-hub/AdvEWM" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
