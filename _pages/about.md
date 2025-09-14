@@ -182,7 +182,7 @@ Selected Publication
 
 <div style="margin: 3px 0; padding: 3px;">
   <strong> <a href="https://doi.org/10.1109/TIFS.2023.3347894" style="text-decoration: none; color: #007acc;">BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis</a></strong> <br />
-  <span style="font-size: 0.95em; color: #555;">Y. Xiang, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K.-K. R. Choo</span> <br />
+  <span style="font-size: 0.95em; color: #555;">Y. Xiang, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K. K. R. Choo</span> <br />
   <em style="font-size: 0.9em; color: #888;">IEEE Transactions on Information Forensics and Security, 2024.</em>
 </div>
 
