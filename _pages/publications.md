@@ -26,7 +26,7 @@ author_profile: true
         </a>
       </strong><br />
       <span>
-        Y. Lei*, Y. Xiang*<sup>†</sup>, Q. Wang, R. Dowsley, T. H. Yuen, K. K. R. Choo, and J. Yu
+        Y. Lei, Y. Xiang, Q. Wang, R. Dowsley, T. H. Yuen, K. K. R. Choo, and J. Yu
       </span><br />
       <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2025.</em>
     </li>
