@@ -28,7 +28,13 @@ author_profile: true
       <span>
         Y. Lei, Y. Xiang, Q. Wang, R. Dowsley, T. H. Yuen, K. K. R. Choo, and J. Yu
       </span><br />
-      <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2025.</em>
+      <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2025.</em><br />
+      <a href="https://github.com/yuchen-lei/llm4tg" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
+         onmouseover="this.style.backgroundColor='#1a6f5c'"
+         onmouseout="this.style.backgroundColor='#20c997'">code</a>
+      <a href="https://www.kaggle.com/datasets/lemonx/basd8" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block;"
+         onmouseover="this.style.backgroundColor='#1a6f5c'"
+         onmouseout="this.style.backgroundColor='#20c997'">data</a>
     </li>
     <li>
       <strong>
