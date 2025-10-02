@@ -134,7 +134,7 @@ Education
     <div class="edu-time">Jan 2024 - Now</div>
   </div>
   <div class="edu-details">
-    Supervised by <a href="https://thyuen.github.io">Tsz Hon Yuen</a>, and
+    Supervised by <a href="https://thyuen.github.io">Tsz Hon Yuen</a> and
     <a href="https://jiangshanyu.github.io">Jiangshan Yu</a>
   </div>
 </div>
