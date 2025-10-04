@@ -86,7 +86,7 @@ redirect_from:
       <br />
       <span>Issued by OpenAI</span><br />
       <span>
-        <strong>Project:</strong> Leveraging LLMs for Advanced Analysis and Behavioral Insights in Decentralized Blockchain Networks
+        <strong>Project:</strong> Leveraging LLMs for Advanced Analysis in Decentralized Blockchain Networks
       </span><br />
       <em style="font-size: 0.9em; color: #888;">Jan 2025</em>
     </li>
