@@ -66,24 +66,31 @@ redirect_from:
   }
 </style>
 
-<div class="grant-item">
-  <div class="grant-top">
-    <div class="grant-left">
-      <img src="/images/openai.png" alt="OpenAI Logo" class="grant-logo" />
-      <strong class="grant-title">
-        <a href="https://openai.com/form/researcher-access-program/">
-          OpenAI Researcher Access Program
-        </a>
-      </strong>
-    </div>
-    <div class="grant-time">(1,000 USD, Project ID: 0000007730)</div>
-  </div>
-
-  <div class="grant-details">
-    Issued by OpenAI<br />
-    <strong>Project:</strong> Leveraging LLMs for Advanced Analysis and Behavioral Insights in Decentralized Blockchain Networks<br />
-    <em>Jan 2025</em>
-  </div>
+<div style="margin: 3px 0; padding: 3px;">
+  <ul style="margin: 0; padding-left: 18px; font-size: 0.95em; color: #555; line-height: 1.5;">
+    <li style="list-style-type: disc;">
+      <span style="display: inline-block; vertical-align: middle;">
+        <img 
+          src="/images/openai.png" 
+          alt="OpenAI Logo" 
+          style="width: 18px; height: 18px; object-fit: contain; vertical-align: middle; margin-right: 6px;" 
+        />
+        <strong>
+          <a href="https://openai.com/form/researcher-access-program/" 
+             style="text-decoration: none; color: #007acc;">
+            OpenAI Researcher Access Program
+          </a>
+        </strong>
+      </span>
+      <br />
+      <span>(1,000 USD, Project ID: 0000007730)</span><br />
+      <span>Issued by OpenAI</span><br />
+      <span>
+        <strong>Project:</strong> Leveraging LLMs for Advanced Analysis and Behavioral Insights in Decentralized Blockchain Networks
+      </span><br />
+      <em style="font-size: 0.9em; color: #888;">Jan 2025</em>
+    </li>
+  </ul>
 </div>
 
 
