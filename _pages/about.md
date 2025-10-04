@@ -129,7 +129,7 @@ Education
   <div class="edu-top">
     <div class="edu-left">
       <span class="edu-degree">PhD,</span>
-      <img src="images/MO.png" alt="Monash Logo" class="edu-logo" />
+      <img src="/images/MO.png" alt="Monash Logo" class="edu-logo" />
       <span class="edu-university">Monash University</span>
     </div>
     <div class="edu-time">Jan 2024 - Now</div>
@@ -144,7 +144,7 @@ Education
   <div class="edu-top">
     <div class="edu-left">
       <span class="edu-degree">MEng,</span>
-      <img src="images/GUG.png" alt="CUG Logo" class="edu-logo" />
+      <img src="/images/GUG.png" alt="CUG Logo" class="edu-logo" />
       <span class="edu-university">China University of Geosciences</span>
     </div>
     <div class="edu-time">Sep 2020 - Jul 2023</div>
@@ -156,13 +156,14 @@ Education
   <div class="edu-top">
     <div class="edu-left">
       <span class="edu-degree">BEng,</span>
-      <img src="images/GUG.png" alt="CUG Logo" class="edu-logo" />
+      <img src="/images/GUG.png" alt="CUG Logo" class="edu-logo" />
       <span class="edu-university">China University of Geosciences</span>
     </div>
     <div class="edu-time">Sep 2016 - Jul 2020</div>
   </div>
   <div class="edu-details">Information Security</div>
 </div>
+
 
 
 Selected Publication
