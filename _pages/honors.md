@@ -11,26 +11,80 @@ redirect_from:
 
 
 # Grant
-<div style="margin: 3px 0; padding: 3px;">
-  <ul style="margin: 0; padding-left: 18px; font-size: 0.95em; color: #555; line-height: 1.5;">
-    <li>
-      <div style="display: flex; align-items: center; gap: 6px; flex-wrap: nowrap;">
-        <img src="/images/openai.png" alt="OpenAI Logo" style="width: 18px; height: 18px; object-fit: contain;" />
-        <strong style="display: inline;">
-          <a href="https://openai.com/form/researcher-access-program/" 
-             style="text-decoration: none; color: #007acc; display: inline;">
-            OpenAI Researcher Access Program
-          </a>
-        </strong>
-      </div>
-      <span style="font-size: 0.95em; color: #555;">(1,000 USD, Project ID: 0000007730)</span><br />
-      <span>Issued by OpenAI</span><br />
-      <span>
-        <strong>Project:</strong> Leveraging LLMs for Advanced Analysis and Behavioral Insights in Decentralized Blockchain Networks
-      </span><br />
-      <em style="font-size: 0.9em; color: #888;">Jan 2025</em>
-    </li>
-  </ul>
+<style>
+  .grant-item {
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+  }
+
+  .grant-top {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1em;
+  }
+
+  .grant-left {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .grant-logo {
+    width: 18px;
+    height: 18px;
+    object-fit: contain;
+  }
+
+  .grant-title a {
+    text-decoration: none;
+    color: #007acc;
+  }
+
+  .grant-details {
+    margin-top: 2px;
+    font-size: 0.9em;
+    color: #777;
+    line-height: 1.5;
+  }
+
+  .grant-time {
+    font-size: 0.9em;
+    color: #666;
+  }
+
+  /* ✅ 手机端优化（可选） */
+  @media (max-width: 480px) {
+    .grant-top {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 2px;
+    }
+    .grant-time {
+      margin-left: 24px;
+    }
+  }
+</style>
+
+<div class="grant-item">
+  <div class="grant-top">
+    <div class="grant-left">
+      <img src="/images/openai.png" alt="OpenAI Logo" class="grant-logo" />
+      <strong class="grant-title">
+        <a href="https://openai.com/form/researcher-access-program/">
+          OpenAI Researcher Access Program
+        </a>
+      </strong>
+    </div>
+    <div class="grant-time">(1,000 USD, Project ID: 0000007730)</div>
+  </div>
+
+  <div class="grant-details">
+    Issued by OpenAI<br />
+    <strong>Project:</strong> Leveraging LLMs for Advanced Analysis and Behavioral Insights in Decentralized Blockchain Networks<br />
+    <em>Jan 2025</em>
+  </div>
 </div>
 
 
