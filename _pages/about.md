@@ -127,14 +127,14 @@ Education
 
 <div class="education-item">
   <div class="edu-top">
-    <div class="edu-left" style="display:flex;align-items:center;">
+    <div class="edu-left" style="display:flex;align-items:center;gap:6px;">
       <span class="edu-degree">PhD,</span>
       <a href="https://www.monash.edu" target="_blank">
         <img src="https://www.monash.edu/__data/assets/file/0004/837043/Monash_Logo_2020.png" 
              alt="Monash University Logo" 
-             style="width:22px;height:22px;margin:0 6px;vertical-align:middle;">
+             style="width:22px;height:22px;vertical-align:middle;">
       </a>
-      <span class="edu-university">Monash University</span>
+      <span class="edu-university" style="font-style:normal;">Monash University</span>
     </div>
     <div class="edu-time">Jan 2024 - Now</div>
   </div>
@@ -146,14 +146,14 @@ Education
 
 <div class="education-item">
   <div class="edu-top">
-    <div class="edu-left" style="display:flex;align-items:center;">
+    <div class="edu-left" style="display:flex;align-items:center;gap:6px;">
       <span class="edu-degree">MEng,</span>
       <a href="https://en.cug.edu.cn/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/China_University_of_Geosciences_logo.png/200px-China_University_of_Geosciences_logo.png" 
              alt="CUG Logo" 
-             style="width:22px;height:22px;margin:0 6px;vertical-align:middle;">
+             style="width:22px;height:22px;vertical-align:middle;">
       </a>
-      <span class="edu-university">China University of Geosciences</span>
+      <span class="edu-university" style="font-style:normal;">China University of Geosciences</span>
     </div>
     <div class="edu-time">Sep 2020 - Jul 2023</div>
   </div>
@@ -164,14 +164,14 @@ Education
 
 <div class="education-item">
   <div class="edu-top">
-    <div class="edu-left" style="display:flex;align-items:center;">
+    <div class="edu-left" style="display:flex;align-items:center;gap:6px;">
       <span class="edu-degree">BEng,</span>
       <a href="https://en.cug.edu.cn/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/China_University_of_Geosciences_logo.png/200px-China_University_of_Geosciences_logo.png" 
              alt="CUG Logo" 
-             style="width:22px;height:22px;margin:0 6px;vertical-align:middle;">
+             style="width:22px;height:22px;vertical-align:middle;">
       </a>
-      <span class="edu-university">China University of Geosciences</span>
+      <span class="edu-university" style="font-style:normal;">China University of Geosciences</span>
     </div>
     <div class="edu-time">Sep 2016 - Jul 2020</div>
   </div>
