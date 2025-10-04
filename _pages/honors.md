@@ -13,14 +13,18 @@ redirect_from:
 # Grant
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 18px; font-size: 0.95em; color: #555; line-height: 1.5;">
-    <li>
-      <strong>
-        <a href="https://openai.com/form/researcher-access-program/" style="text-decoration: none; color: #007acc;">
-          OpenAI Researcher Access Program
-        </a>
-      </strong> (1,000 USD) <br />
-      <span>Issued by OpenAI</span> <br />
-      <span><strong>Project:</strong> Leveraging LLMs for Advanced Analysis and Behavioral Insights in Decentralized Blockchain Networks</span> <br />
+    <li style="display: flex; flex-direction: column; gap: 3px;">
+      <div style="display: flex; align-items: center; gap: 6px;">
+        <img src="/images/openai.png" alt="OpenAI Logo" style="width: 18px; height: 18px; object-fit: contain;" />
+        <strong>
+          <a href="https://openai.com/form/researcher-access-program/" style="text-decoration: none; color: #007acc;">
+            OpenAI Researcher Access Program
+          </a>
+        </strong>
+        <span style="font-size: 0.95em; color: #555;">(1,000 USD, Project ID: 0000007730)</span>
+      </div>
+      <span>Issued by OpenAI</span>
+      <span><strong>Project:</strong> Leveraging LLMs for Advanced Analysis and Behavioral Insights in Decentralized Blockchain Networks</span>
       <em style="font-size: 0.9em; color: #888;">Jan 2025</em>
     </li>
   </ul>
