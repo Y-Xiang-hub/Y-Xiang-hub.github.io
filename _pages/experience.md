@@ -79,7 +79,6 @@ redirect_from:
       </span>
       <br />
       <span>Visiting PhD Scholar</span><br />
-      <span>Hosted by University of Sydney</span><br />
       <em style="font-size: 0.9em; color: #888;">Sep 2024 – Oct 2024</em>
     </li>
   </ul>
