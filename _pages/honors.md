@@ -54,7 +54,6 @@ redirect_from:
     color: #666;
   }
 
-  /* ✅ 手机端优化（可选） */
   @media (max-width: 480px) {
     .grant-top {
       flex-direction: column;
