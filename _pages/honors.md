@@ -11,24 +11,89 @@ redirect_from:
 
 
 # Grant
+<style>
+  .grant-item {
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+  }
+
+  .grant-top {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1em;
+  }
+
+  .grant-left {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .grant-logo {
+    width: 18px;
+    height: 18px;
+    object-fit: contain;
+  }
+
+  .grant-title a {
+    text-decoration: none;
+    color: #007acc;
+  }
+
+  .grant-details {
+    margin-top: 2px;
+    font-size: 0.9em;
+    color: #777;
+    line-height: 1.5;
+  }
+
+  .grant-time {
+    font-size: 0.9em;
+    color: #666;
+  }
+
+  @media (max-width: 480px) {
+    .grant-top {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 2px;
+    }
+    .grant-time {
+      margin-left: 24px;
+    }
+  }
+</style>
+
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 18px; font-size: 0.95em; color: #555; line-height: 1.5;">
-    <li style="display: flex; flex-direction: column; gap: 3px;">
-      <div style="display: flex; align-items: center; gap: 6px;">
-        <img src="/images/openai.png" alt="OpenAI Logo" style="width: 18px; height: 18px; object-fit: contain;" />
+    <li style="list-style-type: disc;">
+      <span style="display: inline-block; vertical-align: middle;">
+        <img 
+          src="/images/openai.png" 
+          alt="OpenAI Logo" 
+          style="width: 18px; height: 18px; object-fit: contain; vertical-align: middle; margin-right: 6px;" 
+        />
         <strong>
-          <a href="https://openai.com/form/researcher-access-program/" style="text-decoration: none; color: #007acc;">
+          <a href="https://openai.com/form/researcher-access-program/" 
+             style="text-decoration: none; color: #007acc;">
             OpenAI Researcher Access Program
           </a>
         </strong>
-        <span style="font-size: 0.95em; color: #555;">(1,000 USD, Project ID: 0000007730)</span>
-      </div>
-      <span>Issued by OpenAI</span>
-      <span><strong>Project:</strong> Leveraging LLMs for Advanced Analysis and Behavioral Insights in Decentralized Blockchain Networks</span>
+      </span>
+      <br />
+      <span>(1,000 USD, Project ID: 0000007730)</span><br />
+      <span>Issued by OpenAI</span><br />
+      <span>
+        <strong>Project:</strong> Leveraging LLMs for Advanced Analysis and Behavioral Insights in Decentralized Blockchain Networks
+      </span><br />
       <em style="font-size: 0.9em; color: #888;">Jan 2025</em>
     </li>
   </ul>
 </div>
+
+
 
 
 
