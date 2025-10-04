@@ -11,23 +11,74 @@ redirect_from:
 
 # Visiting
 
-<div style="margin: 3px 0; padding: 3px;">
-  <ul style="margin: 0; padding-left: 18px; font-size: 0.95em; color: #555; line-height: 1.5;">
-    <li style="list-style-type: disc;">
-      <span style="display: inline-block; vertical-align: middle;">
-        <img 
-          src="/images/USYD.png" 
-          alt="University of Sydney Logo" 
-          style="width: 18px; height: 18px; object-fit: contain; vertical-align: middle; margin-right: 6px;" 
-        />
-        <strong>School of Computer Science, University of Sydney</strong>
-      </span>
-      <br />
-      <span>Visiting PhD Scholar</span><br />
-      <em style="font-size: 0.9em; color: #888;">Sep 2024 – Oct 2024</em>
-    </li>
-  </ul>
+<style>
+  .experience-item {
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+  }
+
+  .exp-top {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1em;
+  }
+
+  .exp-left {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .exp-logo {
+    width: 18px;
+    height: 18px;
+    object-fit: contain;
+  }
+
+  .exp-title {
+    font-weight: 500;
+    color: #333;
+  }
+
+  .exp-time {
+    font-size: 0.9em;
+    color: #666;
+  }
+
+  .exp-details {
+    margin-top: 2px;
+    font-size: 0.9em;
+    color: #777;
+  }
+
+  @media (max-width: 480px) {
+    .exp-top {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 2px;
+    }
+
+    .exp-time {
+      margin-left: 24px;
+    }
+  }
+</style>
+
+<div class="experience-item">
+  <div class="exp-top">
+    <div class="exp-left">
+      <img src="/images/USYD.png" alt="University of Sydney Logo" class="exp-logo" />
+      <strong class="exp-title">School of Computer Science, University of Sydney</strong>
+    </div>
+    <div class="exp-time">Sep 2024 – Oct 2024</div>
+  </div>
+  <div class="exp-details">
+    Visiting PhD Scholar
+  </div>
 </div>
+
 
 
 # Teaching
