@@ -96,18 +96,23 @@ Education
     align-items: center;
     font-size: 1em;
   }
-  .edu-left {
 
+  .edu-left {
+    display: flex;
+    align-items: center;   
+    gap: 6px;              
   }
+
   .edu-degree {
     font-weight: 500;
     font-size: 1em;
   }
+
   .edu-university {
-    margin-left: 6px;
     font-style: italic;
     color: #333;
   }
+
   .edu-time {
     font-size: 0.9em;
     color: #666;
@@ -122,6 +127,12 @@ Education
   .edu-details a {
     color: #007acc;
     text-decoration: none;
+  }
+
+  .edu-logo {
+    width: 18px;           
+    height: 18px;
+    object-fit: contain;    
   }
 </style>
 
