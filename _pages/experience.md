@@ -151,18 +151,55 @@ redirect_from:
 # Membership
 
 <div style="margin: 3px 0; padding: 3px;">
-  <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
-    <li>IEEE Graduate Student Member</li>
-    <li>IEEE Computer Society Graduate Student Member</li>
-    <li>ACM Student Member</li>
-    <li>CCF Member</li>
+  <ul style="margin: 0; padding-left: 18px; font-size: 0.95em; color: #555; line-height: 1.5;">
+    
+    <li style="list-style-type: disc;">
+      <span style="display: inline-block; vertical-align: middle;">
+        <img 
+          src="/images/IEEE.png" 
+          alt="IEEE Logo" 
+          style="width: 18px; height: 18px; object-fit: contain; vertical-align: middle; margin-right: 6px;" 
+        />
+        <strong>IEEE Graduate Student Member</strong>
+      </span>
+    </li>
+
+    <li style="list-style-type: disc;">
+      <span style="display: inline-block; vertical-align: middle;">
+        <img 
+          src="/images/IEEE.png" 
+          alt="IEEE Computer Society Logo" 
+          style="width: 18px; height: 18px; object-fit: contain; vertical-align: middle; margin-right: 6px;" 
+        />
+        <strong>IEEE Computer Society Graduate Student Member</strong>
+      </span>
+    </li>
+
+    <li style="list-style-type: disc;">
+      <span style="display: inline-block; vertical-align: middle;">
+        <img 
+          src="/images/ACM.png" 
+          alt="ACM Logo" 
+          style="width: 18px; height: 18px; object-fit: contain; vertical-align: middle; margin-right: 6px;" 
+        />
+        <strong>ACM Student Member</strong>
+      </span>
+    </li>
+
+    <li style="list-style-type: disc;">
+      <span style="display: inline-block; vertical-align: middle;">
+        <img 
+          src="/images/CCF.png" 
+          alt="CCF Logo" 
+          style="width: 18px; height: 18px; object-fit: contain; vertical-align: middle; margin-right: 6px;" 
+        />
+        <strong>CCF Member</strong>
+      </span>
+    </li>
+
   </ul>
 </div>
 
-
-<!--# Visiting
-
-* Visiting PhD Scholar, University of Sydney (School of Computer Science), Sep 2024 – Oct 2024
 
 # Supervision
 
@@ -171,9 +208,6 @@ redirect_from:
 * *Ding Bao*, **Master Thesis**: "Research on Blockchain Transaction Monitoring and Visualization System", China University of Geosciences, Wuhan, China, Jun. 2024
 * *Qingqing Yang*, **Master Thesis**: "Research on Security Analysis Techniques for Detecting Illicit Activities in Blockchain Transactions", China University of Geosciences, Wuhan, China, Jun. 2024 -->
  
-
-
-<!-- # Intership -->
 
 
   
