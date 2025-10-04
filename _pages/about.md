@@ -155,7 +155,7 @@ Education
   <div class="edu-top">
     <div class="edu-left">
       <span class="edu-degree">MEng,</span>
-      <img src="/images/GUG.png" alt="CUG Logo" class="edu-logo" />
+      <img src="/images/CUG.png" alt="CUG Logo" class="edu-logo" />
       <span class="edu-university">China University of Geosciences</span>
     </div>
     <div class="edu-time">Sep 2020 - Jul 2023</div>
@@ -167,7 +167,7 @@ Education
   <div class="edu-top">
     <div class="edu-left">
       <span class="edu-degree">BEng,</span>
-      <img src="/images/GUG.png" alt="CUG Logo" class="edu-logo" />
+      <img src="/images/CUG.png" alt="CUG Logo" class="edu-logo" />
       <span class="edu-university">China University of Geosciences</span>
     </div>
     <div class="edu-time">Sep 2016 - Jul 2020</div>
