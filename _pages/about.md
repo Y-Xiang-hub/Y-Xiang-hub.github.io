@@ -145,7 +145,7 @@ Education
   <div class="edu-top">
     <div class="edu-left">
       <span class="edu-degree">MEng,</span>
-      <a href="http://english.cug.edu.cn/" target="_blank">
+      <a href="http://en.cug.edu.cn/" target="_blank">
         <img src="images/GUG.png" alt="CUG Logo" style="height:20px; vertical-align:middle; margin:0 5px;">
       </a>
       <span class="edu-university">China University of Geosciences</span>
@@ -159,7 +159,7 @@ Education
   <div class="edu-top">
     <div class="edu-left">
       <span class="edu-degree">BEng,</span>
-      <a href="http://english.cug.edu.cn/" target="_blank">
+      <a href="http://en.cug.edu.cn/" target="_blank">
         <img src="images/GUG.png" alt="CUG Logo" style="height:20px; vertical-align:middle; margin:0 5px;">
       </a>
       <span class="edu-university">China University of Geosciences</span>
