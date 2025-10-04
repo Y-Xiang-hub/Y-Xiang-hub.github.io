@@ -125,60 +125,7 @@ Education
   }
 </style>
 
-<div class="education-item">
-  <div class="edu-top">
-    <div class="edu-left" style="display:flex;align-items:center;gap:6px;">
-      <span class="edu-degree">PhD,</span>
-      <a href="https://www.monash.edu" target="_blank">
-        <img src="https://www.monash.edu/__data/assets/file/0004/837043/Monash_Logo_2020.png" 
-             alt="Monash University Logo" 
-             style="width:22px;height:22px;vertical-align:middle;">
-      </a>
-      <span class="edu-university" style="font-style:normal;">Monash University</span>
-    </div>
-    <div class="edu-time">Jan 2024 - Now</div>
-  </div>
-  <div class="edu-details">
-    Supervised by <a href="https://thyuen.github.io">Tsz Hon Yuen</a> and
-    <a href="https://jiangshanyu.github.io">Jiangshan Yu</a>
-  </div>
-</div>
-
-<div class="education-item">
-  <div class="edu-top">
-    <div class="edu-left" style="display:flex;align-items:center;gap:6px;">
-      <span class="edu-degree">MEng,</span>
-      <a href="https://en.cug.edu.cn/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/China_University_of_Geosciences_logo.png/200px-China_University_of_Geosciences_logo.png" 
-             alt="CUG Logo" 
-             style="width:22px;height:22px;vertical-align:middle;">
-      </a>
-      <span class="edu-university" style="font-style:normal;">China University of Geosciences</span>
-    </div>
-    <div class="edu-time">Sep 2020 - Jul 2023</div>
-  </div>
-  <div class="edu-details">
-    Computer Science and Technology
-  </div>
-</div>
-
-<div class="education-item">
-  <div class="edu-top">
-    <div class="edu-left" style="display:flex;align-items:center;gap:6px;">
-      <span class="edu-degree">BEng,</span>
-      <a href="https://en.cug.edu.cn/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/China_University_of_Geosciences_logo.png/200px-China_University_of_Geosciences_logo.png" 
-             alt="CUG Logo" 
-             style="width:22px;height:22px;vertical-align:middle;">
-      </a>
-      <span class="edu-university" style="font-style:normal;">China University of Geosciences</span>
-    </div>
-    <div class="edu-time">Sep 2016 - Jul 2020</div>
-  </div>
-  <div class="edu-details">
-    Information Security
-  </div>
-</div>
+<div class="education-item"> <div class="edu-top"> <div class="edu-left"> <span class="edu-degree">PhD,</span> <span class="edu-university">Monash University</span> </div> <div class="edu-time">Jan 2024 - Now</div> </div> <div class="edu-details"> Supervised by <a href="https://thyuen.github.io">Tsz Hon Yuen</a> and <a href="https://jiangshanyu.github.io">Jiangshan Yu</a> </div> </div> <div class="education-item"> <div class="edu-top"> <div class="edu-left"> <span class="edu-degree">MEng,</span> <span class="edu-university">China University of Geosciences</span> </div> <div class="edu-time">Sep 2020 - Jul 2023</div> </div> <div class="edu-details"> Computer Science and Technology </div> </div> <div class="education-item"> <div class="edu-top"> <div class="edu-left"> <span class="edu-degree">BEng,</span> <span class="edu-university">China University of Geosciences</span> </div> <div class="edu-time">Sep 2016 - Jul 2020</div> </div> <div class="edu-details"> Information Security </div> </div>
 
 
 
