@@ -109,7 +109,7 @@ Education
   }
 
   .edu-university {
-    font-style: italic;
+    font-style: normal;
     color: #333;
   }
 
