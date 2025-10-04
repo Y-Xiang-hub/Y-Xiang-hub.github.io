@@ -130,7 +130,7 @@ Education
     <div class="edu-left" style="display:flex;align-items:center;">
       <span class="edu-degree">PhD,</span>
       <a href="https://www.monash.edu" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/en/4/4a/Monash_University_coat_of_arms.svg" 
+        <img src="https://www.monash.edu/__data/assets/file/0004/837043/Monash_Logo_2020.png" 
              alt="Monash University Logo" 
              style="width:22px;height:22px;margin:0 6px;vertical-align:middle;">
       </a>
@@ -149,7 +149,7 @@ Education
     <div class="edu-left" style="display:flex;align-items:center;">
       <span class="edu-degree">MEng,</span>
       <a href="https://en.cug.edu.cn/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/en/1/16/China_University_of_Geosciences_logo.png" 
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/China_University_of_Geosciences_logo.png/200px-China_University_of_Geosciences_logo.png" 
              alt="CUG Logo" 
              style="width:22px;height:22px;margin:0 6px;vertical-align:middle;">
       </a>
@@ -167,7 +167,7 @@ Education
     <div class="edu-left" style="display:flex;align-items:center;">
       <span class="edu-degree">BEng,</span>
       <a href="https://en.cug.edu.cn/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/en/1/16/China_University_of_Geosciences_logo.png" 
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/China_University_of_Geosciences_logo.png/200px-China_University_of_Geosciences_logo.png" 
              alt="CUG Logo" 
              style="width:22px;height:22px;margin:0 6px;vertical-align:middle;">
       </a>
@@ -179,6 +179,8 @@ Education
     Information Security
   </div>
 </div>
+
+
 
 Selected Publication
 ======
