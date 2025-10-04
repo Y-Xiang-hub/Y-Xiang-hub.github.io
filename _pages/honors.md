@@ -81,9 +81,9 @@ redirect_from:
             OpenAI Researcher Access Program
           </a>
         </strong>
+        <span style="font-size: 0.95em; color: #555;"> (1,000 USD, Project ID: 0000007730)</span>
       </span>
       <br />
-      <span>(1,000 USD, Project ID: 0000007730)</span><br />
       <span>Issued by OpenAI</span><br />
       <span>
         <strong>Project:</strong> Leveraging LLMs for Advanced Analysis and Behavioral Insights in Decentralized Blockchain Networks
@@ -92,7 +92,6 @@ redirect_from:
     </li>
   </ul>
 </div>
-
 
 
 
