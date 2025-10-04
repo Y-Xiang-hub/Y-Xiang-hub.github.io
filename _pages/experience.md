@@ -14,12 +14,16 @@ redirect_from:
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 18px; font-size: 0.95em; color: #555; line-height: 1.5;">
     <li>
-      <strong>University of Sydney (School of Computer Science)</strong> <br />
+      <div style="display: flex; align-items: center; gap: 6px;">
+        <img src="/images/USYD.png" alt="University of Sydney Logo" style="width: 18px; height: 18px; object-fit: contain;" />
+        <strong>University of Sydney, School of Computer Science</strong>
+      </div>
       <span>Visiting PhD Scholar</span> <br />
       <em style="font-size: 0.9em; color: #888;">Sep 2024 – Oct 2024</em>
     </li>
   </ul>
 </div>
+
 
 
 # Teaching
