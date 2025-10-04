@@ -128,12 +128,12 @@ Education
 <div class="education-item">
   <div class="edu-top">
     <div class="edu-left" style="display:flex;align-items:center;">
+      <span class="edu-degree">PhD,</span>
       <a href="https://www.monash.edu" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/en/4/4a/Monash_University_coat_of_arms.svg" 
              alt="Monash University Logo" 
-             style="width:22px;height:22px;margin-right:6px;vertical-align:middle;">
+             style="width:22px;height:22px;margin:0 6px;vertical-align:middle;">
       </a>
-      <span class="edu-degree">PhD,</span>
       <span class="edu-university">Monash University</span>
     </div>
     <div class="edu-time">Jan 2024 - Now</div>
@@ -147,12 +147,12 @@ Education
 <div class="education-item">
   <div class="edu-top">
     <div class="edu-left" style="display:flex;align-items:center;">
+      <span class="edu-degree">MEng,</span>
       <a href="https://en.cug.edu.cn/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/en/1/16/China_University_of_Geosciences_logo.png" 
              alt="CUG Logo" 
-             style="width:22px;height:22px;margin-right:6px;vertical-align:middle;">
+             style="width:22px;height:22px;margin:0 6px;vertical-align:middle;">
       </a>
-      <span class="edu-degree">MEng,</span>
       <span class="edu-university">China University of Geosciences</span>
     </div>
     <div class="edu-time">Sep 2020 - Jul 2023</div>
@@ -165,12 +165,12 @@ Education
 <div class="education-item">
   <div class="edu-top">
     <div class="edu-left" style="display:flex;align-items:center;">
+      <span class="edu-degree">BEng,</span>
       <a href="https://en.cug.edu.cn/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/en/1/16/China_University_of_Geosciences_logo.png" 
              alt="CUG Logo" 
-             style="width:22px;height:22px;margin-right:6px;vertical-align:middle;">
+             style="width:22px;height:22px;margin:0 6px;vertical-align:middle;">
       </a>
-      <span class="edu-degree">BEng,</span>
       <span class="edu-university">China University of Geosciences</span>
     </div>
     <div class="edu-time">Sep 2016 - Jul 2020</div>
@@ -180,12 +180,6 @@ Education
   </div>
 </div>
 
-
-
-<!-- * PhD, Monash University, 2024 - Now (supervised by [Rafael Dowsley](https://dowsley.net), [Tsz Hon Yuen](https://thyuen.github.io), and [Jiangshan Yu](https://jiangshanyu.github.io/))-->
-<!--* MEng in Computer Science and Technology, China University of Geosciences, 2020 - 2023-->
-<!--* BEng in Information Security, China University of Geosciences, 2016 - 2020-->
- 
 Selected Publication
 ======
 
