@@ -129,15 +129,14 @@ Education
   <div class="edu-top">
     <div class="edu-left">
       <span class="edu-degree">PhD,</span>
-      <a href="https://www.monash.edu" target="_blank">
-        <img src="images/MO.png" alt="Monash Logo" style="height:20px; vertical-align:middle; margin:0 5px;">
-      </a>
+      <img src="images/MO.png" alt="Monash Logo" class="edu-logo" />
       <span class="edu-university">Monash University</span>
     </div>
     <div class="edu-time">Jan 2024 - Now</div>
   </div>
   <div class="edu-details">
-    Supervised by <a href="https://thyuen.github.io">Tsz Hon Yuen</a> and <a href="https://jiangshanyu.github.io">Jiangshan Yu</a>
+    Supervised by <a href="https://thyuen.github.io">Tsz Hon Yuen</a> and 
+    <a href="https://jiangshanyu.github.io">Jiangshan Yu</a>
   </div>
 </div>
 
@@ -145,9 +144,7 @@ Education
   <div class="edu-top">
     <div class="edu-left">
       <span class="edu-degree">MEng,</span>
-      <a href="http://en.cug.edu.cn/" target="_blank">
-        <img src="images/GUG.png" alt="CUG Logo" style="height:20px; vertical-align:middle; margin:0 5px;">
-      </a>
+      <img src="images/GUG.png" alt="CUG Logo" class="edu-logo" />
       <span class="edu-university">China University of Geosciences</span>
     </div>
     <div class="edu-time">Sep 2020 - Jul 2023</div>
@@ -159,16 +156,13 @@ Education
   <div class="edu-top">
     <div class="edu-left">
       <span class="edu-degree">BEng,</span>
-      <a href="http://en.cug.edu.cn/" target="_blank">
-        <img src="images/GUG.png" alt="CUG Logo" style="height:20px; vertical-align:middle; margin:0 5px;">
-      </a>
+      <img src="images/GUG.png" alt="CUG Logo" class="edu-logo" />
       <span class="edu-university">China University of Geosciences</span>
     </div>
     <div class="edu-time">Sep 2016 - Jul 2020</div>
   </div>
   <div class="edu-details">Information Security</div>
 </div>
-
 
 
 
