@@ -14,29 +14,16 @@ redirect_from:
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 18px; font-size: 0.95em; color: #555; line-height: 1.5;">
     <li>
-      <div style="
-        display: inline-flex; 
-        align-items: center; 
-        flex-wrap: wrap; 
-        gap: 6px; 
-        vertical-align: middle;
-      ">
-        <img 
-          src="/images/openai.png" 
-          alt="OpenAI Logo" 
-          style="width: 18px; height: 18px; object-fit: contain;" 
-        />
-        <strong>
+      <div style="display: flex; align-items: center; gap: 6px; flex-wrap: nowrap;">
+        <img src="/images/openai.png" alt="OpenAI Logo" style="width: 18px; height: 18px; object-fit: contain;" />
+        <strong style="display: inline;">
           <a href="https://openai.com/form/researcher-access-program/" 
-             style="text-decoration: none; color: #007acc;">
+             style="text-decoration: none; color: #007acc; display: inline;">
             OpenAI Researcher Access Program
           </a>
         </strong>
-        <span style="font-size: 0.95em; color: #555;">
-          (1,000 USD, Project ID: 0000007730)
-        </span>
       </div>
-      <br />
+      <span style="font-size: 0.95em; color: #555;">(1,000 USD, Project ID: 0000007730)</span><br />
       <span>Issued by OpenAI</span><br />
       <span>
         <strong>Project:</strong> Leveraging LLMs for Advanced Analysis and Behavioral Insights in Decentralized Blockchain Networks
@@ -45,6 +32,7 @@ redirect_from:
     </li>
   </ul>
 </div>
+
 
 
 
