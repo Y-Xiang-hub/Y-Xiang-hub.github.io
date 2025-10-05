@@ -81,7 +81,7 @@ redirect_from:
             OpenAI Researcher Access Program
           </a>
         </strong>
-        <span style="font-size: 0.95em; color: #555;"> (1,000 USD, Project ID: 0000007730)</span>
+        <span style="font-size: 0.95em; color: #555;"> (US$1K, Project ID: 0000007730)</span>
       </span>
       <br />
       <span>Issued by OpenAI</span><br />
