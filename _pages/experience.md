@@ -168,7 +168,7 @@ redirect_from:
       <span style="display: inline-block; vertical-align: middle;">
         <img 
           src="/images/IEEECS.png" 
-          alt="IEEE Computer Society Logo" 
+          alt="IEEECS Logo" 
           style="width: 18px; height: 18px; object-fit: contain; vertical-align: middle; margin-right: 6px;" 
         />
         <strong>IEEE Computer Society Graduate Student Member</strong>
