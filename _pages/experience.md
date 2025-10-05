@@ -167,7 +167,7 @@ redirect_from:
     <li style="list-style-type: disc;">
       <span style="display: inline-block; vertical-align: middle;">
         <img 
-          src="/images/IEEE.png" 
+          src="/images/IEEECS.png" 
           alt="IEEE Computer Society Logo" 
           style="width: 18px; height: 18px; object-fit: contain; vertical-align: middle; margin-right: 6px;" 
         />
