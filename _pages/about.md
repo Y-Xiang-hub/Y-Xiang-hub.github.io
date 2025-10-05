@@ -198,9 +198,4 @@ Selected Publication
   <em style="font-size: 0.9em; color: #888;">IEEE International Conference on Big Data, 2022.</em>
 </div>
 
-<div style="margin: 3px 0; padding: 3px;">
-  <strong> <a href="https://doi.org/10.1016/j.jnca.2020.102953" style="text-decoration: none; color: #007acc;">A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks</a></strong> <br />
-  <span style="font-size: 0.95em; color: #555;">Y. Xiang, W. Ren, T. Li, X. Zheng, T. Zhu, and K. K. R. Choo</span> <br />
-  <em style="font-size: 0.9em; color: #888;">Journal of Network and Computer Applications, 2021.</em>
-</div>
 
