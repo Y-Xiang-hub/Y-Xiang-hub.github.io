@@ -33,6 +33,7 @@ redirect_from:
 <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
   <li>Applied Intelligence</li>
   <li>Applied Soft Computing</li>
+  <li>ACM Transactions on Knowledge Discovery from Data</li>
   <li>Blockchain: Research and Applications</li>
   <li>Computer Networks</li>
   <li>Computers & Security</li>
