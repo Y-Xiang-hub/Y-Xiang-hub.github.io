@@ -26,7 +26,7 @@ author_profile: true
         </a>
       </strong><br />
       <span>
-        Y. Xiang, M. S. Rish, Q. Fu, Y. Li, Q. Wang, T. H. Yuen, J. Yu
+        Y. Xiang, M. S. Rish, Q. Fu, Y. Li, Q. Wang, T. H. Yuen, and J. Yu
       </span><br />
       <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2025.</em>
     </li>
