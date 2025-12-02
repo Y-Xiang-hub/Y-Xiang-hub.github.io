@@ -110,6 +110,17 @@ author_profile: true
   <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
     <li>
       <strong>
+        <a href="https://arxiv.org/abs/2512.00377" style="text-decoration: none; color: #007acc;">
+          Stablecoins in Retail Payments: A Systematization of Knowledge
+        </a>
+      </strong><br />
+      <span>
+        Y. Xiang, M. S. Rish, Q. Fu, Y. Li, Q. Wang, T. H. Yuen, J. Yu
+      </span><br />
+      <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2025.</em>
+    </li>
+    <li>
+      <strong>
         <a href="https://doi.org/10.1016/j.jnca.2020.102953" style="text-decoration: none; color: #007acc;">
           A Multi-type and Decentralized Data Transaction Scheme Based on Smart Contracts and Digital Watermarks
         </a>
