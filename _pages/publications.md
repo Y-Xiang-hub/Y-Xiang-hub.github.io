@@ -74,9 +74,6 @@ author_profile: true
         D. Bao, W. Ren, Y. Xiang, W. Liu, T. Zhu, Y. Ren, and K. K. R. Choo
       </span><br />
       <em style="font-size: 0.9em; color: #888;">Frontiers of Computer Science, 2023.</em><br />
-      <a href="https://github.com/whbyaoi/BTCShadow" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
-         onmouseover="this.style.backgroundColor='#1a6f5c'"
-         onmouseout="this.style.backgroundColor='#20c997'">demo</a>
     </li>
     <li>
   <strong>
@@ -108,9 +105,6 @@ author_profile: true
         Q. Yang, Y. Xiang, W. Liu, and W. Ren
       </span><br />
       <em style="font-size: 0.9em; color: #888;">IEEE International Conference on High Performance Computing and Communications, 2022.</em><br />
-      <a href="https://www.kaggle.com/datasets/lemonx/bitcoin-subgraph-evolution-data" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
-         onmouseover="this.style.backgroundColor='#1a6f5c'"
-         onmouseout="this.style.backgroundColor='#20c997'">data</a>
     </li>
   </ul>
 </div>
@@ -129,9 +123,6 @@ author_profile: true
         Y. Xiang, W. Ren, T. Li, X. Zheng, T. Zhu, and K. K. R. Choo
       </span><br />
       <em style="font-size: 0.9em; color: #888;">Journal of Network and Computer Applications, 2021.</em><br />
-      <a href="https://github.com/Y-Xiang-hub/A-Copyright-Protection-Method-in-Big-Data-Trade" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
-         onmouseover="this.style.backgroundColor='#1a6f5c'"
-         onmouseout="this.style.backgroundColor='#20c997'">code</a>
     </li>
     <li>
       <strong>
@@ -143,9 +134,6 @@ author_profile: true
         T. Li, W. Ren, Y. Xiang, X. Zheng, T. Zhu, K. K. R. Choo, and G. Srivastava
       </span><br />
       <em style="font-size: 0.9em; color: #888;">Information Sciences, 2021.</em><br />
-      <a href="https://github.com/Y-Xiang-hub/FAPS-Prototype" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
-         onmouseover="this.style.backgroundColor='#1a6f5c'"
-         onmouseout="this.style.backgroundColor='#20c997'">code</a>
     </li>
     <li>
       <strong>
@@ -157,9 +145,6 @@ author_profile: true
         Y. Chen, H. Yin, Y. Xiang, W. Ren, Y. Ren, and N. N. Xiong
       </span><br />
       <em style="font-size: 0.9em; color: #888;">IEEE Access, 2020.</em><br />
-      <a href="https://github.com/Y-Xiang-hub/Crowdsourcing-With-Smart-Contract" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
-         onmouseover="this.style.backgroundColor='#1a6f5c'"
-         onmouseout="this.style.backgroundColor='#20c997'">code</a>
     </li>
   </ul>
 </div>
@@ -192,9 +177,6 @@ author_profile: true
         Y. Xiang, T. Li, W. Ren, T. Zhu, and K. K. R. Choo
       </span><br />
       <em style="font-size: 0.9em; color: #888;">Engineering Applications of Artificial Intelligence, 2023.</em><br />
-      <a href="https://github.com/oopshell/Pixel-Blocks-Mixing-For-Image-Privacy-Preservation" style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
-         onmouseover="this.style.backgroundColor='#1a6f5c'"
-         onmouseout="this.style.backgroundColor='#20c997'">code</a>
     </li>
   </ul>
 </div>
