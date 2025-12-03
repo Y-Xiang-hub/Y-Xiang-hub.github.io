@@ -89,7 +89,7 @@ redirect_from:
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 18px; font-size: 0.95em; color: #555; line-height: 1.5;">
     <li>
-      <strong>Talk Title: Measuring Memecoin Fragility</strong> <br />
+      <strong>Talk Title:</strong> Measuring Memecoin Fragility <br />
         <a href="https://crwa.site/program/" style="text-decoration: none; color: #007acc;">
           Asiacrypt 2025 CRWA Workshop
         </a>, Melbourne, Australia <br />
