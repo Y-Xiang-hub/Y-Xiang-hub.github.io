@@ -22,7 +22,7 @@ author_profile: true
     <li>
       <strong>
         <a href="https://arxiv.org/abs/2512.02418" style="text-decoration: none; color: #007acc;">
-          Leveraging Large Language Models to Bridge Onchain and Offchain Transparency in Stablecoins
+          Leveraging Large Language Models to Bridge On-chain and Off-chain Transparency in Stablecoins
         </a>
       </strong><br />
       <span>
