@@ -52,7 +52,7 @@ News
 </style>
 
 <ul class="list__news">
-  <li><span class="date">[Aug'25]</span> I'm pleased to present at the <strong>Asiacrypt 2025 CRWA workshop</strong>.</li>
+  <li><span class="date">[Dec'25]</span> I'm pleased to present at the <strong>Asiacrypt 2025 CRWA workshop</strong>.</li>
   <li><span class="date">[Aug'25]</span> I'm pleased to serve as PC member for <strong>WWW'26 Industry Track</strong>.</li>
   <li><span class="date">[Aug'25]</span> I'm pleased to serve as SAC for <strong>KDD'26 ADS Track</strong>.</li>
   <li><span class="date">[Apr'25]</span> Our team won the Third Prize in <strong>PKUBA Global Research Arena</strong>.</li>
