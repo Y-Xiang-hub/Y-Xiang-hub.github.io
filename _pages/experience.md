@@ -91,8 +91,7 @@ redirect_from:
     <li>
       <strong>Talk Title:</strong> Measuring Memecoin Fragility <br />
         <a href="https://crwa.site/program/" style="text-decoration: none; color: #007acc;">
-          Asiacrypt 2025 CRWA Workshop
-        </a>, Melbourne, Australia <br />
+          Asiacrypt 2025 CRWA Workshop</a>, Melbourne, Australia <br />
       <em style="font-size: 0.9em; color: #888;">Dec 2025</em>
     </li>
   </ul>
