@@ -183,6 +183,18 @@ Selected Publication
 ======
 
 <div style="margin: 3px 0; padding: 3px;">
+  <strong>
+    <a href="https://arxiv.org/abs/2512.02418" style="text-decoration: none; color: #007acc;">
+      Leveraging Large Language Models to Bridge On-chain and Off-chain Transparency in Stablecoins
+    </a>
+  </strong> <br />
+  <span style="font-size: 0.95em; color: #555;">
+    Y. Xiang, Y. Lei, S. M. M. S. Rish, Y. Zhang, Q. Wang, T. H. Yuen, and J. Yu
+  </span> <br />
+  <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2025.</em>
+</div>
+
+<div style="margin: 3px 0; padding: 3px;">
   <strong> <a href="https://arxiv.org/abs/2501.18158" style="text-decoration: none; color: #007acc;">Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin Case Study</a></strong> <br />
   <span style="font-size: 0.95em; color: #555;">Y. Lei, Y. Xiang, Q. Wang, R. Dowsley, T. H. Yuen, K. K. R. Choo, and J. Yu</span> <br />
   <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2025.</em>
