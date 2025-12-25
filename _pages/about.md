@@ -148,8 +148,8 @@ Education
     <div class="edu-time">Jan 2024 - Now</div>
   </div>
   <div class="edu-details">
-    Supervised by <a href="https://thyuen.github.io">A/Prof. Tsz Hon Yuen</a> and 
-    <a href="https://jiangshanyu.github.io">A/Prof. Jiangshan Yu</a>
+    Supervised by <a href="https://research.monash.edu/en/persons/john-yuen/">A/Prof. Tsz Hon Yuen</a> and 
+    <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jiangshan-yu.html">A/Prof. Jiangshan Yu</a>
   </div>
 </div>
 
