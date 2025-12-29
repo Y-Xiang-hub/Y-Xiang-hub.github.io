@@ -189,7 +189,7 @@ Selected Publication
     </a>
   </strong> <br />
   <span style="font-size: 0.95em; color: #555;">
-    Y. Xiang, Y. Lei, S. M. M. S. Rish, Y. Zhang, Q. Wang, T. H. Yuen, and J. Yu
+    Y. Xiang, Y. Lei, S. M. Rish, Y. Zhang, Q. Wang, T. H. Yuen, and J. Yu
   </span> <br />
   <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2025.</em>
 </div>
