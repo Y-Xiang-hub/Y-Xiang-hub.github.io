@@ -19,6 +19,17 @@ author_profile: true
 
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
+  <li>
+    <strong>
+      <a href="https://arxiv.org/abs/2601.00196" style="text-decoration: none; color: #007acc;">
+        SoK: Stablecoins in Retail Payments
+      </a>
+    </strong><br />
+    <span>
+      Y. Li, Y. Xiang, Q. Wang, T. H. Yuen, A. Deppeler, and J. Yu
+    </span><br />
+    <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2026.</em>
+    </li>
     <li>
       <strong>
         <a href="https://arxiv.org/abs/2512.02418" style="text-decoration: none; color: #007acc;">
