@@ -25,7 +25,7 @@ redirect_from:
   <li>
    <strong>Reviewer/Sub-reviewer:</strong>
     KDD’25/26 ADS Track
-    (<a href="https://kdd2025.kdd.org/applied-data-science-ads-track-program-committee/" style="text-decoration: none; color: #007acc;">Outstanding Reviewer 2025</a>), NDSS’26, DSN’25, WWW’25, IJCNN’25, ICLR’25/26 Workshop on Advances in Financial AI, CHI’25 Case Studies
+    (<a href="https://kdd2025.kdd.org/applied-data-science-ads-track-program-committee/" style="text-decoration: none; color: #007acc;">Outstanding Reviewer ’25</a>), NDSS’26, DSN’25, WWW’25, IJCNN’25, ICLR’25/26 Workshop on Advances in Financial AI, CHI’25 Case Studies
   </li>
 </ul>
 
