@@ -18,7 +18,7 @@ About Me
   <strong><a href="https://www.monash.edu/" style="color: #007acc; text-decoration: none;">Monash University</a></strong>, under the Department of Software Systems and Cybersecurity. 
   I previously obtained my Bachelor's and Master's degrees from 
   <strong><a href="https://en.cug.edu.cn" style="color: #007acc; text-decoration: none;">China University of Geosciences</a></strong>. 
-  My research focuses on <strong>Decentralization</strong>, with key areas in blockchain, cybersecurity, and artificial intelligence. 
+  My research focuses on <strong>Decentralization</strong>, with key areas in blockchain, decentralized finance, cybersecurity, and artificial intelligence. 
   If you have academic inquiries, feel free to contact me at 
   <a href="mailto:Yuexin.Xiang@monash.edu" style="color: #007acc; text-decoration: none;">Yuexin.Xiang@monash.edu</a>.
 </div>
