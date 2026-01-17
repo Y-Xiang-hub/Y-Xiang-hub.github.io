@@ -62,21 +62,8 @@ News
   <li><span class="date">[Sep'24]</span> I’m thrilled to start as Visiting PhD Scholar at <strong>USYD</strong> invited by A/Prof. Jiangshan Yu.</li>
   <li><span class="date">[Apr'24]</span> I'm pleased to serve as PC member for <strong>ACM CCS'24 Artifact Evaluation</strong>.</li>
   <li><span class="date">[Jan'24]</span> Our paper "BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis" has been published in <strong>IEEE TIFS</strong>.</li>
-  <li><span class="date">[Dec'23]</span> Our paper "AdvEWM: Generating Image Adversarial Examples by Embedding Digital Watermarks" has been published in <strong>JISA</strong>.</li>
-  <li><span class="date">[Nov'23]</span> Our paper "A Lightweight Privacy-Preserving Scheme Using Pixel Block Mixing for Facial Image Classification in Deep Learning" has been published in <strong>EAAI</strong>.</li>
   <li><span class="date">[Oct'23]</span> I'm honored to be the recipient of <strong>Monash Central Scholarship</strong>.</li>
 </ul>
-
-<!--
-<ul class="list__news" style="list-style: none; padding-left: 0;">
-  <li><span style="color: blue;">[Jan'25]</span> I'm honored to receive funding from <strong>OpenAI Researcher Access Program</strong>. </li>
-  <li><span style="color: blue;">[Dec'24]</span> I'm pleased to serve as PC member for <strong>CVCBT'25</strong>.</li>
-  <li><span style="color: blue;">[Sep'24]</span> I’m thrilled to start as Visiting PhD Scholar at <strong>USYD</strong> invited by A/Prof. Jiangshan Yu.</li>
-  <li><span style="color: blue;">[Apr'24]</span> I'm pleased to serve as PC member for <strong>ACM CCS'24 Artifact Evaluation</strong>.</li>
-  <li><span style="color: blue;">[Jan'24]</span> Our paper "BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis" has been published in <strong>IEEE TIFS</strong>.</li>
-  <li><span style="color: blue;">[Oct'23]</span> I'm honored to be the recipient of <strong>Monash Central Scholarship</strong>.</li>
-</ul>
--->
 
 
 
