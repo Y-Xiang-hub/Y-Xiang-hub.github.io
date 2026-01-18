@@ -14,13 +14,7 @@ redirect_from:
 About Me
 ======
 <div style="font-family: Arial, sans-serif; font-size: 1em; color: #444; line-height: 1.5; padding: 10px 2px; margin: 2px 0;">
-  Hi, I'm Yuexin, currently pursuing PhD in the Faculty of Information Technology at 
-  <strong><a href="https://www.monash.edu/" style="color: #007acc; text-decoration: none;">Monash University</a></strong>, under the Department of Software Systems and Cybersecurity. 
-  I previously obtained my Bachelor's and Master's degrees from 
-  <strong><a href="https://en.cug.edu.cn" style="color: #007acc; text-decoration: none;">China University of Geosciences</a></strong>. 
-  My research focuses on <strong>Decentralization</strong>, with key areas in blockchain, decentralized finance, cybersecurity, and artificial intelligence. 
-  If you have academic inquiries, feel free to contact me at 
-  <a href="mailto:Yuexin.Xiang@monash.edu" style="color: #007acc; text-decoration: none;">Yuexin.Xiang@monash.edu</a>.
+  Hi, I'm Yuexin, a PhD candidate in the Faculty of Information Technology at <strong><a href="https://www.monash.edu/" style="color: #007acc; text-decoration: none;">Monash University</a></strong>, under the Department of Software Systems and Cybersecurity. My research builds trust in decentralized finance by translating complex on-chain activity into practical transparency and risk insights, with a focus on blockchain, DeFi, cybersecurity, and AI. I previously received my Bachelor's and Master's degrees from <strong><a href="https://en.cug.edu.cn" style="color: #007acc; text-decoration: none;">China University of Geosciences</a></strong>. For academic inquiries, please contact me at <a href="mailto:Yuexin.Xiang@monash.edu" style="color: #007acc; text-decoration: none;">Yuexin.Xiang@monash.edu</a>.
 </div>
 
 
