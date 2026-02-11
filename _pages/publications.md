@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Blockchain Analysis
+# Blockchain Finance
 
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
@@ -52,6 +52,13 @@ author_profile: true
       </span><br />
       <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2025.</em>
     </li>
+  </ul>
+</div>
+
+# Blockchain Analysis
+
+<div style="margin: 3px 0; padding: 3px;">
+  <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
     <li>
       <strong>
         <a href="https://arxiv.org/abs/2501.18158" style="text-decoration: none; color: #007acc;">
