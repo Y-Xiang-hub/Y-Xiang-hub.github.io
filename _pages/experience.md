@@ -105,7 +105,6 @@ redirect_from:
   <ul style="margin: 0; padding-left: 18px; font-size: 0.95em; color: #555; line-height: 1.5;">
     <li>
       <strong>FIT5129 - Cyber Operations, Monash University</strong> <br />
-      <span>Teaching Associate</span> <br />
     </li>
   </ul>
 </div>
@@ -114,7 +113,6 @@ redirect_from:
   <ul style="margin: 0; padding-left: 18px; font-size: 0.95em; color: #555; line-height: 1.5;">
     <li>
       <strong>FIT5163 - Information and Computer Security, Monash University</strong> <br />
-      <span>Teaching Associate</span> <br />
     </li>
   </ul>
 </div>
