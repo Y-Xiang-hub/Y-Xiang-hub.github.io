@@ -106,7 +106,6 @@ redirect_from:
     <li>
       <strong>FIT5129 - Cyber Operations, Monash University</strong> <br />
       <span>Teaching Associate</span> <br />
-      <em style="font-size: 0.9em; color: #888;">Apr 2025</em>
     </li>
   </ul>
 </div>
@@ -116,7 +115,6 @@ redirect_from:
     <li>
       <strong>FIT5163 - Information and Computer Security, Monash University</strong> <br />
       <span>Teaching Associate</span> <br />
-      <em style="font-size: 0.9em; color: #888;">May 2025</em>
     </li>
   </ul>
 </div>
