@@ -178,7 +178,7 @@ author_profile: true
   </ul>
 </div>
 
-# AI Security 
+# Cybersecurity 
 
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
