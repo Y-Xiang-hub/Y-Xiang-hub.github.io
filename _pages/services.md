@@ -35,6 +35,7 @@ redirect_from:
   <li>Applied Intelligence</li>
   <li>Applied Soft Computing</li>
   <li>ACM Transactions on Knowledge Discovery from Data</li>
+  <li>ACM Distributed Ledger Technologies: Research and Practice</li>
   <li>Blockchain: Research and Applications</li>
   <li>Computer Networks</li>
   <li>Computers & Security</li>
@@ -42,7 +43,6 @@ redirect_from:
   <li>Computer Standards & Interfaces</li>
   <li>Computers & Industrial Engineering</li>
   <li>Computers and Electrical Engineering</li>
-  <li>Distributed Ledger Technologies: Research and Practice</li>
   <li>Expert Systems with Applications</li>
   <li>Engineering Applications of Artificial Intelligence</li>
   <li>Information Sciences</li>
