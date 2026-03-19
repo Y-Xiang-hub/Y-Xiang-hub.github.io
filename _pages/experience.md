@@ -191,7 +191,7 @@ redirect_from:
           alt="IEEEComSoc Logo" 
           style="width: 18px; height: 18px; object-fit: contain; vertical-align: middle; margin-right: 6px;" 
         />
-        <strong>EEE Communications Society Student Member</strong>
+        <strong>IEEE Communications Society Student Member</strong>
       </span>
     </li>
 
