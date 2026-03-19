@@ -169,7 +169,7 @@ Selected Publication
   <span style="font-size: 0.95em; color: #555;">
     Y. Li, Y. Xiang, Q. Wang, T. H. Yuen, A. Deppeler, and J. Yu
   </span> <br />
-  <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2026.</em>
+  <em style="font-size: 0.9em; color: #888;">IEEE International Conference on Blockchain and Cryptocurrency, 2026.</em>
 </div>
 
 <div style="margin: 3px 0; padding: 3px;">
