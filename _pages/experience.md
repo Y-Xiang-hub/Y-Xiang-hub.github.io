@@ -180,7 +180,18 @@ redirect_from:
           alt="IEEECS Logo" 
           style="width: 18px; height: 18px; object-fit: contain; vertical-align: middle; margin-right: 6px;" 
         />
-        <strong>IEEE Computer Society Graduate Student Member</strong>
+        <strong>IEEE Computer Society Student Member</strong>
+      </span>
+    </li>
+
+     <li style="list-style-type: disc;">
+      <span style="display: inline-block; vertical-align: middle;">
+        <img 
+          src="/images/IEEEComSoc.png" 
+          alt="IEEEComSoc Logo" 
+          style="width: 18px; height: 18px; object-fit: contain; vertical-align: middle; margin-right: 6px;" 
+        />
+        <strong>EEE Communications Society Student Member</strong>
       </span>
     </li>
 
