@@ -28,8 +28,20 @@ author_profile: true
     <span>
       Y. Li, Y. Xiang, Q. Wang, T. H. Yuen, A. Deppeler, and J. Yu
     </span><br />
-    <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2026.</em>
+    <em style="font-size: 0.9em; color: #888;">IEEE International Conference on Blockchain and Cryptocurrency, 2026.</em>
     </li>
+        <li>
+      <strong>
+        <a href="https://arxiv.org/abs/2512.00377" style="text-decoration: none; color: #007acc;">
+          Measuring Memecoin Fragility
+        </a>
+      </strong><br />
+      <span>
+        Y. Xiang, Q. Fu, Y. Li, Q. Wang, T. H. Yuen, and J. Yu
+      </span><br />
+      <em style="font-size: 0.9em; color: #888;">IEEE International Conference on Blockchain and Cryptocurrency, 2026.</em>
+    </li>
+  </ul>
     <li>
       <strong>
         <a href="https://arxiv.org/abs/2512.02418" style="text-decoration: none; color: #007acc;">
@@ -41,18 +53,6 @@ author_profile: true
       </span><br />
       <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2025.</em>
     </li>
-    <li>
-      <strong>
-        <a href="https://arxiv.org/abs/2512.00377" style="text-decoration: none; color: #007acc;">
-          Measuring Memecoin Fragility
-        </a>
-      </strong><br />
-      <span>
-        Y. Xiang, Q. Fu, Y. Li, Q. Wang, T. H. Yuen, and J. Yu
-      </span><br />
-      <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2025.</em>
-    </li>
-  </ul>
 </div>
 
 # Blockchain Analysis
