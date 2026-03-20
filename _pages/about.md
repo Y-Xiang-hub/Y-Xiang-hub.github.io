@@ -46,7 +46,8 @@ News
 </style>
 
 <ul class="list__news">
-  <li><span class="date">[Mar'26]</span> Our papers "SoK: Stablecoins in Retail Payments" and "Measuring Memecoin Fragility" have been accepted to <strong>IEEE ICBC'26</strong>.</li>
+  <li><span class="date">[Mar'26]</span> Our paper "SoK: Stablecoins in Retail Payments" has been accepted to <strong>IEEE ICBC'26</strong>.</li>
+  <li><span class="date">[Mar'26]</span> Our paper "Measuring Memecoin Fragility" has been accepted to <strong>IEEE ICBC'26</strong>.</li>
   <li><span class="date">[Dec'25]</span> I'm pleased to present at the <strong>Asiacrypt'25 CRWA Workshop</strong>.</li>
   <li><span class="date">[Aug'25]</span> I'm pleased to serve as PC member for <strong>WWW'26 Industry Track</strong>.</li>
   <li><span class="date">[Aug'25]</span> I'm pleased to serve as SAC for <strong>KDD'26 ADS Track</strong>.</li>
