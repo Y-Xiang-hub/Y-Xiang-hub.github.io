@@ -164,12 +164,6 @@ redirect_from:
       <em style="font-size: 0.9em; color: #888;">Sep 2021</em>
     </li>
 
-    %<li style="list-style-type: disc;">
-      %<strong>First-class Academic Scholarship for Postgraduate</strong> <br />
-      %<span>Issued by Ministry of Education of the People's Republic of China</span> <br />
-     % <em style="font-size: 0.9em; color: #888;">Oct 2020, Oct 2021, and Oct 2022</em>
-   % </li>
-
   </ul>
 </div>
 
