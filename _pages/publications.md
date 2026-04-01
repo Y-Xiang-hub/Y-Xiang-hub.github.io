@@ -44,11 +44,11 @@ author_profile: true
     <li>
       <strong>
         <a href="https://arxiv.org/abs/2512.02418" style="text-decoration: none; color: #007acc;">
-          Leveraging Large Language Models to Bridge On-chain and Off-chain Transparency in Stablecoins
+          Leveraging Large Language Models to Bridge Cross-Domain Transparency in Stablecoins
         </a>
       </strong><br />
       <span>
-        Y. Xiang, Y. Lei, Y. Zhang, Q. Wang, T. H. Yuen, and J. Yu
+        Y. Xiang, Y. Lei, Y. Zhang, Q. Wang, T. H. Yuen, A. Deppeler, and J. Yu
       </span><br />
       <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2025.</em>
     </li>
