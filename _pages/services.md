@@ -55,6 +55,7 @@ redirect_from:
   <li>Knowledge-Based Systems</li>
   <li>Neural Networks</li>
   <li>Neurocomputing</li>
+  <li>Strategic Business Research</li>
 </ul>
 
 
