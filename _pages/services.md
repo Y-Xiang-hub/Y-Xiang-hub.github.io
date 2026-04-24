@@ -45,6 +45,7 @@ redirect_from:
   <li>Computers and Electrical Engineering</li>
   <li>Expert Systems with Applications</li>
   <li>Engineering Applications of Artificial Intelligence</li>
+  <li>IET Blockchain</li>
   <li>Information Sciences</li>
   <li>Information Processing and Management</li>
   <li>IEEE/CAA Journal of Automatica Sinica</li>
