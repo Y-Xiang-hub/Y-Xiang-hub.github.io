@@ -50,7 +50,7 @@ author_profile: true
     <span>
       Y. Zhang, Y. Xiang, Y. Lei, Q. Wang, T. Qiu, Y. Sun, S. Zarkov, T. H. Yuen, A. Deppeler, J. Yu, and K. Y. Lam
     </span><br />
-      <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2026.</em>
+      <em style="font-size: 0.9em; color: #888;">Blockchain: Research and Applications, 2026.</em>
     </li>
     <li>
       <strong>
