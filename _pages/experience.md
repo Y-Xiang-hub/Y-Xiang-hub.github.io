@@ -97,7 +97,7 @@ redirect_from:
     <li>
       <strong>Talk Title:</strong> Stablecoins in Retail Payments <br />
         <a href="https://icbc2026.ieee-icbc.org/program-schedule" style="text-decoration: none; color: #007acc;">
-          ICBC 2026</a>, Brisbane, Australia <br />
+          IEEE ICBC 2026</a>, Brisbane, Australia <br />
       <em style="font-size: 0.9em; color: #888;">Jun 2026</em>
     </li>
   </ul>
