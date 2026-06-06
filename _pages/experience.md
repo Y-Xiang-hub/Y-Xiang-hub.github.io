@@ -94,6 +94,12 @@ redirect_from:
           Asiacrypt 2025 CRWA Workshop</a>, Melbourne, Australia <br />
       <em style="font-size: 0.9em; color: #888;">Dec 2025</em>
     </li>
+    <li>
+      <strong>Talk Title:</strong> Stablecoins in Retail Payments <br />
+        <a href="https://icbc2026.ieee-icbc.org/program-schedule" style="text-decoration: none; color: #007acc;">
+          ICBC 2026</a>, Brisbane, Australia <br />
+      <em style="font-size: 0.9em; color: #888;">Jun 2026</em>
+    </li>
   </ul>
 </div>
 
