@@ -21,7 +21,7 @@ redirect_from:
     BCCA'26,
     WWW'26 Industry Track, 
     CVCBT'25, 
-    >ACM CCS'24 Artifact Evaluation
+    ACM CCS'24 Artifact Evaluation
   </li>
   <li>
    <strong>Reviewer/Sub-reviewer:</strong>
