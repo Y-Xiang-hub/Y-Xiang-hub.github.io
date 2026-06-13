@@ -19,14 +19,14 @@ redirect_from:
   <li>
     <strong>TPC/PC Member:</strong> 
     BCCA'26,
-    WWW'26 Industry Track,
-    <a href="https://cryptovalleyconference.com/call-for-papers" style="text-decoration: none; color: #007acc;">CVCBT'25</a>, 
-    <a href="https://www.sigsac.org/ccs/CCS2024/organization/ae-committee.html" style="text-decoration: none; color: #007acc;">ACM CCS'24 Artifact Evaluation</a>
+    WWW'26 Industry Track, 
+    CVCBT'25, 
+    >ACM CCS'24 Artifact Evaluation
   </li>
   <li>
    <strong>Reviewer/Sub-reviewer:</strong>
     KDD’25/26 ADS Track
-    (<a href="https://kdd2025.kdd.org/applied-data-science-ads-track-program-committee/" style="text-decoration: none; color: #007acc;">Outstanding Reviewer ’25</a>), NDSS’26, DSN’25, WWW’25, IJCNN’25, ICLR’25/26 Workshop on Advances in Financial AI
+    (Outstanding Reviewer'25), NDSS'26, DSN'25, WWW'25, IJCNN'25, ICLR'25/26 Workshop on Advances in Financial AI
   </li>
 </ul>
 
