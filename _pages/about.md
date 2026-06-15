@@ -46,7 +46,7 @@ News
 </style>
 
 <ul class="list__news">
-  <li><span class="date">[Jun'26]</span> I'm pleased to serve as PC member for <strong>BCCA'26</strong>.</li>
+  <li><span class="date">[Jun'26]</span> I'm pleased to serve as TPC member for <strong>BCCA'26</strong>.</li>
   <li><span class="date">[May'26]</span> Our paper "SoK: Blockchain Agent-to-Agent Payments" has been accepted to <strong>BCRA'26</strong> and will appear in the BCRA journal.</li>
   <li><span class="date">[Mar'26]</span> Our paper "SoK: Stablecoins in Retail Payments" has been accepted to <strong>IEEE ICBC'26</strong>.</li>
   <li><span class="date">[Mar'26]</span> Our paper "Measuring Memecoin Fragility" has been accepted to <strong>IEEE ICBC'26</strong>.</li>
