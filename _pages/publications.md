@@ -28,7 +28,7 @@ author_profile: true
     <span>
       Y. Li, Y. Xiang, Q. Wang, T. H. Yuen, A. Deppeler, and J. Yu
     </span><br />
-    <em style="font-size: 0.9em; color: #888;">IEEE International Conference on Blockchain and Cryptocurrency, 2026.</em>
+    <em style="font-size: 0.9em; color: #888;">IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2026.</em>
     </li>
         <li>
       <strong>
@@ -39,7 +39,7 @@ author_profile: true
       <span>
         Y. Xiang, Q. Fu, Y. Li, Q. Wang, T. H. Yuen, and J. Yu
       </span><br />
-      <em style="font-size: 0.9em; color: #888;">IEEE International Conference on Blockchain and Cryptocurrency, 2026.</em>
+      <em style="font-size: 0.9em; color: #888;">IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2026.</em>
     </li>
     <li>
       <strong>
@@ -124,7 +124,7 @@ author_profile: true
   <span>
     Y. Xiang, T. Li, and Y. Li
   </span><br />
-  <em style="font-size: 0.9em; color: #888;">IEEE International Conference on Big Data, 2022.</em><br />
+  <em style="font-size: 0.9em; color: #888;">IEEE International Conference on Big Data (Big Data), 2022.</em><br />
   <a href="https://www.kaggle.com/datasets/lemonx/basd8" 
      style="background-color: #20c997; color: white; padding: 1px 4px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 4px;"
      onmouseover="this.style.backgroundColor='#1a6f5c'"
@@ -144,7 +144,7 @@ author_profile: true
       <span>
         Q. Yang, Y. Xiang, W. Liu, and W. Ren
       </span><br />
-      <em style="font-size: 0.9em; color: #888;">IEEE International Conference on High Performance Computing and Communications, 2022.</em><br />
+      <em style="font-size: 0.9em; color: #888;">IEEE International Conference on High Performance Computing and Communications (HPCC), 2022.</em><br />
     </li>
   </ul>
 </div>
