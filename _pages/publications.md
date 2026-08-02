@@ -21,7 +21,7 @@ author_profile: true
   <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
   <li>
     <strong>
-      <a href="https://arxiv.org/abs/2601.00196" style="text-decoration: none; color: #007acc;">
+      <a href="https://doi.org/10.1109/ICBC67748.2026.11575527" style="text-decoration: none; color: #007acc;">
         SoK: Stablecoins in Retail Payments
       </a>
     </strong><br />
@@ -32,7 +32,7 @@ author_profile: true
     </li>
         <li>
       <strong>
-        <a href="https://arxiv.org/abs/2512.00377" style="text-decoration: none; color: #007acc;">
+        <a href="https://doi.org/10.1109/ICBC67748.2026.11575489" style="text-decoration: none; color: #007acc;">
           Measuring Memecoin Fragility
         </a>
       </strong><br />
