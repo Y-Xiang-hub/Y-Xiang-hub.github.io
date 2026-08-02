@@ -166,7 +166,7 @@ Selected Publication
 
 <div style="margin: 3px 0; padding: 3px;">
   <strong>
-    <a href="https://arxiv.org/abs/2601.00196" style="text-decoration: none; color: #007acc;">
+    <a href="https://doi.org/10.1109/ICBC67748.2026.11575527" style="text-decoration: none; color: #007acc;">
       SoK: Stablecoins in Retail Payments
     </a>
   </strong> <br />
