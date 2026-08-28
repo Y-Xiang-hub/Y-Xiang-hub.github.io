@@ -18,7 +18,7 @@ redirect_from:
   </li>
   <li>
     <strong>TPC/PC Member:</strong> 
-    BCK'26
+    BCK'26,
     BCCA'26,
     WWW'26 Industry Track, 
     CVCBT'25, 
