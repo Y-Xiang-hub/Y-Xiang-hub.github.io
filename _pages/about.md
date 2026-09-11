@@ -46,7 +46,7 @@ News
 </style>
 
 <ul class="list__news">
-  <li><span class="date">[Sep'26]</span> I'm pleased to be appointed as a <strong>DFCRC Affiliated PhD Student</strong>.</li>
+  <li><span class="date">[Sep'26]</span> I'm honored to be appointed as a <strong>DFCRC Affiliated PhD Student</strong>.</li>
   <li><span class="date">[Aug'26]</span> I'm pleased to serve as TPC member for <strong>BCK'26</strong>.</li>
   <li><span class="date">[Jun'26]</span> I'm pleased to serve as TPC member for <strong>BCCA'26</strong>.</li>
   <li><span class="date">[May'26]</span> Our paper "SoK: Blockchain Agent-to-Agent Payments" has been accepted to <strong>BCRA'26</strong> and will appear in the BCRA journal.</li>
