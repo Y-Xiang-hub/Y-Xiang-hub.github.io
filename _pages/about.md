@@ -140,6 +140,18 @@ Education
 <div class="education-item">
   <div class="edu-top">
     <div class="edu-left">
+      <span class="edu-degree">Affiliated PhD Student,</span>
+      <img src="/images/digital_finance_crc_logo.jpeg" alt="DFCRC Logo" class="edu-logo" />
+      <span class="edu-university">Digital Finance Cooperative Research Centre</span>
+    </div>
+    <div class="edu-time">Sep 2026 - Now</div>
+  </div>
+  <div class="edu-details">DFCRC Affiliated PhD Student</div>
+</div>
+
+<div class="education-item">
+  <div class="edu-top">
+    <div class="edu-left">
       <span class="edu-degree">MEng,</span>
       <img src="/images/CUG.png" alt="CUG Logo" class="edu-logo" />
       <span class="edu-university">China University of Geosciences</span>
