@@ -146,7 +146,6 @@ Education
     </div>
     <div class="edu-time">Sep 2026 - Now</div>
   </div>
-  <div class="edu-details">DFCRC Affiliated PhD Student</div>
 </div>
 
 <div class="education-item">
