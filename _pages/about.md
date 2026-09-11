@@ -14,7 +14,7 @@ redirect_from:
 About Me
 ======
 <div style="font-family: Arial, sans-serif; font-size: 1em; color: #444; line-height: 1.5; padding: 10px 2px; margin: 2px 0;">
-  Hi, I'm Yuexin, a PhD candidate in the Faculty of Information Technology at <strong><a href="https://www.monash.edu/" style="color: #007acc; text-decoration: none;">Monash University</a></strong>, under the Department of Software Systems and Cybersecurity. I am also a <strong>DFCRC Affiliated PhD Student</strong> with the <strong><a href="https://dfcrc.com.au/" style="color: #007acc; text-decoration: none;">Digital Finance Cooperative Research Centre</a></strong>. My research <strong>builds trust in digital finance</strong> by translating complex financial activity into practical insights, with a focus on Blockchain, Cryptocurrencies, FinTech, AI, and Cybersecurity. I previously received my Bachelor's and Master's degrees from <strong><a href="https://en.cug.edu.cn" style="color: #007acc; text-decoration: none;">China University of Geosciences</a></strong>. For academic inquiries, please contact me at <a href="mailto:Yuexin.Xiang@monash.edu" style="color: #007acc; text-decoration: none;">Yuexin.Xiang@monash.edu</a>.
+  Hi, I'm Yuexin, a PhD candidate in the Faculty of Information Technology at <strong><a href="https://www.monash.edu/" style="color: #007acc; text-decoration: none;">Monash University</a></strong>, under the Department of Software Systems and Cybersecurity, and a <strong><a href="https://dfcrc.com.au/" style="color: #007acc; text-decoration: none;">DFCRC Affiliated PhD Student</a></strong>. My research <strong>builds trust in digital finance</strong> by translating complex financial activity into practical insights, with a focus on Blockchain, Cryptocurrencies, FinTech, AI, and Cybersecurity. I previously received my Bachelor's and Master's degrees from <strong><a href="https://en.cug.edu.cn" style="color: #007acc; text-decoration: none;">China University of Geosciences</a></strong>. For academic inquiries, please contact me at <a href="mailto:Yuexin.Xiang@monash.edu" style="color: #007acc; text-decoration: none;">Yuexin.Xiang@monash.edu</a>.
 </div>
 
 
@@ -46,6 +46,7 @@ News
 </style>
 
 <ul class="list__news">
+  <li><span class="date">[Sep'26]</span> I'm pleased to be appointed as a <strong>DFCRC Affiliated PhD Student</strong>.</li>
   <li><span class="date">[Aug'26]</span> I'm pleased to serve as TPC member for <strong>BCK'26</strong>.</li>
   <li><span class="date">[Jun'26]</span> I'm pleased to serve as TPC member for <strong>BCCA'26</strong>.</li>
   <li><span class="date">[May'26]</span> Our paper "SoK: Blockchain Agent-to-Agent Payments" has been accepted to <strong>BCRA'26</strong> and will appear in the BCRA journal.</li>
