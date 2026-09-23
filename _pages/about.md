@@ -174,8 +174,22 @@ Education
 
 
 
-Selected Publication
+Selected Publications
 ======
+
+<div style="margin: 3px 0; padding: 3px;">
+  <strong>
+    <a href="https://doi.org/10.1109/ICBC67748.2026.11575489" style="text-decoration: none; color: #007acc;">
+      Measuring Memecoin Fragility
+    </a>
+  </strong> <br />
+  <span style="font-size: 0.95em; color: #555;">
+    Y. Xiang, Q. Fu, Y. Li, Q. Wang, T. H. Yuen, and J. Yu
+  </span> <br />
+  <em style="font-size: 0.9em; color: #888;">
+    IEEE International Conference on Blockchain and Cryptocurrency, 2026.
+  </em>
+</div>
 
 <div style="margin: 3px 0; padding: 3px;">
   <strong>
@@ -186,18 +200,49 @@ Selected Publication
   <span style="font-size: 0.95em; color: #555;">
     Y. Li, Y. Xiang, Q. Wang, T. H. Yuen, A. Deppeler, and J. Yu
   </span> <br />
-  <em style="font-size: 0.9em; color: #888;">IEEE International Conference on Blockchain and Cryptocurrency, 2026.</em>
+  <em style="font-size: 0.9em; color: #888;">
+    IEEE International Conference on Blockchain and Cryptocurrency, 2026.
+  </em>
 </div>
 
 <div style="margin: 3px 0; padding: 3px;">
-  <strong> <a href="https://arxiv.org/abs/2501.18158" style="text-decoration: none; color: #007acc;">Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin Case Study</a></strong> <br />
-  <span style="font-size: 0.95em; color: #555;">Y. Lei, Y. Xiang, Q. Wang, R. Dowsley, T. H. Yuen, K. K. R. Choo, and J. Yu</span> <br />
-  <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2025.</em>
+  <strong>
+    <a href="https://arxiv.org/abs/2604.03733" style="text-decoration: none; color: #007acc;">
+      SoK: Blockchain Agent-to-Agent Payments
+    </a>
+  </strong> <br />
+  <span style="font-size: 0.95em; color: #555;">
+    Y. Zhang, Y. Xiang, Y. Lei, Q. Wang, T. Qiu, Y. Sun, S. Zarkov, T. H. Yuen, A. Deppeler, J. Yu, and K. Y. Lam
+  </span> <br />
+  <em style="font-size: 0.9em; color: #888;">
+    Blockchain: Research and Applications, 2026.
+  </em>
 </div>
 
 <div style="margin: 3px 0; padding: 3px;">
-  <strong> <a href="https://doi.org/10.1109/TIFS.2023.3347894" style="text-decoration: none; color: #007acc;">BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis</a></strong> <br />
-  <span style="font-size: 0.95em; color: #555;">Y. Xiang, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K. K. R. Choo</span> <br />
-  <em style="font-size: 0.9em; color: #888;">IEEE Transactions on Information Forensics and Security, 2024.</em>
+  <strong>
+    <a href="https://doi.org/10.1109/TIFS.2023.3347894" style="text-decoration: none; color: #007acc;">
+      BABD: A Bitcoin Address Behavior Dataset for Pattern Analysis
+    </a>
+  </strong> <br />
+  <span style="font-size: 0.95em; color: #555;">
+    Y. Xiang, Y. Lei, D. Bao, T. Li, Q. Yang, W. Liu, W. Ren, and K. K. R. Choo
+  </span> <br />
+  <em style="font-size: 0.9em; color: #888;">
+    IEEE Transactions on Information Forensics and Security, 2024.
+  </em>
 </div>
 
+<div style="margin: 3px 0; padding: 3px;">
+  <strong>
+    <a href="https://doi.org/10.1109/BigData55660.2022.10020980" style="text-decoration: none; color: #007acc;">
+      Leveraging Subgraph Structure for Exploration and Analysis of Bitcoin Address
+    </a>
+  </strong> <br />
+  <span style="font-size: 0.95em; color: #555;">
+    Y. Xiang, T. Li, and Y. Li
+  </span> <br />
+  <em style="font-size: 0.9em; color: #888;">
+    IEEE International Conference on Big Data, 2022.
+  </em>
+</div>
