@@ -187,7 +187,7 @@ Selected Publications
     Y. Xiang, Q. Fu, Y. Li, Q. Wang, T. H. Yuen, and J. Yu
   </span> <br />
   <em style="font-size: 0.9em; color: #888;">
-    IEEE International Conference on Blockchain and Cryptocurrency, 2026.
+    IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2026.
   </em>
 </div>
 
@@ -201,7 +201,7 @@ Selected Publications
     Y. Li, Y. Xiang, Q. Wang, T. H. Yuen, A. Deppeler, and J. Yu
   </span> <br />
   <em style="font-size: 0.9em; color: #888;">
-    IEEE International Conference on Blockchain and Cryptocurrency, 2026.
+    IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2026.
   </em>
 </div>
 
@@ -243,6 +243,6 @@ Selected Publications
     Y. Xiang, T. Li, and Y. Li
   </span> <br />
   <em style="font-size: 0.9em; color: #888;">
-    IEEE International Conference on Big Data, 2022.
+    IEEE International Conference on Big Data (Big Data), 2022.
   </em>
 </div>
