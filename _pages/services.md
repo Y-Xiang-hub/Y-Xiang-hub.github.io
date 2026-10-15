@@ -26,7 +26,7 @@ redirect_from:
   </li>
   <li>
    <strong>Reviewer/Sub-reviewer:</strong>
-    KDD’25 ADS Track (Outstanding Reviewer)/26 ADS Track/27 D&B Track, NDSS'26, DSN'25, WWW'25, IJCNN'25/27, ICLR'25/26 Workshop on Advances in Financial AI, ACM ICAIF 2026 Workshop AI4F 
+    KDD’25 ADS Track (Outstanding Reviewer)/26 ADS Track/27 D&B Track, NDSS'26, DSN'25, WWW'25, IJCNN'25/27, ICLR'25/26 Workshop on Advances in Financial AI, ACM ICAIF'26 Workshop AI4F 
   </li>
 </ul>
 
