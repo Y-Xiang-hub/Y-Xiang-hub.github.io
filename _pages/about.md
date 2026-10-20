@@ -46,6 +46,7 @@ News
 </style>
 
 <ul class="list__news">
+  <li><span class="date">[Oct'26]</span> I'm pleased to serve as PC member for <strong>ACM SAC'26</strong>.</li>
   <li><span class="date">[Sep'26]</span> I'm honored to be appointed as <strong>DFCRC Affiliated PhD Student</strong>.</li>
   <li><span class="date">[Aug'26]</span> I'm pleased to serve as TPC member for <strong>BCK'26</strong>.</li>
   <li><span class="date">[Jun'26]</span> I'm pleased to serve as TPC member for <strong>BCCA'26</strong>.</li>
