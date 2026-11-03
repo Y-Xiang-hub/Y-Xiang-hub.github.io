@@ -72,6 +72,17 @@ author_profile: true
   <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
     <li>
       <strong>
+        <a href="https://arxiv.org/abs/2611.02530" style="text-decoration: none; color: #007acc;">
+          AMLBench: A Real-Incident Benchmark for Agentic Blockchain Anti-Money Laundering
+        </a>
+      </strong><br />
+      <span>
+        Q. Fu, H. Zheng, Y. Lei, Y. Xiang, Q. Wang, Y. Zhang, S. Chen, A. Deppeler, J. Liu, Z. Liu, and T. H. Yuen
+      </span><br />
+      <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2026.</em>
+    </li>
+    <li>
+      <strong>
         <a href="https://arxiv.org/abs/2501.18158" style="text-decoration: none; color: #007acc;">
           Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin Case Study
         </a>
