@@ -177,6 +177,20 @@ Education
 
 Selected Publications
 ======
+<div style="margin: 3px 0; padding: 3px;">
+  <strong>
+    <a href="https://arxiv.org/abs/2604.03733" style="text-decoration: none; color: #007acc;">
+      SoK: Blockchain Agent-to-Agent Payments
+    </a>
+  </strong> <br />
+  <span style="font-size: 0.95em; color: #555;">
+    Y. Zhang, Y. Xiang, Y. Lei, Q. Wang, T. Qiu, Y. Sun, S. Zarkov, T. H. Yuen, A. Deppeler, J. Yu, and K. Y. Lam
+  </span> <br />
+  <em style="font-size: 0.9em; color: #888;">
+    Blockchain: Research and Applications, 2026.
+  </em>
+</div>
+
 
 <div style="margin: 3px 0; padding: 3px;">
   <strong>
@@ -203,20 +217,6 @@ Selected Publications
   </span> <br />
   <em style="font-size: 0.9em; color: #888;">
     IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2026.
-  </em>
-</div>
-
-<div style="margin: 3px 0; padding: 3px;">
-  <strong>
-    <a href="https://arxiv.org/abs/2604.03733" style="text-decoration: none; color: #007acc;">
-      SoK: Blockchain Agent-to-Agent Payments
-    </a>
-  </strong> <br />
-  <span style="font-size: 0.95em; color: #555;">
-    Y. Zhang, Y. Xiang, Y. Lei, Q. Wang, T. Qiu, Y. Sun, S. Zarkov, T. H. Yuen, A. Deppeler, J. Yu, and K. Y. Lam
-  </span> <br />
-  <em style="font-size: 0.9em; color: #888;">
-    Blockchain: Research and Applications, 2026.
   </em>
 </div>
 
