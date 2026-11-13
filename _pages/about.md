@@ -46,6 +46,7 @@ News
 </style>
 
 <ul class="list__news">
+  <li><span class="date">[Mar'26]</span> Our paper "The Tell in the Ring: Rethinking Monero’s Ring Privacy via Mining Rewards" has been accepted to <strong>FC'27</strong>.</li>
   <li><span class="date">[Oct'26]</span> I'm pleased to serve as PC member for <strong>ACM SAC'26</strong>.</li>
   <li><span class="date">[Sep'26]</span> I'm honored to be appointed as <strong>DFCRC Affiliated PhD Student</strong>.</li>
   <li><span class="date">[Aug'26]</span> I'm pleased to serve as TPC member for <strong>BCK'26</strong>.</li>
