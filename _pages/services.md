@@ -50,6 +50,7 @@ redirect_from:
   <li>IET Blockchain</li>
   <li>Information Sciences</li>
   <li>Information Processing and Management</li>
+  <li>IEEE Intelligent Systems</li>
   <li>IEEE/CAA Journal of Automatica Sinica</li>
   <li>IEEE Transactions on Intelligent Transportation Systems</li>
   <li>IEEE Transactions on Information Forensics and Security</li>
