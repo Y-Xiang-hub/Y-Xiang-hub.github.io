@@ -19,7 +19,7 @@ redirect_from:
   <li>
     <strong>TPC/PC Member:</strong> 
     ACM SAC'27,
-    IEEE ICSA'27 Workshop TAT
+    IEEE ICSA'27 Workshop TAT,
     BCK'26,
     BCCA'26,
     WWW'26 Industry Track, 
