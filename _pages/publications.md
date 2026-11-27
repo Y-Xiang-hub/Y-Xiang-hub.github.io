@@ -20,6 +20,17 @@ author_profile: true
 <div style="margin: 3px 0; padding: 3px;">
   <ul style="margin: 0; padding-left: 20px; font-size: 0.95em; color: #555; line-height: 1.6;">
   <li>
+  <strong>
+    <a href="https://arxiv.org/abs/2611.32389" style="text-decoration: none; color: #007acc;">
+      AgentBank: Banking on Blockchain Agentic Payments
+    </a>
+  </strong><br />
+  <span>
+    Y. Xiang, M. Perešíni, Y. Lei, Y. Li, Y. Zhang, A. Deppeler, T. H. Yuen, S. Chen, Q. Wang, and B. Stiller
+  </span><br />
+  <em style="font-size: 0.9em; color: #888;">arXiv preprint arXiv:2611.32389, 2026.</em>
+</li>
+  <li>
     <strong>
       <a href="https://doi.org/10.1109/ICBC67748.2026.11575527" style="text-decoration: none; color: #007acc;">
         SoK: Stablecoins in Retail Payments
