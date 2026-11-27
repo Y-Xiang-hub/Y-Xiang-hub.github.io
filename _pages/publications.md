@@ -28,7 +28,7 @@ author_profile: true
   <span>
     Y. Xiang, M. Perešíni, Y. Lei, Y. Li, Y. Zhang, A. Deppeler, T. H. Yuen, S. Chen, Q. Wang, and B. Stiller
   </span><br />
-  <em style="font-size: 0.9em; color: #888;">arXiv preprint arXiv:2611.32389, 2026.</em>
+  <em style="font-size: 0.9em; color: #888;">arXiv preprint, 2026.</em>
 </li>
   <li>
     <strong>
